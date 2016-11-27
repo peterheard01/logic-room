@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  line-height: 1.2;
+  font-size: 16px;
+}
+
+.wrapper {
+  width: 1440px;
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+.centered {
+  text-align: center;
+}
+
+h1 {
+  padding: .5em 0 .5em 0;
+}
+h2 {
+  font-family: 'Dosis-Regular';
+  color: $main_color;
+  text-transform: capitalize;
+  font-weight: 500;
+  line-height: 54px;
+}
+h3 {
+  font-family: 'Dosis-light';
+  text-transform: capitalize;
+  margin: 0;
+}
+p {
+  font-family: 'Dosis-ExtraLight';
+  color: #888888;
+}
+a {
+  font-family: 'Dosis-Light';
+  font-size: em(18);
+  font-weight: 700;
+  line-height: 54px;
+  text-decoration: none;
+}
+.material-icons {
+  display: inline-flex;
+  vertical-align: middle;
+  padding-bottom: .3em;
+}

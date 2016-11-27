@@ -1,0 +1,68 @@
+#-------------------------------------------
+# Headers section
+headers:
+- {title: '<h1 class="title">We create Web, Mobile and Enterprise Solutions for organisations <span>that leaves them with a smile on their face...</span></h1>',
+  content: '<p class="content">pssst... we also offer training and code reviews check out full list of services.</p>'}
+
+#-------------------------------------------
+# Services section
+services:
+- {first_title: '<h3 class="title">training And Guidance</h3>',
+   first_content: '<p class="content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>',
+   second_title: '<h3 class="title">Code Reviews and <br> Legacy Code Cleanup</h3>',
+   second_content: '<p class="content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>',
+   third_title: '<h3 class="title">Build Web, Mobile And Backend</h3>',
+   third_content: '<p class="content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>'}
+
+#-------------------------------------------
+# Projects section
+projects:
+- {first_title: '<h3 class="title">Cisco Systems</h3>',
+   first_content: '<p class="content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>',
+   second_title: '<h3 class="title">Tristar Worldwide Chauffeur Services</h3>',
+   second_content: '<p class="content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>'}
+
+
+#-------------------------------------------
+# inquire section
+inquires:
+- {first_title: '<h3 class="title">Experts in Test Driven Development</h3>',
+   first_content: '<p class="content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>',
+   second_title: '<h3 class="title">Software Architecture</h3>',
+   second_content: '<p class="content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>'}
+
+#-------------------------------------------
+# Slider section
+sliders:
+- {image: 'photo.png',
+  name: 'Scott Summers',
+  description: 'Director of Design, OnToText Ind.',
+  content: '<p class="content"><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>'}
+- {image: 'photo.png',
+  name: 'Scott Summers',
+  description: 'Director of Design, OnToText Ind.',
+  content: '<p class="content"><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>'}
+- {image: 'photo.png',
+  name: 'Scott Summers',
+  description: 'Director of Design, OnToText Ind.',
+  content: '<p class="content"><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>'}
+
+#-------------------------------------------
+# Works section
+works:
+- {content_first: '<p class="content">dings on all of my boards, a permanent salt water/urine stench in my wetsuit, and a giant grin from ear to ear. This is the beautiful state of being completely surfed out in Peru.</p>',
+  content_second: '<p class="content">While we all felt that Travis was a great asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
+  project_first: '<p class="title">Project code quality and architecture</p>',
+  project_second: '<p class="title">Ensuring enough specification and estimation is complete</p>',
+  project_third: '<p class="title">Tracking and keeping the client aware of progress</p>',
+  project_fourth: '<p class="title">Tracking and keeping the client aware of progress</p>',
+  content_third: '<p class="content">Seasoned programmers with years of industry experience, our leaders undergo extensive traning and mentorship in cutting edge technical disciplines, management and people skills. This given them an unrivalled advantage dealing with complex organisations and environments.</p>',
+  content_fourth: '<p class="content">Any of our training and code reviews are also carried out by one of our technical leaders.</p>'}
+
+#-------------------------------------------
+# footer section
+footers:
+- {phone: '<p>Phone 07889 812 612</p>',
+  email: '<p>E-mail hq@logicroom.co</p>',
+  location: '<p>85A Westbourne Terrace <br>Reading <br> RG30 2RP</p>',
+  company: '<p>Registered Company: 7872364</p>'}

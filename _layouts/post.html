@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<section id="post">
+  <div class="wrapper">
+    <article class="post">
+      <h2 class="title">{{ page.title }}</h2>
+      <p class="content">By {{ page.author }} | {{ page.date | date: "%B, %d, %Y %R %P" }}</p>
+
+      {{ content }}
+
+    </article>
+    <a class="waves-effect waves-light btn-large" href="{{ site.baseurl }}/"><i class="material-icons left">replay</i>Main page</a>
+    {% include disqus.html %}
+  </div>
+</section>

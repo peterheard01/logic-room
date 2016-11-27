@@ -1,0 +1,21 @@
+---
+---
+
+@import "1-libs/bourbon/bourbon";
+@import "1-libs/materialize";
+@import "1-libs/magnific";
+@import "1-libs/owl";
+
+// 2 - MODULES
+@import '2-modules/animations';
+
+// 3 - BASE
+@import '3-base/fonts';
+@import '3-base/vars';
+@import '3-base/body-element';
+@import '3-base/globals';
+@import '3-base/_grid.scss';
+
+// 4 - PAGES
+@import '4-main-page/main-page';
+@import "4-main-page/mediaquerys";
