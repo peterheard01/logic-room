@@ -91,6 +91,15 @@
           img {
             max-width: 40%;
           }
+          .city-scape {
+            display: none;
+          }
+          .blue-blocks-left {
+            display: none;
+          }
+          .blue-blocks-right {
+            display: none;
+          }
         }
       }
       .wrapper {
@@ -225,13 +234,15 @@
             max-width: 30%;
             padding-top: .5em;
           }
-          //.city-scape {
-          //  position: absolute;
-          //  bottom: 0px;
-          //  top: 168px;
-          //  margin-right: 30%;
-          //  display: none;
-          //}
+          .city-scape {
+            display: none;
+          }
+          .blue-blocks-left {
+            display: none;
+          }
+          .blue-blocks-right {
+            display: none;
+          }
         }
       }
       .wrapper {
@@ -345,7 +356,6 @@
           padding-left: 2.5em;
         }
         .landing {
-
           padding-top: 3em;
           .lines {
             text-align: left;
@@ -362,6 +372,15 @@
           }
           img {
             max-width: 200%;
+          }
+          .city-scape {
+            display: none;
+          }
+          .blue-blocks-left {
+            display: none;
+          }
+          .blue-blocks-right {
+            display: none;
           }
         }
       }
@@ -484,6 +503,22 @@
           padding-top: 5em;
           .title {
             padding-top: 1em;
+          }
+          .city-scape {
+            position: absolute;
+            bottom:0px;
+            display:inline;
+          }
+          .blue-blocks-left {
+            position: absolute;
+            top:-35px;
+            display:inline;
+          }
+          .blue-blocks-right {
+            position: absolute;
+            top:-35px;
+            right:0px;
+            display:inline;
           }
 
         }
