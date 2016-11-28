@@ -64,11 +64,11 @@
         .lines {
           text-align: center;
         }
-        .background .title {
+        .landing .title {
           padding: 0;
 
         }
-        .background {
+        .landing {
           padding-top: 1em;
           .lines {
             text-align: center;
@@ -206,10 +206,10 @@
         .image_right {
           display: none;
         }
-        .background .title {
+        .landing .title {
           padding-left: 0;
         }
-        .background {
+        .landing {
           padding-top: 1em;
           .lines {
             text-align: center;
@@ -333,10 +333,10 @@
         .lines {
           text-align: left;
         }
-        .background .title {
+        .landing .title {
           padding-left: 2.5em;
         }
-        .background {
+        .landing {
           padding-top: 3em;
           .lines {
             text-align: left;
@@ -471,7 +471,7 @@
             font-size: em(18);
           }
         }
-        .background {
+        .landing {
           padding-top: 5em;
           .title {
             padding-top: 1em;
@@ -582,7 +582,7 @@
             font-size: em(20);
           }
         }
-        .background {
+        .landing {
           padding-top: 5em;
           .title {
             padding-top: .6em;

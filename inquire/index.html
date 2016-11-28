@@ -2,24 +2,4 @@
 layout: default
 ---
 
-<section id="main">
-
-  {% include navigation/navigation_external.html %}
-
-</section>
-
-<!-- SECTION: Recent Articles -->
-<section id="articles">
-  <div class="wrapper">
-    <h2>Recent articles</h2>
-    <div class="row">
-      {% for post in site.posts limit:6 %}
-
-      <h3>{{post.title}}</h3>
-
-      {% endfor %}
-    </div>
-  </div>
-
-</section>
-<!-- END SECTION: Recent Articles -->
+{% include navigation/navigation_external.html %}
