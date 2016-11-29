@@ -1,0 +1,21 @@
+- text: services
+  url: '#service'
+  path: '/'
+
+- text: past projects
+  url: '#projects'
+  path: '/'
+
+- text: about us
+  url: '#our_work'
+  path: '/'
+
+- text: blog
+  url: 'blog/'
+  path: '/blog/'
+
+- text: inquire
+  url: 'inquire/'
+  path: '/inquire/'
+  class: 'waves-light btn'
+

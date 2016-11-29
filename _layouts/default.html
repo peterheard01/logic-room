@@ -13,6 +13,9 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/main.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
+    <meta property="og:image" content="/img/lr.jpg"/>
+    <link rel="shortcut icon" href="/favicon.ico">
+
     <!-- Material Design icons -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   </head>
@@ -22,6 +25,8 @@
     {% include analytics.html %}
 
     <section id="main" class="background jumbo">
+
+      {% include navigation.html %}
 
       {{content}}
 
