@@ -9,7 +9,7 @@
         {% for nav in site.data.navigation %}
         <li>
           {% if page.url == '/' %}
-            <a href="{{nav.url}}">{{nav.text}}</a>
+            <a class="{{nav.class}}" href="{{nav.url}}">{{nav.text}}</a>
           {% else %}
             <a class="{% if page.url ==  nav.path %}current {% endif %}{{nav.class}}" href="/{{nav.url}}">{{nav.text}}</a>
           {% endif %}
@@ -22,9 +22,9 @@
         {% for nav in site.data.navigation %}
         <li>
           {% if page.url == '/' %}
-          <a href="{{nav.url}}">{{nav.text}}</a>
+          <a class="{{nav.class}}" href="{{nav.url}}">{{nav.text}}</a>
           {% else %}
-          <a href="/{{nav.url}}">{{nav.text}}</a>
+          <a class="{{nav.class}}" href="/{{nav.url}}">{{nav.text}}</a>
           {% endif %}
         </li>
         {% endfor %}
