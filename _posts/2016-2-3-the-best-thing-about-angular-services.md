@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Duis Autem Vel Eum Iriure Dolor In Hendrerit
+title: The Best Thing About Angular Services
 author: Pete Heard
 excerpt: Next you can update your site name, avatar and other options using the Next you can update your site name, avatar and ...
 thumbnail: 404.jpg
-date:   2016-03-3 11:56:50 +0000
+date:   2016-02-3 01:03:50 +0000
 ---
 
 sadasdas
