@@ -2,11 +2,15 @@
 layout: default
 ---
 
-<section id="content">
+
+<section id="main" class="post">
+
   <div class="wrapper">
 
-    <h2 style="margin-top:0px;" class="title">{{ page.title }}</h2>
-    <p style="margin : 0 0 0 0; color:black;">Posted by {{ page.author }} | {{ page.date | date: "%B, %d, %Y" }}</p>
+    <br>
+
+    <h3 class="title">{{ page.title }}</h3>
+    <p class="posted-by">Posted by {{ page.author }} | {{ page.date | date: "%B, %d, %Y" }}</p>
 
     <p>
       {{ content }}
@@ -15,3 +19,6 @@ layout: default
   </div>
 
 </section>
+
+
+
