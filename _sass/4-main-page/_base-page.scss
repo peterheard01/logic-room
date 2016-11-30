@@ -1,0 +1,16 @@
+#content {
+  @include padding(5em null 5em null);
+  position: relative;
+  .main_title {
+    padding-bottom: .5em;
+  }
+  .image {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  background-image: url("/images/grey-blocks-left.png");
+  background-repeat: no-repeat;
+  background-position: top left;
+  height:1200px;
+}
