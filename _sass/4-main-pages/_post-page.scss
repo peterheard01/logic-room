@@ -7,5 +7,20 @@
     }
   }
 
+}
+
+
+@media only screen and (min-width : 768px) {
+
+  .highlight {
+
+    font-size :  em(18);
+
+
+  }
+
+  .highlighter-rouge {
+    font-size :  em(14);
+  }
 
 }
