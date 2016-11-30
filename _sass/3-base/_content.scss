@@ -1,0 +1,16 @@
+#content {
+  position: relative;
+  background-image: url("/images/grey-blocks-left.png");
+  background-repeat: no-repeat;
+  background-position: top left;
+  height:1200px;
+
+  p {
+    font-size:1.2em;
+  }
+
+  blockquote p {
+    font-style : italic;
+  }
+
+}
