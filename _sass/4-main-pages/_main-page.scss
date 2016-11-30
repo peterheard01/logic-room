@@ -17,6 +17,13 @@
   }
 }
 
+.image.mobile {
+  width:100% !important;
+  .img-responsive {
+    width:100%;
+  }
+}
+
 #main {
   .nav-wrapper {
     width: 1440px;
