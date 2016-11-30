@@ -4,10 +4,12 @@ layout: default
 
 <section id="content">
   <div class="wrapper">
-    <h2 class="main_title">our services</h2>
+
+    <h2 class="title">{{ page.title }}</h2>
+    <p class="content">Posted by {{ page.author }} | {{ page.date | date: "%B, %d, %Y" }}</p>
 
     <p class="content">
-      asdfasdj
+      {{ content }}
     </p>
 
   </div>
