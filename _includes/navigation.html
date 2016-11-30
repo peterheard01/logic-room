@@ -17,19 +17,19 @@
         {% endfor %}
       </ul>
 
+      <ul class="side-nav right overlay-menu right-aligned" id="mobile-demo">
 
-      <ul class="side-nav right overlay-menu" id="mobile-demo">
         {% for nav in site.data.navigation %}
         <li>
           {% if page.url == '/' %}
-          <a class="{{nav.class}}" href="{{nav.url}}">{{nav.text}}</a>
+          <a href="{{nav.url}}">{{nav.text}}</a>
           {% else %}
-          <a class="{{nav.class}}" href="/{{nav.url}}">{{nav.text}}</a>
+          <a href="/{{nav.url}}">{{nav.text}}</a>
           {% endif %}
         </li>
         {% endfor %}
-      </ul>
 
+      </ul>
 
     </div>
   </nav>
