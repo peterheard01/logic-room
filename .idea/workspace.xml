@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/1_angular_2_modules_and_components_article/2016-2-12-modules-and-components-article.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/1_angular_2_modules_and_components_article/2016-2-3-modules-and-components-article.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-12-02-welcome-to-jekyll.markdown" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/1_angular_2_modules_and_components_article/2016-2-3-modules-and-components-article.md" afterPath="$PROJECT_DIR$/_posts/1_angular_2_modules_and_components_article/2016-2-3-modules-and-components-article.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/1-libs/bourbon/css3/_selection.scss" afterPath="$PROJECT_DIR$/_sass/1-libs/bourbon/css3/_selection.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/4-main-pages/_post-page.scss" afterPath="$PROJECT_DIR$/_sass/4-main-pages/_post-page.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,31 +26,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2016-12-02-welcome-to-jekyll.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-12-02-welcome-to-jekyll.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-2-3-modules-and-components-article.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/1_angular_2_modules_and_components_article/2016-2-3-modules-and-components-article.md">
+      <file leaf-file-name="2016-2-12-modules-and-components-article.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/1_angular_2_modules_and_components_article/2016-2-12-modules-and-components-article.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+                <folding>
+                  <marker date="1480663610000" expanded="true" signature="2701:3330" ph="..." />
+                  <marker date="1480663610000" expanded="true" signature="3240:3322" ph="..." />
+                  <marker date="1480663610000" expanded="true" signature="3674:5052" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="3687:3754" ph="{&quot;npm:&quot;: 'node_modules/'...}" />
+                  <marker date="1480663610000" expanded="true" signature="3825:4697" ph="{&quot;app&quot;: 'app'...}" />
+                  <marker date="1480663610000" expanded="true" signature="4802:5048" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="4815:4882" ph="{&quot;main&quot;: './main.js'...}" />
+                  <marker date="1480663610000" expanded="true" signature="4896:4936" ph="{&quot;defaultExtension&quot;: 'js'...}" />
+                  <marker date="1480663610000" expanded="true" signature="4974:5042" ph="{&quot;main&quot;: './index.js'...}" />
+                  <marker date="1480663610000" expanded="true" signature="5572:5682" ph="..." />
+                  <marker date="1480663610000" expanded="true" signature="7894:8042" ph="..." />
+                  <marker date="1480663610000" expanded="true" signature="8054:8151" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="8176:8240" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="8193:8238" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="11485:11575" ph="..." />
+                  <marker date="1480663610000" expanded="true" signature="11587:11717" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="11744:11746" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="12288:12419" ph="{&quot;selector&quot;: 'child-component'...}" />
+                  <marker date="1480663610000" expanded="true" signature="12448:12450" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="12633:12770" ph="{&quot;selector&quot;: 'my-app'...}" />
+                  <marker date="1480663610000" expanded="true" signature="13962:14122" ph="..." />
+                  <marker date="1480663610000" expanded="true" signature="14148:14263" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="14290:14292" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="14517:14676" ph="{&quot;selector&quot;: 'child-component'...}" />
+                  <marker date="1480663610000" expanded="true" signature="14705:14707" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="15188:15289" ph="..." />
+                  <marker date="1480663610000" expanded="true" signature="15301:15397" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="15429:15431" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="15567:15663" ph="{&quot;selector&quot;: 'grand-child-component'...}" />
+                  <marker date="1480663610000" expanded="true" signature="15697:15699" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="18185:18318" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="18345:18347" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="18488:18614" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="18646:18648" ph="{...}" />
+                  <marker date="1480663610000" expanded="true" signature="18930:19093" ph="{&quot;selector&quot;: 'grand-child-component'...}" />
+                  <marker date="1480663610000" expanded="true" signature="19127:19129" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/main.scss">
+      <file leaf-file-name="copy_post_images.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_plugins/copy_post_images.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -64,41 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="16" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6525">
-              <caret line="450" column="0" lean-forward="false" selection-start-line="450" selection-start-column="0" selection-end-line="450" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -112,24 +104,58 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2016-12-02-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_posts/1_angular_2_modules_and_components_article/2016-2-12-modules-and-components-article.md" />
+        <option value="$PROJECT_DIR$/_plugins/copy_post_images.rb" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="158" />
-    <option name="y" value="73" />
-    <option name="width" value="1538" />
-    <option name="height" value="908" />
+    <option name="x" value="113" />
+    <option name="y" value="28" />
+    <option name="width" value="1460" />
+    <option name="height" value="950" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -158,6 +184,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3_logic_room_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3_logic_room_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3_logic_room_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3_logic_room_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1_angular_2_modules_and_components_article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -165,8 +223,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -176,6 +233,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -255,23 +313,24 @@
       <updated>1480659213890</updated>
       <workItem from="1480659215269" duration="1198000" />
       <workItem from="1480662448831" duration="383000" />
-      <workItem from="1480663063304" duration="39000" />
+      <workItem from="1480663063304" duration="1684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1620000" />
+    <option name="totallyTimeSpent" value="3265000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="158" y="73" width="1538" height="908" extended-state="0" />
-    <editor active="true" />
+    <frame x="113" y="28" width="1460" height="950" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24456163" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24252954" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36596736" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2855392" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2937063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -414,14 +473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="16" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -446,10 +497,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-12-02-welcome-to-jekyll.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/1_angular_2_modules_and_components_article/2016-2-12-modules-and-components-article.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <folding>
+              <marker date="1480663610000" expanded="true" signature="2701:3330" ph="..." />
+              <marker date="1480663610000" expanded="true" signature="3240:3322" ph="..." />
+              <marker date="1480663610000" expanded="true" signature="3674:5052" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="3687:3754" ph="{&quot;npm:&quot;: 'node_modules/'...}" />
+              <marker date="1480663610000" expanded="true" signature="3825:4697" ph="{&quot;app&quot;: 'app'...}" />
+              <marker date="1480663610000" expanded="true" signature="4802:5048" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="4815:4882" ph="{&quot;main&quot;: './main.js'...}" />
+              <marker date="1480663610000" expanded="true" signature="4896:4936" ph="{&quot;defaultExtension&quot;: 'js'...}" />
+              <marker date="1480663610000" expanded="true" signature="4974:5042" ph="{&quot;main&quot;: './index.js'...}" />
+              <marker date="1480663610000" expanded="true" signature="5572:5682" ph="..." />
+              <marker date="1480663610000" expanded="true" signature="7894:8042" ph="..." />
+              <marker date="1480663610000" expanded="true" signature="8054:8151" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="8176:8240" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="8193:8238" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="11485:11575" ph="..." />
+              <marker date="1480663610000" expanded="true" signature="11587:11717" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="11744:11746" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="12288:12419" ph="{&quot;selector&quot;: 'child-component'...}" />
+              <marker date="1480663610000" expanded="true" signature="12448:12450" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="12633:12770" ph="{&quot;selector&quot;: 'my-app'...}" />
+              <marker date="1480663610000" expanded="true" signature="13962:14122" ph="..." />
+              <marker date="1480663610000" expanded="true" signature="14148:14263" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="14290:14292" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="14517:14676" ph="{&quot;selector&quot;: 'child-component'...}" />
+              <marker date="1480663610000" expanded="true" signature="14705:14707" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="15188:15289" ph="..." />
+              <marker date="1480663610000" expanded="true" signature="15301:15397" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="15429:15431" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="15567:15663" ph="{&quot;selector&quot;: 'grand-child-component'...}" />
+              <marker date="1480663610000" expanded="true" signature="15697:15699" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="18185:18318" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="18345:18347" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="18488:18614" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="18646:18648" ph="{...}" />
+              <marker date="1480663610000" expanded="true" signature="18930:19093" ph="{&quot;selector&quot;: 'grand-child-component'...}" />
+              <marker date="1480663610000" expanded="true" signature="19127:19129" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_plugins/copy_post_images.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding />
         </state>
       </provider>
