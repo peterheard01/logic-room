@@ -13,86 +13,40 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-# Name of your site (displayed in the header)
-name: Logic Room
-
-# Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
+title: Your awesome title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email:
-  facebook: example
-  flickr:
-  github: example
-  instagram:
-  linkedin: example
-  pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: example
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: jexample # channel/<your_long_string> or user/<user-name>
-  googleplus: example # anything in your profile username that comes after plus.google.com/
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
-
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :compressed # You might prefer to minify using :compressed
-
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
-permalink: /:title/
 markdown: kramdown
-# !github-pages! mandatory › https://help.github.com/articles/using-jekyll-with-pages/#configuration-settings-you-cannot-change
-# Since Jekyll 3 the default highlighter is Rouge (replaced Pygments.rb in v44)
-highlighter: rouge
-linenos : true
+theme: minima
+kramdown:
+  input:          GFM
+  # https://github.com/jekyll/jekyll/pull/4090
+  syntax_highlighter: rouge
 
-## More › http://kramdown.gettalong.org/quickref.html
-## Options › http://kramdown.gettalong.org/options.html
-#kramdown:
-#  input:          GFM
-#  # https://github.com/jekyll/jekyll/pull/4090
-#  syntax_highlighter: rouge
-#
-#  # Rouge Highlighter in Kramdown › http://kramdown.gettalong.org/syntax_highlighter/rouge.html
-#  # span, block element options fall back to global
-#  syntax_highlighter_opts:
-#    # Rouge Options › https://github.com/jneen/rouge#full-options
-#    css_class: 'highlight'
-#    #line_numbers: true # bad idea, spans don't need linenos and would inherit this option
-#    span:
-#      line_numbers: true
-#      start_line: 1
-#    block:
-#      line_numbers: true
-#      start_line: 1
-
+  # Rouge Highlighter in Kramdown › http://kramdown.gettalong.org/syntax_highlighter/rouge.html
+  # span, block element options fall back to global
+  syntax_highlighter_opts:
+    # Rouge Options › https://github.com/jneen/rouge#full-options
+    css_class: 'highlight'
+    #line_numbers: true # bad idea, spans don't need linenos and would inherit this option
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 
 
 gems:
   - jekyll-feed
-
 exclude:
   - Gemfile
   - Gemfile.lock
-  - README.md
-  - CNAME

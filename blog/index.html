@@ -2,14 +2,16 @@
 layout: default
 ---
 
-<section id="main" class="post">
+<section id="main" class="site">
 
   <div class="wrapper">
 
+    <br>
+
     {% for post in site.posts limit:6 %}
 
-    <p><a href="{{post.url}}"><h3>{{post.title}} >> </h3></a> Posted by {{ post.author }} | {{ post.date | date: "%B, %d, %Y" }}</p>
-    <p>{{ post.excerpt }}</p>
+    <a href="{{post.url}}"><h3>{{post.title}} </h3></a> Posted by {{ post.author }} | {{ post.date | date: "%B, %d, %Y" }}
+    <p class="small-p">{{ post.excerpt }}</p>
 
     {% endfor %}
 

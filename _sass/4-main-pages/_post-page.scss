@@ -1,3 +1,25 @@
+#main .site {
+  h2, h3 {
+    margin:0;
+  }
+  position: relative;
+  background-image: url("/images/grey-blocks-left.png");
+  background-repeat: no-repeat;
+  background-position: top left;
+  height:1200px;
+
+  blockquote p {
+    font-style : italic;
+  }
+
+  .small-p{
+    margin:0px;
+  }
+}
+
+
+
+
 @media only screen and (min-width : 992px) {
 
 
