@@ -20,10 +20,13 @@
 }
 
 .highlighter-rouge {
-  background-color: #07121b;
+  background-color: #f8931d;
   color:white;
-  padding:0 3px 0 3px;
-  font-size :  em(14);
+  padding:1px 3px 1px 3px;
+  font-size :  em(10);
+  border-radius: 3px;
+  display:inline-block;
+  line-height: 1.1;
 }
 
 
