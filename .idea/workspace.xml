@@ -20,68 +20,46 @@
     <favorites_list name="site" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2016-2-12-modules-and-components-article.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/1_angular_2_modules_and_components_article/2016-2-12-modules-and-components-article.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-                <folding>
-                  <marker date="1480757711000" expanded="true" signature="2701:3330" ph="..." />
-                  <marker date="1480757711000" expanded="true" signature="3240:3322" ph="..." />
-                  <marker date="1480757711000" expanded="true" signature="3674:5052" ph="{...}" />
-                  <marker date="1480757711000" expanded="true" signature="3687:3754" ph="{&quot;npm:&quot;: 'node_modules/'...}" />
-                  <marker date="1480757711000" expanded="true" signature="3825:4697" ph="{&quot;app&quot;: 'app'...}" />
-                  <marker date="1480757711000" expanded="true" signature="4802:5048" ph="{...}" />
-                  <marker date="1480757711000" expanded="true" signature="4815:4882" ph="{&quot;main&quot;: './main.js'...}" />
-                  <marker date="1480757711000" expanded="true" signature="4896:4936" ph="{&quot;defaultExtension&quot;: 'js'...}" />
-                  <marker date="1480757711000" expanded="true" signature="4974:5042" ph="{&quot;main&quot;: './index.js'...}" />
-                  <marker date="1480757711000" expanded="true" signature="7894:8042" ph="..." />
-                  <marker date="1480757711000" expanded="true" signature="8054:8151" ph="{...}" />
-                  <marker date="1480757711000" expanded="true" signature="8176:8240" ph="{...}" />
-                  <marker date="1480757711000" expanded="true" signature="8193:8238" ph="{...}" />
-                  <marker date="1480757711000" expanded="true" signature="12633:12770" ph="{&quot;selector&quot;: 'my-app'...}" />
-                  <marker date="1480757711000" expanded="true" signature="18185:18318" ph="{...}" />
-                  <marker date="1480757711000" expanded="true" signature="18345:18347" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_body-element.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_sass/3-base/_body-element.scss">
+    <leaf>
+      <file leaf-file-name="navigation.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="23" />
+            <state relative-caret-position="135">
+              <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CNAME" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CNAME">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+            <state relative-caret-position="165">
+              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_mediaquerys.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_sass/4-main-pages/_mediaquerys.scss">
+      <file leaf-file-name="projects.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+            <state relative-caret-position="15">
+              <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="how_we_work.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/how_we_work.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="53" lean-forward="false" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="53" />
               <folding>
-                <element signature="e#295#3888#0" expanded="false" />
-                <element signature="e#3975#6239#0" expanded="false" />
-                <element signature="e#6321#9441#0" expanded="false" />
-                <element signature="e#9525#11960#0" expanded="false" />
-                <element signature="e#12048#13985#0" expanded="false" />
+                <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#section#0;n#!!top" expanded="true" />
+                <marker date="1480788304000" expanded="false" signature="83333:756827" ph="data:" />
               </folding>
             </state>
           </provider>
@@ -92,7 +70,25 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>#foot</find>
+      <find>Wiring up</find>
+      <find>font</find>
+      <find>text-tra</find>
+      <find>btn</find>
+      <find>service</find>
+      <find>text</find>
+      <find>#inqui</find>
+      <find>services</find>
+      <find>our_wor</find>
+      <find>experts</find>
+      <find>content</find>
+      <find>.landing</find>
     </findStrings>
+    <replaceStrings>
+      <replace>services</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/_sass/4-main-pages</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,15 +98,31 @@
       <list>
         <option value="$PROJECT_DIR$/_posts/2016-12-02-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/_site/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_posts/1_angular_2_modules_and_components_article/2016-2-12-modules-and-components-article.md" />
         <option value="$PROJECT_DIR$/_plugins/copy_post_images.rb" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_sass/4-main-pages/_main-page.scss" />
-        <option value="$PROJECT_DIR$/_sass/3-base/_vars.scss" />
         <option value="$PROJECT_DIR$/assets/main.scss" />
-        <option value="$PROJECT_DIR$/_sass/3-base/_body-element.scss" />
         <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_posts/1_angular_2_modules_and_components_article/2016-2-12-modules-and-components-article.md" />
+        <option value="$PROJECT_DIR$/_sass/3-base/_highlight.scss" />
+        <option value="$PROJECT_DIR$/blog/index.html" />
+        <option value="$PROJECT_DIR$/framework/index.html" />
+        <option value="$PROJECT_DIR$/_sass/3-base/_vars.scss" />
+        <option value="$PROJECT_DIR$/_includes/service.html" />
+        <option value="$PROJECT_DIR$/_includes/landing.html" />
+        <option value="$PROJECT_DIR$/_includes/services.html" />
+        <option value="$PROJECT_DIR$/_includes/inquire.html" />
+        <option value="$PROJECT_DIR$/_sass/3-base/_body-element.scss" />
+        <option value="$PROJECT_DIR$/_data/settings.yml" />
+        <option value="$PROJECT_DIR$/_includes/experts.html" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_includes/our_work.html" />
+        <option value="$PROJECT_DIR$/_sass/4-main-pages/_main-page.scss" />
+        <option value="$PROJECT_DIR$/_includes/slider.html" />
+        <option value="$PROJECT_DIR$/_sass/4-main-pages/_mediaquerys.scss" />
+        <option value="$PROJECT_DIR$/_includes/projects.html" />
+        <option value="$PROJECT_DIR$/_data/navigation.yml" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -127,10 +139,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="102" />
-    <option name="y" value="82" />
-    <option name="width" value="1536" />
-    <option name="height" value="892" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="817" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -176,6 +187,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -188,24 +200,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3_logic_room_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3_logic_room_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,7 +297,8 @@
       <workItem from="1480659215269" duration="1198000" />
       <workItem from="1480662448831" duration="383000" />
       <workItem from="1480663063304" duration="1684000" />
-      <workItem from="1480756815845" duration="1059000" />
+      <workItem from="1480756815845" duration="5506000" />
+      <workItem from="1480774785130" duration="13072000" />
     </task>
     <task id="LOCAL-00001" summary="fixed footer">
       <created>1480757094173</created>
@@ -316,33 +314,159 @@
       <option name="project" value="LOCAL" />
       <updated>1480757679036</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixed footer">
+      <created>1480758883394</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1480758883394</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed footer">
+      <created>1480759378490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1480759378490</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added framework table">
+      <created>1480760216597</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1480760216597</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added framework table">
+      <created>1480760942302</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1480760942302</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added framework table">
+      <created>1480761860217</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1480761860217</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added framework table">
+      <created>1480762377272</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1480762377272</updated>
+    </task>
+    <task id="LOCAL-00009" summary="half way through fixing the button issue">
+      <created>1480776714037</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1480776714037</updated>
+    </task>
+    <task id="LOCAL-00010" summary="half way through fixing the button issue">
+      <created>1480777287165</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1480777287165</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added live issue">
+      <created>1480777782969</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1480777782969</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added live issue">
+      <created>1480781170997</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1480781170997</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added live issue">
+      <created>1480781977995</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1480781977995</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fixed services">
+      <created>1480782648401</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1480782648401</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fixed services">
+      <created>1480783675381</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1480783675381</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fixed services">
+      <created>1480784177683</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1480784177683</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fixed services">
+      <created>1480785570204</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1480785570204</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fixed services">
+      <created>1480786402679</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1480786402679</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fixed services">
+      <created>1480787445094</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1480787445094</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fixed services">
+      <created>1480788279880</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1480788279880</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4324000" />
+    <option name="totallyTimeSpent" value="21843000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="102" y="82" width="1536" height="892" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="817" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24224423" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20014094" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36596736" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.60551727" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,7 +482,11 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="fixed footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed footer" />
+    <MESSAGE value="added framework table" />
+    <MESSAGE value="half way through fixing the button issue" />
+    <MESSAGE value="added live issue" />
+    <MESSAGE value="fixed services" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed services" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -370,24 +498,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-            <folding>
-              <marker date="1480757711000" expanded="true" signature="2701:3330" ph="..." />
-              <marker date="1480757711000" expanded="true" signature="3240:3322" ph="..." />
-              <marker date="1480757711000" expanded="true" signature="3674:5052" ph="{...}" />
-              <marker date="1480757711000" expanded="true" signature="3687:3754" ph="{&quot;npm:&quot;: 'node_modules/'...}" />
-              <marker date="1480757711000" expanded="true" signature="3825:4697" ph="{&quot;app&quot;: 'app'...}" />
-              <marker date="1480757711000" expanded="true" signature="4802:5048" ph="{...}" />
-              <marker date="1480757711000" expanded="true" signature="4815:4882" ph="{&quot;main&quot;: './main.js'...}" />
-              <marker date="1480757711000" expanded="true" signature="4896:4936" ph="{&quot;defaultExtension&quot;: 'js'...}" />
-              <marker date="1480757711000" expanded="true" signature="4974:5042" ph="{&quot;main&quot;: './index.js'...}" />
-              <marker date="1480757711000" expanded="true" signature="7894:8042" ph="..." />
-              <marker date="1480757711000" expanded="true" signature="8054:8151" ph="{...}" />
-              <marker date="1480757711000" expanded="true" signature="8176:8240" ph="{...}" />
-              <marker date="1480757711000" expanded="true" signature="8193:8238" ph="{...}" />
-              <marker date="1480757711000" expanded="true" signature="12633:12770" ph="{&quot;selector&quot;: 'my-app'...}" />
-              <marker date="1480757711000" expanded="true" signature="18185:18318" ph="{...}" />
-              <marker date="1480757711000" expanded="true" signature="18345:18347" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -397,7 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -405,7 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -423,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="44" column="19" lean-forward="false" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -464,7 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -482,14 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6525">
           <caret line="450" column="0" lean-forward="false" selection-start-line="450" selection-start-column="0" selection-end-line="450" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -512,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -520,15 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/3-base/_vars.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -540,14 +628,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/3-base/_content.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/3-base/_content.scss" />
     <entry file="file://$PROJECT_DIR$/_site/assets/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -564,73 +645,196 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/3-base/_highlight.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/1_angular_2_modules_and_components_article/2016-2-12-modules-and-components-article.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
+        <state split_layout="FIRST">
           <first_editor relative-caret-position="105">
             <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-            <folding>
-              <marker date="1480757711000" expanded="true" signature="2701:3330" ph="..." />
-              <marker date="1480757711000" expanded="true" signature="3240:3322" ph="..." />
-              <marker date="1480757711000" expanded="true" signature="3674:5052" ph="{...}" />
-              <marker date="1480757711000" expanded="true" signature="3687:3754" ph="{&quot;npm:&quot;: 'node_modules/'...}" />
-              <marker date="1480757711000" expanded="true" signature="3825:4697" ph="{&quot;app&quot;: 'app'...}" />
-              <marker date="1480757711000" expanded="true" signature="4802:5048" ph="{...}" />
-              <marker date="1480757711000" expanded="true" signature="4815:4882" ph="{&quot;main&quot;: './main.js'...}" />
-              <marker date="1480757711000" expanded="true" signature="4896:4936" ph="{&quot;defaultExtension&quot;: 'js'...}" />
-              <marker date="1480757711000" expanded="true" signature="4974:5042" ph="{&quot;main&quot;: './index.js'...}" />
-              <marker date="1480757711000" expanded="true" signature="7894:8042" ph="..." />
-              <marker date="1480757711000" expanded="true" signature="8054:8151" ph="{...}" />
-              <marker date="1480757711000" expanded="true" signature="8176:8240" ph="{...}" />
-              <marker date="1480757711000" expanded="true" signature="8193:8238" ph="{...}" />
-              <marker date="1480757711000" expanded="true" signature="12633:12770" ph="{&quot;selector&quot;: 'my-app'...}" />
-              <marker date="1480757711000" expanded="true" signature="18185:18318" ph="{...}" />
-              <marker date="1480757711000" expanded="true" signature="18345:18347" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/framework/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="53" column="54" lean-forward="true" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/3-base/_vars.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/settings.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="57" column="73" lean-forward="false" selection-start-line="57" selection-start-column="73" selection-end-line="57" selection-end-column="73" />
+          <folding>
+            <element signature="e#417#1599#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/experts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="73" lean-forward="false" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#section#0;n#!!top" expanded="true" />
+            <marker date="1480788304000" expanded="false" signature="1921:398467" ph="data:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/slider.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="72" lean-forward="false" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/4-main-pages/_main-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
-          <caret line="301" column="39" lean-forward="false" selection-start-line="301" selection-start-column="39" selection-end-line="301" selection-end-column="39" />
+        <state relative-caret-position="243">
+          <caret line="258" column="18" lean-forward="false" selection-start-line="258" selection-start-column="11" selection-end-line="258" selection-end-column="18" />
           <folding>
-            <element signature="e#207#240#0" expanded="false" />
-            <element signature="e#246#386#0" expanded="false" />
-            <element signature="e#392#476#0" expanded="false" />
-            <element signature="e#482#585#0" expanded="false" />
+            <element signature="e#2538#3102#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/4-main-pages/_mediaquerys.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        <state relative-caret-position="1935">
+          <caret line="448" column="28" lean-forward="false" selection-start-line="448" selection-start-column="28" selection-end-line="448" selection-end-column="28" />
           <folding>
-            <element signature="e#295#3888#0" expanded="false" />
-            <element signature="e#3975#6239#0" expanded="false" />
-            <element signature="e#6321#9441#0" expanded="false" />
-            <element signature="e#9525#11960#0" expanded="false" />
-            <element signature="e#12048#13985#0" expanded="false" />
+            <element signature="e#318#427#0" expanded="false" />
+            <element signature="e#1239#1319#0" expanded="false" />
+            <element signature="e#1466#1640#0" expanded="false" />
+            <element signature="e#1657#1804#0" expanded="false" />
+            <element signature="e#4601#4639#0" expanded="false" />
+            <element signature="e#4661#4763#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/meta.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/3-base/_body-element.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="23" />
+        <state relative-caret-position="-139">
+          <caret line="110" column="26" lean-forward="false" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
+    <entry file="file://$PROJECT_DIR$/_includes/projects.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+        <state relative-caret-position="15">
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/how_we_work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="53" lean-forward="false" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#section#0;n#!!top" expanded="true" />
+            <marker date="1480788304000" expanded="false" signature="83333:756827" ph="data:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding />
         </state>
       </provider>
