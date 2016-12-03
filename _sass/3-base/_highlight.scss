@@ -1,4 +1,11 @@
 .highlighter-rouge {
+
+  width:100%;
+  overflow-x: scroll;
+  font-size :  em(12);
+}
+
+p .highlighter-rouge {
   background-color: $button_color;
   color:white;
   padding:1px 3px 1px 3px;
@@ -6,11 +13,11 @@
   border-radius: 2px;
   display:inline-block;
   line-height: 1.2;
+  width:auto;
+  overflow: visible;
 }
 
 .highlight {
-
-  //font-size :  em(20);
 
   .lineno {
     color:white;
@@ -19,6 +26,7 @@
 
   .pre {
     margin-top:20px;
+    margin-bottom:0px;
   }
 }
 

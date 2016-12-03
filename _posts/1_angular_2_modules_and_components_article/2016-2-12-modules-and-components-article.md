@@ -7,14 +7,6 @@ thumbnail: 404.jpg
 date:   2016-02-3 01:03:50 +0000
 ---
 
-
-```javascript
-function myFunc(){
-  1.  ***Browser [Polyfills](https://remysharp.com/2010/10/08/what-is-a-polyfill) [line 8]*** - ensures the framework has everything it needs in place if older brow
-}
-```
-
-
 Angular 2 [Modules](https://angular.io/docs/ts/latest/guide/ngmodule.html) and [Components](https://angular.io/docs/ts/latest/tutorial/toh-pt3.html) are important building blocks, trying to use the framework without having perfect knowledge on their purpose and placement will slow your learning and ability to leverage the framework later down the line. This article is designed to cement your knowledge at a fundamental level. It will show you how an Angular 2 web app is bootstrapped into a position where it can be constructed from modules and components.
 
 **'Code Stops'** are used throughout the article which reference the ```git repository``` and ```git commands``` that go with this article. To download the repo see the details at the bottom! Remember to perform an ```npm install``` before running the app.
