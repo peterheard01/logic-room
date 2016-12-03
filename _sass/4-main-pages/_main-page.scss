@@ -35,16 +35,9 @@
       top:-35px;
       right:0px;
     }
-
-
-
     span {
       color: #8ff465;
     }
-    //img {
-    //  margin-top:0px;
-    //  padding-top:20px;
-    //}
     .psst {
       text-transform: lowercase;
     }
@@ -77,13 +70,6 @@
     top: 0;
     z-index: -1;
   }
-  //.image.mobile {
-  //  width:100% !important;
-  //  .img-responsive {
-  //    width:100%;
-  //  }
-  //}
-
   .logo{
     width:100px;
     display:inline-block;
@@ -108,11 +94,10 @@
     position: absolute;
     top: 0;
     left: 0;
+    display : inline;
   }
   background-image : url("/images/grey-blocks-left.png");
   background-repeat: no-repeat;
-  //background-position: left top;
-  //background-attachment: fixed;
 }
 
 
