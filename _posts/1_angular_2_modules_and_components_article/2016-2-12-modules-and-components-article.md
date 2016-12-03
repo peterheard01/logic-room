@@ -370,7 +370,7 @@ You should see a scren like this :
 
 ---
 
-###Conclusion
+### Conclusion
 
 In this article we learned we have covered foundational knowledge which is important to understand to be able to build more advanced knowledge about Angular 2. Specifically we have covered :
 
@@ -384,6 +384,6 @@ In this article we learned we have covered foundational knowledge which is impor
 
 Hopefully you enjoyed this article, learning the basics firmly is paramount for master of a topic. It can help you further down the line with your projects if you have a very strong foundational knowledge.
 
-###Downloading The Resources
+### Downloading The Resources
 
 You can download the resources for this tutorial (and be informed of subsequent tutorials as they are released) by entering your info below. And don't worry your details won't be shared or spammed!

@@ -16,13 +16,24 @@ body {
   text-align: center;
 }
 
+ol, ul {
+  padding-left:20px !important;
+
+}
+
+ul li {
+  list-style-type: disc !important;
+}
+
+ol li, ul li {
+   color: $grey;
+  font-family: 'Dosis-ExtraLight' !important;
+}
+
 
 p {
   font-family: 'Dosis-ExtraLight';
-  color: #888888;
-}
-a {
-
+  color: $grey;
 }
 
 
@@ -30,6 +41,10 @@ a {
 
   nav {
     background-color: $banner;
+  }
+
+  ul li {
+    list-style-type: none !important;
   }
 
   .nav-wrapper {
