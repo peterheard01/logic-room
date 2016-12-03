@@ -74,6 +74,21 @@ p, ul li, ol li {
   font-size : em(16);
 }
 
+.btn, .btn-large-white {
+
+  height : 30px;
+  line-height : 30px;
+
+  .material-icons {
+    position:relative;
+    top:3px;
+  }
+
+}
+
+
+
+
 @media only screen and (min-width : 768px) {
 
   h1 {

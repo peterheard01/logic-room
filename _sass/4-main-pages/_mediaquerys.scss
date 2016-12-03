@@ -7,16 +7,16 @@
     /* Custom, iPhone Retina */
     @media only screen and (min-width : 320px) {
 
-      .btn, .btn_white {
-        width: 180px;
-        height: 30px;
-        line-height: 30px;
-        font-size: em(8);
-        font-weight: 700;
-      }
-      #inquire .btn, #inquire .btn-large {
-        width: 150px;
-      }
+      //.btn, .btn_white {
+      //  width: 180px;
+      //  height: 30px;
+      //  line-height: 30px;
+      //  font-size: em(8);
+      //  font-weight: 700;
+      //}
+      //#inquire .btn, #inquire .btn-large {
+      //  width: 150px;
+      //}
       #main {
         h1 {
           padding: .5em 0 .5em 0;
@@ -67,20 +67,20 @@
           .lines {
             text-align: center;
           }
-          .btn{
-            margin-bottom: 2em;
-          }
+          //.btn{
+          //  margin-bottom: 2em;
+          //}
           .content {
             font-size: em(16);
             text-align: center;
           }
-          .btn, .btn_white {
-            width: 180px;
-            height: 30px;
-            line-height: 30px;
-            font-size: em(8);
-            font-weight: 700;
-          }
+          //.btn, .btn_white {
+          //  width: 180px;
+          //  height: 30px;
+          //  line-height: 30px;
+          //  font-size: em(8);
+          //  font-weight: 700;
+          //}
           img {
             max-width: 40%;
           }
@@ -125,9 +125,9 @@
       #projects {
         text-align: left;
         @include padding(null null 1em null);
-        .btn {
-          width: 110px;
-        }
+        //.btn {
+        //  width: 110px;
+        //}
       }
       #articles {
         .row {
@@ -184,13 +184,13 @@
 
     /* Extra Small Devices, Phones */
     @media only screen and (min-width : 480px) {
-      .btn {
-        width: 180px;
-        height: 30px;
-        line-height: 30px;
-        font-size: em(10);
-        font-weight: 700;
-      }
+      //.btn {
+      //  width: 180px;
+      //  height: 30px;
+      //  line-height: 30px;
+      //  font-size: em(10);
+      //  font-weight: 700;
+      //}
       #main {
         height: 600px;
         .brand-logo {
@@ -217,9 +217,9 @@
           .lines {
             text-align: center;
           }
-          .btn{
-            margin-bottom: 1em;
-          }
+          //.btn{
+          //  margin-bottom: 1em;
+          //}
           .centered {
             padding-top: 1em;
           }
@@ -302,12 +302,12 @@
     /* Small Devices, Tablets */
     @media only screen and (min-width : 768px) {
 
-      .btn, .btn_white {
-        width: 180px;
-        height: 30px;
-        line-height: 30px;
-        font-size: 0.8em;
-      }
+      //.btn, .btn_white {
+      //  width: 180px;
+      //  height: 30px;
+      //  line-height: 30px;
+      //  font-size: 0.8em;
+      //}
       #main {
         h1 {
           font-size: em(22);
@@ -354,13 +354,13 @@
           .centered {
             padding-top: 2em;
           }
-          .btn, .btn_white {
-            width: 230px;
-            height: 40px;
-            line-height: 38px;
-            font-size: em(12);
-            font-weight: 700;
-          }
+          //.btn, .btn_white {
+          //  width: 230px;
+          //  height: 40px;
+          //  line-height: 38px;
+          //  font-size: em(12);
+          //  font-weight: 700;
+          //}
           img {
             max-width: 200%;
           }
@@ -420,10 +420,10 @@
       }
       #inquire {
         height: 615px;
-        .btn {
-          width: 150px;
-          font-size: 0.8em;
-        }
+        //.btn {
+        //  width: 150px;
+        //  font-size: 0.8em;
+        //}
       }
       #service {
         @include padding(2em null 1em null);
@@ -431,10 +431,10 @@
       #projects {
         text-align: left;
         @include padding(null null 1em null);
-        .btn {
-          width: 150px;
-          font-size: 0.8em;
-        }
+        //.btn {
+        //  width: 150px;
+        //  font-size: 0.8em;
+        //}
         .row {
           img {
             padding-top: 3em;
@@ -447,13 +447,13 @@
       }
       #our_work {
         height: 1050px;
-        .btn, .btn_white {
-          width: 230px;
-          height: 40px;
-          line-height: 38px;
-          font-size: em(12);
-          font-weight: 700;
-        }
+        //.btn, .btn_white {
+        //  width: 230px;
+        //  height: 40px;
+        //  line-height: 38px;
+        //  font-size: em(12);
+        //  font-weight: 700;
+        //}
       }
 
     }
@@ -461,12 +461,12 @@
     /* Medium Devices, Desktops */
     @media only screen and (min-width : 992px) {
 
-      .btn, .btn_white {
-        width: 180px;
-        height: 30px;
-        line-height: 30px;
-        font-size: 0.8em;
-      }
+      //.btn, .btn_white {
+      //  width: 180px;
+      //  height: 30px;
+      //  line-height: 30px;
+      //  font-size: 0.8em;
+      //}
       #main{
         h1 {
           font-size: em(20);
@@ -511,10 +511,10 @@
       }
       #inquire {
         height: 600px;
-        .btn {
-          width: 150px;
-          font-size: 1em;
-        }
+        //.btn {
+        //  width: 150px;
+        //  font-size: 1em;
+        //}
       }
       #inquire, #our_work, #footer {
         z-index: 0;
@@ -568,10 +568,10 @@
       }
       #projects {
         @include padding(null null 1em null);
-        .btn {
-          width: 150px;
-          font-size: 0.9em;
-        }
+        //.btn {
+        //  width: 150px;
+        //  font-size: 0.9em;
+        //}
       }
       #footer {
         height: 532px;
@@ -632,10 +632,10 @@
         h2 {
           @include padding(1em null 1em null);
         }
-        .btn {
-          width: 150px;
-          font-size: 1.2em;
-        }
+        //.btn {
+        //  width: 150px;
+        //  font-size: 1.2em;
+        //}
       }
       #slider {
         .content {
@@ -656,13 +656,13 @@
          img {
           max-width: 100%;
         }
-        .btn, .btn_white {
-          width: 230px;
-          height: 40px;
-          line-height: 38px;
-          font-size: em(15);
-          font-weight: 700;
-        }
+        //.btn, .btn_white {
+        //  width: 230px;
+        //  height: 40px;
+        //  line-height: 38px;
+        //  font-size: em(15);
+        //  font-weight: 700;
+        //}
       }
       #service {
         @include padding(5em null 3em null);
@@ -673,9 +673,9 @@
       }
       #projects {
         @include padding(null null 3em null);
-        .btn {
-          font-size: 1.1em;
-        }
+        //.btn {
+        //  font-size: 1.1em;
+        //}
         .row {
           img {
             max-width: 100%;
