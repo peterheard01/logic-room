@@ -11,26 +11,7 @@
 
 /************************* Main *************************/
 
-.navbar-fixed {
-  nav {
-    background-color:#07121b;
-  }
-}
-
-.image.mobile {
-  width:100% !important;
-  .img-responsive {
-    width:100%;
-  }
-}
-
 #main {
-  ul {
-    li {
-      padding-top : 10px;
-      color: #888888;
-    }
-  }
   .nav-wrapper {
     width: 1440px;
     max-width: 60%;
@@ -42,7 +23,11 @@
       text-decoration: none;
       font-size: 1.1em;
     }
-
+    ul {
+      li {
+        color: #888888;
+      }
+    }
     .brand-logo {
       font-family: 'Dosis-Bold';
       color: $logo_color;
@@ -124,9 +109,13 @@
     top: 0;
     z-index: -1;
   }
+  .image.mobile {
+    width:100% !important;
+    .img-responsive {
+      width:100%;
+    }
+  }
 }
-
-
 
 /************************* Service ************************/
 
