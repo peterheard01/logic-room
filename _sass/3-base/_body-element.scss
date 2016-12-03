@@ -67,6 +67,47 @@ h6 {
   font-size : em(15);
 }
 
+p, ul li, ol li {
+  font-family: 'Dosis-ExtraLight';
+  color: $grey;
+  text-align: justify;
+  font-size : em(16);
+}
+
+@media only screen and (min-width : 768px) {
+
+  h1 {
+    font-size : em(35);
+  }
+
+  h2 {
+    font-size : em(33);
+  }
+
+  h3 {
+    font-size : em(30);
+  }
+
+  h4 {
+    font-size : em(27);
+  }
+
+  h5 {
+    font-size : em(23);
+  }
+
+  h6 {
+    font-size : em(20);
+  }
+
+  p, ul li, ol li {
+    font-size : em(20);
+  }
+
+}
+
+
+
 strong, a {
   font-weight:bold;
   //color:$banner;
@@ -78,12 +119,7 @@ a {
 }
 
 
-p {
-  font-family: 'Dosis-ExtraLight';
-  color: $grey;
-  text-align: justify;
 
-}
 
 blockquote {
   margin: 10px;
