@@ -27,7 +27,6 @@
     text-transform: capitalize;
     margin: 0;
   }
-
   h4 {
     font-family: 'Dosis-light';
     text-transform: capitalize;
@@ -283,6 +282,7 @@
   z-index: 1;
   display: flex;
   align-items: center;
+
   .image {
     position: absolute;
     bottom: 0;
@@ -294,8 +294,12 @@
     font-weight: 400;
     line-height: 32px;
   }
+
+
+
   ul {
     li {
+      list-style-type: none !important;
       a {
         font-size: em(20);
         color: $text_color;
