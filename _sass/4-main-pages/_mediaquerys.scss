@@ -96,6 +96,7 @@
         }
       }
       #inquire {
+
         height: 650px;
       }
       #slider {
@@ -189,6 +190,7 @@
         max-width: 90%;
         margin: 0 auto;
       }
+
       #inquire, #our_work, #footer {
         z-index: 0;
         .mobile {
@@ -196,7 +198,6 @@
         }
       }
       #services, #projects, #inquire, #our_work, #articles {
-        //text-align: center;
         .img-responsive {
           margin: 0 auto;
         }
@@ -217,6 +218,7 @@
       }
       #inquire {
         height: 550px;
+        padding-top:30px;
       }
       #services {
         @include padding(2em null 1em null);
@@ -334,6 +336,7 @@
       }
       #inquire {
         height: 615px;
+        padding-top:30px;
       }
       #services {
         @include padding(2em null 1em null);
@@ -389,6 +392,7 @@
       }
       #inquire {
         height: 600px;
+        padding-top:30px;
       }
       #inquire, #our_work, #footer {
         z-index: 0;
