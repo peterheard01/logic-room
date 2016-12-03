@@ -65,7 +65,7 @@
         }
       }
       #services, #projects, #inquire, #our_work, #articles {
-        text-align: center;
+        //text-align: center;
         .img-responsive {
           margin: 0 auto;
         }
@@ -140,13 +140,6 @@
 
     /* Extra Small Devices, Phones */
     @media only screen and (min-width : 480px) {
-      //.btn {
-      //  width: 180px;
-      //  height: 30px;
-      //  line-height: 30px;
-      //  font-size: em(10);
-      //  font-weight: 700;
-      //}
       #main {
         height: 600px;
         .brand-logo {
@@ -173,9 +166,6 @@
           .lines {
             text-align: center;
           }
-          //.btn{
-          //  margin-bottom: 1em;
-          //}
           .centered {
             padding-top: 1em;
           }
@@ -206,7 +196,7 @@
         }
       }
       #services, #projects, #inquire, #our_work, #articles {
-        text-align: center;
+        //text-align: center;
         .img-responsive {
           margin: 0 auto;
         }
@@ -280,9 +270,6 @@
         .lines {
           text-align: left;
         }
-        .landing .title {
-          padding-left: 2.5em;
-        }
         .landing {
           padding-top: 3em;
           .lines {
@@ -308,7 +295,7 @@
         margin: 0 auto;
       }
       #services, #projects, #inquire, #our_work, #articles {
-        text-align: center;
+
         .img-responsive {
           margin: 0 auto;
         }
@@ -415,14 +402,24 @@
         margin: 0 auto;
       }
       #services, #projects, #inquire, #our_work, #articles {
-        text-align: left;
+        //text-align: left;
         .img-responsive {
           margin: 0;
         }
         .box {
           @include padding(1em null 1em null);
         }
+
+
+
       }
+
+      #services {
+        h3 {
+          text-align: left;
+        }
+      }
+
       #slider {
         .content {
           font-size: em(24);

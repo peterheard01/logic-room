@@ -42,7 +42,6 @@
       text-transform: lowercase;
     }
     .title {
-      padding-left: 1.5em;
       color: $text_color;
     }
     .lines {
@@ -87,9 +86,6 @@
 #services {
   @include padding(5em null 5em null);
   position: relative;
-  .main_title {
-    padding-bottom: .5em;
-  }
   .image {
     position: absolute;
     top: 0;
