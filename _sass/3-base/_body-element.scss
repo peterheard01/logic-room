@@ -83,6 +83,10 @@ a {
   text-decoration: underline;
 }
 
+.center {
+  text-align: center;
+}
+
 blockquote {
   margin: 10px;
   padding-left: 1.5rem;
@@ -101,6 +105,10 @@ blockquote {
     position:relative;
     top:3px;
   }
+}
+
+.text-white {
+  color : white;
 }
 
 
