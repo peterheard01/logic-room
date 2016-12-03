@@ -9,33 +9,56 @@
   }
 }
 
+.nav-wrapper {
+  width: 1440px;
+  max-width: 60%;
+  margin: 0 auto;
+  .btn {
+    border: none;
+  }
+  a {
+    text-decoration: none;
+    font-size: 1.1em;
+  }
+  ul {
+    li {
+      color: #888888;
+    }
+  }
+  .brand-logo {
+    font-family: 'Dosis-Bold';
+    color: $logo_color;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: 600;
+    padding-top: .23em;
+  }
+}
+
 /************************* Main *************************/
 
 #main {
-  .nav-wrapper {
-    width: 1440px;
-    max-width: 60%;
-    margin: 0 auto;
-    .btn {
-      border: none;
-    }
-    a {
-      text-decoration: none;
-      font-size: 1.1em;
-    }
-    ul {
-      li {
-        color: #888888;
-      }
-    }
-    .brand-logo {
-      font-family: 'Dosis-Bold';
-      color: $logo_color;
-      text-transform: uppercase;
-      font-size: 1.5em;
-      font-weight: 600;
-      padding-top: .23em;
-    }
+  h1 {
+    padding: .5em 0 .5em 0;
+  }
+  h2 {
+    font-family: 'Dosis-Regular';
+    color: $main_color;
+    text-transform: capitalize;
+    font-weight: 500;
+    line-height: 54px;
+  }
+  h3 {
+    font-family: 'Dosis-light';
+    text-transform: capitalize;
+    margin: 0;
+  }
+
+  h4 {
+    font-family: 'Dosis-light';
+    text-transform: capitalize;
+    margin: 0;
+    font-size:1em;
   }
   .landing {
     padding-top: 5em;
