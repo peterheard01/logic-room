@@ -167,7 +167,7 @@ You should see a scren like this :
 
 The rest of this article can be read alone but for maximum benefit I reccomend you download the clone the git repository and try and implement the changes I make. There is no better way to learn than by following along and writing code. Details on the git repository are at the bottom of this article.
 
-### Exercise : Wiring up a ```child``` module & component
+### Exercise : Wiring up a child module & component
 
 The first thing we want after getting our base application working is to wire up our first module. A module in this context is simply a dependency.  If you come from a Java background it would be a seperate **jar** file or C# it would be a **dll**. However since we are using **on the fly** compiled languages the code is not compiled into some artifac, instead we reference we reference the code directly. Fundamentally it's the same thing. For the sake of maintainability and modularity non-trivial applications should be split into multiple modules each serving their own independant purpose. The work that I am doing with a client system [Cisco dCloud](https://dcloud.cisco.com/) at the moment does this and it works well to maintain large code bases.
 
@@ -226,7 +226,7 @@ You should see a scren like this :
 
 -----
 
-### Exercise : Wiring up a ```grand-child``` module & component
+### Exercise : Wiring up a grand-child module & component
 
 Okay, next up we are going to wire up a module that is referenced by the module we just created. This is an exercise is exposing a component between two of our own modules in a linked way. We let the ```AppModule``` load the ```ChildModule```, it in turn loads the ```GrandChildModule``` and will display it's component.
 
@@ -311,7 +311,7 @@ Hopefully you now have a good understanding how how modules import other modules
 
 ---
 
-### Exercise : Wiring up a ```shared``` module & component
+### Exercise : Wiring up a shared module & component
 
 So, now for the final piece of the puzzle, how to wire up a module that is shared between components. I left this piece until the end because I wanted you to get a really solid understanding of the basics behing module loading. As you grow your Angular 2 applications you should refactor out common functionality into shared modules. Where you keep this is ultimately up to you but for most projects I reccomend using a ```/commmon``` folder or a ```/shared``` folder.
 

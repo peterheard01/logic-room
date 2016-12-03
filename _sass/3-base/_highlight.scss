@@ -1,9 +1,12 @@
-//.highlight  {
-//  background-color:#07121b;
-//  padding:20px;
-//  border-radius : 5px;
-//  font-size :  em(14);
-//}
+.highlighter-rouge {
+  background-color: $button_color;
+  color:white;
+  padding:1px 3px 1px 3px;
+  font-size :  em(12);
+  border-radius: 2px;
+  display:inline-block;
+  line-height: 1.2;
+}
 
 .highlight {
 
@@ -17,16 +20,6 @@
   .pre {
     margin-top:20px;
   }
-}
-
-.highlighter-rouge {
-  background-color: #f8931d;
-  color:white;
-  padding:1px 3px 1px 3px;
-  font-size :  em(10);
-  border-radius: 3px;
-  display:inline-block;
-  line-height: 1.1;
 }
 
 
