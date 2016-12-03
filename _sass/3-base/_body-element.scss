@@ -44,27 +44,37 @@ h1,h2,h3,h4,h5,h6{
 }
 
 h1 {
-  //font-size : em(40);
+  font-size : em(30);
 }
 
 h2 {
-  //font-size : em(30);
+  font-size : em(25);
 }
 
 h3 {
-
+  font-size : em(23);
 }
 
 h4 {
-
+  font-size : em(21);
 }
 
 h5 {
-
+  font-size : em(19);
 }
 
 h6 {
+  font-size : em(15);
+}
 
+strong, a {
+  font-weight:bold;
+  //color:$banner;
+  font-family: 'Dosis-Regular';
+}
+
+a {
+  text-decoration: underline;
 }
 
 
@@ -72,6 +82,7 @@ p {
   font-family: 'Dosis-ExtraLight';
   color: $grey;
   text-align: justify;
+
 }
 
 blockquote {

@@ -24,14 +24,14 @@ p .highlighter-rouge {
     padding:0px 10px 0px 10px;
   }
 
-  .pre {
-    margin-top:20px;
-    margin-bottom:0px;
-  }
+  //.pre {
+  //  margin-top:0px;
+  //  margin-bottom:0 !important;
+  //}
 }
 
 
-.highlight pre { background-color: #272822; }
+.highlight pre { background-color: #272822; margin-bottom:0px;  }
 .highlight .hll { background-color: #272822; }
 .highlight .c { color: #75715e } /* Comment */
 .highlight .err { color: #960050; background-color: #1e0010 } /* Error */
