@@ -2,9 +2,6 @@
 =            Bootstrap 3 Media Queries             =
 ==================================================*/
 
-
-
-
     /*==========  Mobile First Method  ==========*/
 
     /* Custom, iPhone Retina */
@@ -48,14 +45,6 @@
           font-size: em(16);
         }
         height: 700px;
-        .nav-wrapper {
-          max-width: 90%;
-          .brand-logo {
-            font-size: .9em;
-            padding-top: .23em;
-            padding-left: 1em;
-          }
-        }
         .image_bottom {
           display: none;
         }
@@ -208,9 +197,6 @@
           padding-top: .23em;
           padding-left: .5em;
         }
-        .nav-wrapper {
-          max-width: 90%;
-        }
         .image_bottom {
           display: none;
         }
@@ -335,9 +321,6 @@
         height: 650px;
         .brand-logo {
           padding-left: 0;
-        }
-        .nav-wrapper {
-          max-width: 90%;
         }
         .image_right {
           position: absolute;
@@ -495,16 +478,6 @@
           font-size: em(20);
         }
         height: 700px;
-        .nav-wrapper {
-          max-width: 80%;
-          #mobile-demo { display: none };
-          .btn {
-            width: 100px;
-          }
-          .brand-logo {
-            font-size: em(18);
-          }
-        }
         .landing {
           padding-top: 5em;
           .title {
@@ -606,14 +579,10 @@
           padding-top: 1em;
         }
       }
-      .nav-wrapper {
-        max-width: 60%;
-      }
     }
 
     /* Large Devices, Wide Screens */
     @media only screen and (min-width : 1200px) {
-
 
       #main {
         h1 {
@@ -629,12 +598,6 @@
           font-size: em(22);
         }
         height: 700px;
-        .nav-wrapper {
-          max-width: 60%;
-          .brand-logo {
-            font-size: em(20);
-          }
-        }
         .landing {
           padding-top: 5em;
           .title {
