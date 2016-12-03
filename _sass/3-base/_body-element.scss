@@ -74,19 +74,34 @@ p, ul li, ol li {
   font-size : em(16);
 }
 
+strong, a {
+  font-weight:bold;
+  font-family: 'Dosis-Regular';
+}
+
+a {
+  text-decoration: underline;
+}
+
+blockquote {
+  margin: 10px;
+  padding-left: 1.5rem;
+  border-left: 5px solid $logo_color;
+  font-style:italic;
+}
+
 .btn, .btn-large-white {
 
+  font-weight:normal;
   height : 30px;
   line-height : 30px;
+  font-size: 0.7em !important;
 
   .material-icons {
     position:relative;
     top:3px;
   }
-
 }
-
-
 
 
 @media only screen and (min-width : 768px) {
@@ -123,25 +138,7 @@ p, ul li, ol li {
 
 
 
-strong, a {
-  font-weight:bold;
-  //color:$banner;
-  font-family: 'Dosis-Regular';
-}
 
-a {
-  text-decoration: underline;
-}
-
-
-
-
-blockquote {
-  margin: 10px;
-  padding-left: 1.5rem;
-  border-left: 5px solid $logo_color;
-  font-style:italic;
-}
 
 
 .navbar-fixed {
@@ -171,7 +168,7 @@ blockquote {
 
   a {
     text-decoration: none !important;
-    font-size: 1.1em;
+    font-size: em(14);
     line-height: 54px;
     font-family: 'Dosis-Light';
     font-weight: 700;
