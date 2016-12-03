@@ -21,6 +21,12 @@ ol, ul {
 
 }
 
+img {
+  max-width:100% !important;
+  height:auto;
+  display:block;
+}
+
 ul li {
   list-style-type: disc !important;
 }
@@ -28,11 +34,37 @@ ul li {
 ol li, ul li {
    color: $grey;
   font-family: 'Dosis-ExtraLight' !important;
+  padding-bottom:5px;
 }
 
 h1,h2,h3,h4,h5,h6{
   font-family: 'Dosis-Regular';
   color: $banner;
+  text-transform: capitalize;
+}
+
+h1 {
+  font-size : em(40);
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
 }
 
 
@@ -40,7 +72,6 @@ p {
   font-family: 'Dosis-ExtraLight';
   color: $grey;
   text-align: justify;
-  //font-size : em(20);
 }
 
 blockquote {
