@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/3-base/_content.scss" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/3-base/_body-element.scss" afterPath="$PROJECT_DIR$/_sass/3-base/_body-element.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/3-base/_vars.scss" afterPath="$PROJECT_DIR$/_sass/3-base/_vars.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/main.scss" afterPath="$PROJECT_DIR$/assets/main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,22 +30,22 @@
               <first_editor relative-caret-position="105">
                 <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
                 <folding>
-                  <marker date="1480755840000" expanded="true" signature="2701:3330" ph="..." />
-                  <marker date="1480755840000" expanded="true" signature="3240:3322" ph="..." />
-                  <marker date="1480755840000" expanded="true" signature="3674:5052" ph="{...}" />
-                  <marker date="1480755840000" expanded="true" signature="3687:3754" ph="{&quot;npm:&quot;: 'node_modules/'...}" />
-                  <marker date="1480755840000" expanded="true" signature="3825:4697" ph="{&quot;app&quot;: 'app'...}" />
-                  <marker date="1480755840000" expanded="true" signature="4802:5048" ph="{...}" />
-                  <marker date="1480755840000" expanded="true" signature="4815:4882" ph="{&quot;main&quot;: './main.js'...}" />
-                  <marker date="1480755840000" expanded="true" signature="4896:4936" ph="{&quot;defaultExtension&quot;: 'js'...}" />
-                  <marker date="1480755840000" expanded="true" signature="4974:5042" ph="{&quot;main&quot;: './index.js'...}" />
-                  <marker date="1480755840000" expanded="true" signature="7894:8042" ph="..." />
-                  <marker date="1480755840000" expanded="true" signature="8054:8151" ph="{...}" />
-                  <marker date="1480755840000" expanded="true" signature="8176:8240" ph="{...}" />
-                  <marker date="1480755840000" expanded="true" signature="8193:8238" ph="{...}" />
-                  <marker date="1480755840000" expanded="true" signature="12633:12770" ph="{&quot;selector&quot;: 'my-app'...}" />
-                  <marker date="1480755840000" expanded="true" signature="18185:18318" ph="{...}" />
-                  <marker date="1480755840000" expanded="true" signature="18345:18347" ph="{...}" />
+                  <marker date="1480757711000" expanded="true" signature="2701:3330" ph="..." />
+                  <marker date="1480757711000" expanded="true" signature="3240:3322" ph="..." />
+                  <marker date="1480757711000" expanded="true" signature="3674:5052" ph="{...}" />
+                  <marker date="1480757711000" expanded="true" signature="3687:3754" ph="{&quot;npm:&quot;: 'node_modules/'...}" />
+                  <marker date="1480757711000" expanded="true" signature="3825:4697" ph="{&quot;app&quot;: 'app'...}" />
+                  <marker date="1480757711000" expanded="true" signature="4802:5048" ph="{...}" />
+                  <marker date="1480757711000" expanded="true" signature="4815:4882" ph="{&quot;main&quot;: './main.js'...}" />
+                  <marker date="1480757711000" expanded="true" signature="4896:4936" ph="{&quot;defaultExtension&quot;: 'js'...}" />
+                  <marker date="1480757711000" expanded="true" signature="4974:5042" ph="{&quot;main&quot;: './index.js'...}" />
+                  <marker date="1480757711000" expanded="true" signature="7894:8042" ph="..." />
+                  <marker date="1480757711000" expanded="true" signature="8054:8151" ph="{...}" />
+                  <marker date="1480757711000" expanded="true" signature="8176:8240" ph="{...}" />
+                  <marker date="1480757711000" expanded="true" signature="8193:8238" ph="{...}" />
+                  <marker date="1480757711000" expanded="true" signature="12633:12770" ph="{&quot;selector&quot;: 'my-app'...}" />
+                  <marker date="1480757711000" expanded="true" signature="18185:18318" ph="{...}" />
+                  <marker date="1480757711000" expanded="true" signature="18345:18347" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -56,11 +53,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_body-element.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_body-element.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_sass/3-base/_body-element.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -105,6 +112,7 @@
         <option value="$PROJECT_DIR$/_sass/3-base/_vars.scss" />
         <option value="$PROJECT_DIR$/assets/main.scss" />
         <option value="$PROJECT_DIR$/_sass/3-base/_body-element.scss" />
+        <option value="$PROJECT_DIR$/CNAME" />
       </list>
     </option>
   </component>
@@ -152,6 +160,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -190,88 +201,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3_logic_room_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3_logic_room_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3_logic_room_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3_logic_room_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3_logic_room_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3_logic_room_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4-main-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3_logic_room_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3_logic_room_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3-base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3_logic_room_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3_logic_room_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_sass" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -373,7 +302,7 @@
       <workItem from="1480659215269" duration="1198000" />
       <workItem from="1480662448831" duration="383000" />
       <workItem from="1480663063304" duration="1684000" />
-      <workItem from="1480756815845" duration="856000" />
+      <workItem from="1480756815845" duration="1002000" />
     </task>
     <task id="LOCAL-00001" summary="fixed footer">
       <created>1480757094173</created>
@@ -382,15 +311,22 @@
       <option name="project" value="LOCAL" />
       <updated>1480757094173</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed footer">
+      <created>1480757679036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1480757679036</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4121000" />
+    <option name="totallyTimeSpent" value="4267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="102" y="82" width="1536" height="892" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24224423" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -398,7 +334,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36596736" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -437,22 +373,22 @@
           <first_editor relative-caret-position="105">
             <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             <folding>
-              <marker date="1480755840000" expanded="true" signature="2701:3330" ph="..." />
-              <marker date="1480755840000" expanded="true" signature="3240:3322" ph="..." />
-              <marker date="1480755840000" expanded="true" signature="3674:5052" ph="{...}" />
-              <marker date="1480755840000" expanded="true" signature="3687:3754" ph="{&quot;npm:&quot;: 'node_modules/'...}" />
-              <marker date="1480755840000" expanded="true" signature="3825:4697" ph="{&quot;app&quot;: 'app'...}" />
-              <marker date="1480755840000" expanded="true" signature="4802:5048" ph="{...}" />
-              <marker date="1480755840000" expanded="true" signature="4815:4882" ph="{&quot;main&quot;: './main.js'...}" />
-              <marker date="1480755840000" expanded="true" signature="4896:4936" ph="{&quot;defaultExtension&quot;: 'js'...}" />
-              <marker date="1480755840000" expanded="true" signature="4974:5042" ph="{&quot;main&quot;: './index.js'...}" />
-              <marker date="1480755840000" expanded="true" signature="7894:8042" ph="..." />
-              <marker date="1480755840000" expanded="true" signature="8054:8151" ph="{...}" />
-              <marker date="1480755840000" expanded="true" signature="8176:8240" ph="{...}" />
-              <marker date="1480755840000" expanded="true" signature="8193:8238" ph="{...}" />
-              <marker date="1480755840000" expanded="true" signature="12633:12770" ph="{&quot;selector&quot;: 'my-app'...}" />
-              <marker date="1480755840000" expanded="true" signature="18185:18318" ph="{...}" />
-              <marker date="1480755840000" expanded="true" signature="18345:18347" ph="{...}" />
+              <marker date="1480757711000" expanded="true" signature="2701:3330" ph="..." />
+              <marker date="1480757711000" expanded="true" signature="3240:3322" ph="..." />
+              <marker date="1480757711000" expanded="true" signature="3674:5052" ph="{...}" />
+              <marker date="1480757711000" expanded="true" signature="3687:3754" ph="{&quot;npm:&quot;: 'node_modules/'...}" />
+              <marker date="1480757711000" expanded="true" signature="3825:4697" ph="{&quot;app&quot;: 'app'...}" />
+              <marker date="1480757711000" expanded="true" signature="4802:5048" ph="{...}" />
+              <marker date="1480757711000" expanded="true" signature="4815:4882" ph="{&quot;main&quot;: './main.js'...}" />
+              <marker date="1480757711000" expanded="true" signature="4896:4936" ph="{&quot;defaultExtension&quot;: 'js'...}" />
+              <marker date="1480757711000" expanded="true" signature="4974:5042" ph="{&quot;main&quot;: './index.js'...}" />
+              <marker date="1480757711000" expanded="true" signature="7894:8042" ph="..." />
+              <marker date="1480757711000" expanded="true" signature="8054:8151" ph="{...}" />
+              <marker date="1480757711000" expanded="true" signature="8176:8240" ph="{...}" />
+              <marker date="1480757711000" expanded="true" signature="8193:8238" ph="{...}" />
+              <marker date="1480757711000" expanded="true" signature="12633:12770" ph="{&quot;selector&quot;: 'my-app'...}" />
+              <marker date="1480757711000" expanded="true" signature="18185:18318" ph="{...}" />
+              <marker date="1480757711000" expanded="true" signature="18345:18347" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
@@ -636,22 +572,22 @@
           <first_editor relative-caret-position="105">
             <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             <folding>
-              <marker date="1480755840000" expanded="true" signature="2701:3330" ph="..." />
-              <marker date="1480755840000" expanded="true" signature="3240:3322" ph="..." />
-              <marker date="1480755840000" expanded="true" signature="3674:5052" ph="{...}" />
-              <marker date="1480755840000" expanded="true" signature="3687:3754" ph="{&quot;npm:&quot;: 'node_modules/'...}" />
-              <marker date="1480755840000" expanded="true" signature="3825:4697" ph="{&quot;app&quot;: 'app'...}" />
-              <marker date="1480755840000" expanded="true" signature="4802:5048" ph="{...}" />
-              <marker date="1480755840000" expanded="true" signature="4815:4882" ph="{&quot;main&quot;: './main.js'...}" />
-              <marker date="1480755840000" expanded="true" signature="4896:4936" ph="{&quot;defaultExtension&quot;: 'js'...}" />
-              <marker date="1480755840000" expanded="true" signature="4974:5042" ph="{&quot;main&quot;: './index.js'...}" />
-              <marker date="1480755840000" expanded="true" signature="7894:8042" ph="..." />
-              <marker date="1480755840000" expanded="true" signature="8054:8151" ph="{...}" />
-              <marker date="1480755840000" expanded="true" signature="8176:8240" ph="{...}" />
-              <marker date="1480755840000" expanded="true" signature="8193:8238" ph="{...}" />
-              <marker date="1480755840000" expanded="true" signature="12633:12770" ph="{&quot;selector&quot;: 'my-app'...}" />
-              <marker date="1480755840000" expanded="true" signature="18185:18318" ph="{...}" />
-              <marker date="1480755840000" expanded="true" signature="18345:18347" ph="{...}" />
+              <marker date="1480757711000" expanded="true" signature="2701:3330" ph="..." />
+              <marker date="1480757711000" expanded="true" signature="3240:3322" ph="..." />
+              <marker date="1480757711000" expanded="true" signature="3674:5052" ph="{...}" />
+              <marker date="1480757711000" expanded="true" signature="3687:3754" ph="{&quot;npm:&quot;: 'node_modules/'...}" />
+              <marker date="1480757711000" expanded="true" signature="3825:4697" ph="{&quot;app&quot;: 'app'...}" />
+              <marker date="1480757711000" expanded="true" signature="4802:5048" ph="{...}" />
+              <marker date="1480757711000" expanded="true" signature="4815:4882" ph="{&quot;main&quot;: './main.js'...}" />
+              <marker date="1480757711000" expanded="true" signature="4896:4936" ph="{&quot;defaultExtension&quot;: 'js'...}" />
+              <marker date="1480757711000" expanded="true" signature="4974:5042" ph="{&quot;main&quot;: './index.js'...}" />
+              <marker date="1480757711000" expanded="true" signature="7894:8042" ph="..." />
+              <marker date="1480757711000" expanded="true" signature="8054:8151" ph="{...}" />
+              <marker date="1480757711000" expanded="true" signature="8176:8240" ph="{...}" />
+              <marker date="1480757711000" expanded="true" signature="8193:8238" ph="{...}" />
+              <marker date="1480757711000" expanded="true" signature="12633:12770" ph="{&quot;selector&quot;: 'my-app'...}" />
+              <marker date="1480757711000" expanded="true" signature="18185:18318" ph="{...}" />
+              <marker date="1480757711000" expanded="true" signature="18345:18347" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
@@ -689,6 +625,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
           <folding />
         </state>
       </provider>
