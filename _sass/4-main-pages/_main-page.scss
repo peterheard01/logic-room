@@ -128,10 +128,10 @@
 #slider {
   @include padding(3em null 3em null);
   position: relative;
-  .content {
-    font-size: em(30);
-    @include padding(0.5em null 0.5em null);
-  }
+  //.content {
+  //  font-size: em(30);
+  //  @include padding(0.5em null 0.5em null);
+  //}
   .owl-dots {
     text-align: right;
     margin: 0 auto;

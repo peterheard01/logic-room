@@ -1,5 +1,5 @@
 - text: services
-  url: '#service'
+  url: '#services'
   path: '/'
 
 - text: past projects
@@ -7,7 +7,7 @@
   path: '/'
 
 - text: about us
-  url: '#our_work'
+  url: '#how_we_work'
   path: '/'
 
 - text: blog
