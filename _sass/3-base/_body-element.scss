@@ -22,15 +22,15 @@ p {
   color: #888888;
 }
 a {
-  font-family: 'Dosis-Light';
-  font-size: em(18);
-  font-weight: 700;
-  line-height: 54px;
-  text-decoration: none;
+
 }
 
 
 .navbar-fixed {
+
+  nav {
+    background-color: $banner;
+  }
 
   .nav-wrapper {
     width: 1440px;
@@ -50,10 +50,15 @@ a {
   a {
     text-decoration: none !important;
     font-size: 1.1em;
+    line-height: 54px;
+    font-family: 'Dosis-Light';
+    font-weight: 700;
+    text-decoration: none;
   }
 
   .waves-light {
     width : 100px;
+    line-height: 30px;
   }
 
 }
