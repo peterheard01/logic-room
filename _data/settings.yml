@@ -50,14 +50,14 @@ sliders:
 #-------------------------------------------
 # Works section
 works:
-- {content_first: '<p class="content">dings on all of my boards, a permanent salt water/urine stench in my wetsuit, and a giant grin from ear to ear. This is the beautiful state of being completely surfed out in Peru.</p>',
-  content_second: '<p class="content">While we all felt that Travis was a great asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
-  project_first: '<p class="title">Project code quality and architecture</p>',
-  project_second: '<p class="title">Ensuring enough specification and estimation is complete</p>',
-  project_third: '<p class="title">Tracking and keeping the client aware of progress</p>',
-  project_fourth: '<p class="title">Tracking and keeping the client aware of progress</p>',
-  content_third: '<p class="content">Seasoned programmers with years of industry experience, our leaders undergo extensive traning and mentorship in cutting edge technical disciplines, management and people skills. This given them an unrivalled advantage dealing with complex organisations and environments.</p>',
-  content_fourth: '<p class="content">Any of our training and code reviews are also carried out by one of our technical leaders.</p>'}
+- {content_first: '<p class="text-white">dings on all of my boards, a permanent salt water/urine stench in my wetsuit, and a giant grin from ear to ear. This is the beautiful state of being completely surfed out in Peru.</p>',
+  content_second: '<p class="text-white">While we all felt that Travis was a great asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
+  project_first: '<h6 class="text-white">Project code quality and architecture</h6>',
+  project_second: '<h6 class="text-white">Ensuring enough specification and estimation is complete</h6>',
+  project_third: '<h6 class="text-white">Tracking and keeping the client aware of progress</h6>',
+  project_fourth: '<h6 class="text-white">Supporting The Development Team</h6>',
+  content_third: '<p class="text-white">Seasoned programmers with years of industry experience, our leaders undergo extensive traning and mentorship in cutting edge technical disciplines, management and people skills. This given them an unrivalled advantage dealing with complex organisations and environments.</p>',
+  content_fourth: '<p class="text-white">Any of our training and code reviews are also carried out by one of our technical leaders.</p>'}
 
 #-------------------------------------------
 # footer section
