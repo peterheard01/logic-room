@@ -2,6 +2,9 @@
 =            Bootstrap 3 Media Queries             =
 ==================================================*/
 
+
+
+
     /*==========  Mobile First Method  ==========*/
 
     /* Custom, iPhone Retina */
@@ -196,6 +199,9 @@
         .brand-logo {
           padding-top: .23em;
           padding-left: .5em;
+        }
+        .nav-wrapper {
+          max-width: 90%;
         }
         .image_bottom {
           display: none;
@@ -584,6 +590,7 @@
     /* Large Devices, Wide Screens */
     @media only screen and (min-width : 1200px) {
 
+
       #main {
         h1 {
           font-size: em(22);
@@ -598,6 +605,12 @@
           font-size: em(22);
         }
         height: 700px;
+        .nav-wrapper {
+          max-width: 60%;
+          .brand-logo {
+            font-size: em(20);
+          }
+        }
         .landing {
           padding-top: 5em;
           .title {

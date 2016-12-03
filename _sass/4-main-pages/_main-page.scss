@@ -51,7 +51,8 @@
     }
     .blue-blocks-left {
       position: absolute;
-      top:-35px;
+      top:-46px;
+      z-index:1;
     }
     .blue-blocks-right {
       position: absolute;
@@ -127,6 +128,10 @@
     top: 0;
     left: 0;
   }
+  background-image : url("/images/grey-blocks-left.png");
+  background-repeat: no-repeat;
+  //background-position: left top;
+  //background-attachment: fixed;
 }
 
 
