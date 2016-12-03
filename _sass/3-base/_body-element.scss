@@ -35,6 +35,14 @@ p {
   font-family: 'Dosis-ExtraLight';
   color: $grey;
   text-align: justify;
+  //font-size : em(20);
+}
+
+blockquote {
+  margin: 10px;
+  padding-left: 1.5rem;
+  border-left: 5px solid $logo_color;
+  font-style:italic;
 }
 
 
