@@ -23,20 +23,20 @@ inquires:
    second_content: '<p class="content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>'}
 
 #-------------------------------------------
-# Slider section
-sliders:
-- {image: 'photo.png',
-  name: 'Scott Summers',
-  description: 'Director of Design, OnToText Ind.',
-  content: '<p class="content"><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>'}
-- {image: 'photo.png',
-  name: 'Scott Summers',
-  description: 'Director of Design, OnToText Ind.',
-  content: '<p class="content"><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>'}
-- {image: 'photo.png',
-  name: 'Scott Summers',
-  description: 'Director of Design, OnToText Ind.',
-  content: '<p class="content"><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>'}
+# Testimonials section
+testimonials:
+- {image: 'testimonials/james_mcnally.jpg',
+  name: 'James McNally',
+  description: '(Engineer/Director - Wiresmith Technology)',
+  content: '<h5>"Logic Room produced high quality code whilst still maintaining productivity and I am more than happy to maintain the code they will be leaving, as it is well written and well tested. I hope we can work together again in the future."</h5>'}
+- {image: 'testimonials/james_whelan.jpg',
+  name: 'James Whelan',
+  description: '(Managing Director - Faircare Solutions)',
+  content: '<h5>"For our modular employee engagement platform MyWorkPal, Logic Room provided consultancy around building responsive Single Page Applications, Agile Methodologies and Continuous integration. The result was fully aligned with its modular architecture, with its continued reliability and scalability being a credit to the team"</h5>'}
+- {image: 'testimonials/kieran_gutteridge.jpg',
+  name: 'Kieran Gutteridge',
+  description: '(CTO - Intohand)',
+  content: '<h5>"Logic Room provided enthusiasm and commitment. They helped us drive higher code quality on one of our projects at Intohand by using TDD and Agile. They are passionate about what they do and are willing to coach anyone who is involved on the project so that they are all striving for the same "Clean Code" goal!"</h5>'}
 
 #-------------------------------------------
 # Works section
