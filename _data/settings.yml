@@ -15,15 +15,6 @@ services:
    third_content: '<p class="content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>'}
 
 #-------------------------------------------
-# Projects section
-projects:
-- {first_title: '<h3 class="title">Cisco Systems</h3>',
-   first_content: '<p class="content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>',
-   second_title: '<h3 class="title">Tristar Worldwide Chauffeur Services</h3>',
-   second_content: '<p class="content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>'}
-
-
-#-------------------------------------------
 # inquire section
 inquires:
 - {first_title: '<h3 class="title">Experts in Test Driven Development</h3>',

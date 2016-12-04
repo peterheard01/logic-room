@@ -84,7 +84,7 @@
 /************************* services ************************/
 
 #services {
-  @include padding(5em null 5em null);
+  padding-top:50px;
   position: relative;
   .image {
     position: absolute;
@@ -100,6 +100,7 @@
 /************************* Project ************************/
 
 #projects {
+  padding-top:50px;
   @include padding(null null 5em null);
   .row {
     @include padding(2em null 2em null);
@@ -118,7 +119,7 @@
   background-position: bottom;
   background-size: cover;
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 100px;
 
 }
 

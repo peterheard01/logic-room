@@ -146,6 +146,20 @@ blockquote {
     font-size : em(20);
   }
 
+  .btn, .btn-large-white {
+
+    //font-weight:normal;
+    height : 30px;
+    line-height : 30px;
+    font-size: 1em !important;
+    width : 180px !important;
+
+    //.material-icons {
+    //  position:relative;
+    //  top:3px;
+    //}
+  }
+
 }
 
 
@@ -187,9 +201,14 @@ blockquote {
     text-decoration: none;
   }
 
+  .btn {
+
+  }
+
   .waves-light {
-    width : 100px;
+    width : 130px !important;
     line-height: 30px;
+    font-size:14px !important;
   }
 
 }
