@@ -6,6 +6,31 @@ body {
   font-size: 16px;
 }
 
+input {
+  width : 100%;
+  border: 0;
+  background-color: $light-grey;
+  height: 40px;
+  padding: 10px 10px 10px 10px;
+  color:$white;
+}
+
+::-webkit-input-placeholder {
+  color: $grey;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+  color: $grey;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+  color: $grey;
+}
+
+:-ms-input-placeholder {
+  color: $grey;
+}
+
 .wrapper {
   width: 1440px;
   max-width: 60%;
@@ -147,25 +172,13 @@ blockquote {
   }
 
   .btn, .btn-large-white {
-
-    //font-weight:normal;
     height : 30px;
     line-height : 30px;
     font-size: 1em !important;
     width : 180px !important;
-
-    //.material-icons {
-    //  position:relative;
-    //  top:3px;
-    //}
   }
 
 }
-
-
-
-
-
 
 .navbar-fixed {
 
