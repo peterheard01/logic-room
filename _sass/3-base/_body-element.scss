@@ -6,7 +6,7 @@ body {
   font-size: 16px;
 }
 
-input {
+input, textarea {
   width : 100%;
   border: 0;
   background-color: $light-grey;
@@ -15,19 +15,22 @@ input {
   color:$white;
 }
 
-::-webkit-input-placeholder {
-  color: $grey;
+textarea {
+  height: 100px;
 }
 
-:-moz-placeholder { /* Firefox 18- */
-  color: $grey;
+.btn-form-submit {
+  background-color: $button_color;
+  border: none;
+  color: white;
+  padding: 5px 15px;
 }
 
-::-moz-placeholder {  /* Firefox 19+ */
-  color: $grey;
+.form-item {
+  margin-bottom:10px;
 }
 
-:-ms-input-placeholder {
+::-webkit-input-placeholder, :-moz-placeholder,::-moz-placeholder, :-ms-input-placeholder   {
   color: $grey;
 }
 
