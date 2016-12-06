@@ -12,7 +12,8 @@ layout: default
 
     <h1 class="title orange-text center">London, Reading, UK, Worldwide (Remote)</h1>
 
-    <p class="center">Need help with a project? Fill in your details. We don't employ bots so typically it will be a 24-48 hr response!</p>
+    <p class="center">Need help with a project? Fill in your details. We don't employ bots so typically it will be a
+      24-48 hr response!</p>
 
     <br>
     <br>
@@ -38,7 +39,16 @@ layout: default
         </div>
 
         <div class="col-md-6 form-item center">
-          <input type="text" name="reason" placeholder="Reason For Contact">
+
+          <select class="form-dropdown" id="reason-for-contact" name="reason-for-contact" tabindex="1" autofocus="autofocus">
+            <option style='color: red' selected="selected" disabled="disabled">
+              <span style="color:red;">Reason for contact</span>
+            </option>
+            <option value="general">Training/Guidance</option>
+            <option value="services">Code Review/Legacy Support</option>
+            <option value="careers">Custom Development (Web/Mobile/Enterprise)</option>
+          </select>
+
         </div>
 
       </div>
