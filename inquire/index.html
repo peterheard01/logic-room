@@ -1,3 +1,29 @@
 ---
 layout: default
 ---
+
+<form action="https://formkeep.com/f/b9e1654192c6" method="post" data-id="contact-form">
+  <ul class="form-list">
+    <li><select id="reason-for-contact" name="reason-for-contact" tabindex="1" autofocus="autofocus"
+                data-id="contact-form-reason-for-contact-input">
+      <option selected="selected" disabled="">Reason for contact</option>
+      <option value="general">General Inquiry</option>
+      <option value="services">8th Light's Services</option>
+      <option value="careers">Careers / Apprenticeship</option>
+    </select>
+      <ul class="no-bullets field-errors" data-id="contact-form-reason-for-contact-errors"></ul>
+    </li>
+    <li><input type="text" id="name" name="name" tabindex="2" data-id="contact-form-name-input" placeholder="Full name">
+      <ul class="no-bullets field-errors" data-id="contact-form-name-errors"></ul>
+    </li>
+    <li><input type="text" id="email" name="email" tabindex="3" data-id="contact-form-email-input" placeholder="Email">
+      <ul class="no-bullets field-errors" data-id="contact-form-email-errors"></ul>
+    </li>
+    <li><input type="tel" id="phone-number" name="phone-number" tabindex="4" data-id="contact-form-phone-number-input"
+               placeholder="Phone number (optional)"></li>
+    <li><textarea id="message" name="message" tabindex="5" data-id="contact-form-message-input"
+                  placeholder="Message"></textarea>
+      <ul class="no-bullets field-errors" data-id="contact-form-message-errors"></ul>
+    </li>
+  </ul>
+  <input type="submit" class="primary full" value="Submit"></form>
