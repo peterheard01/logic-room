@@ -1,1 +1,27 @@
 <script async src="/libs/scripts.js"></script>
+
+{% if page.category == 'javascript' %}
+
+<div>
+  You are viewing a javascript
+
+  <script>
+
+    setTimeout(function(){
+
+
+      $(window).scroll(function () {
+        if ($(window).scrollTop() > $('body').height() / 2) {
+          console.log('half way');
+        }
+      });
+
+
+    },100);
+
+
+  </script>
+
+</div>
+
+{% endif %}

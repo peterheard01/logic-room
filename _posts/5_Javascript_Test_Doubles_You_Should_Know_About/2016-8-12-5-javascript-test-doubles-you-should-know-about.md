@@ -4,6 +4,7 @@ title: 5 Javascript Test Doubles You Should Know About
 author: Pete Heard
 excerpt: In this blog we will have a look at 5 Test Doubles. In my free [TDD E-book](http://www.peteheard.com/testdrivendevelopment/) I only cover 2 (the Stub and the Spy) ...
 thumbnail: 404.jpg
+category : javascript
 date:   2016-02-3 01:03:50 +0000
 ---
 
