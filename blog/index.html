@@ -11,7 +11,7 @@ layout: default
     {% for post in site.posts limit:6 %}
 
     <a href="{{post.url}}"><h1>{{post.title}} </h1></a> Posted by {{ post.author }} | {{ post.date | date: "%B, %d, %Y" }}
-    <p class="small-p">{{ post.excerpt }}</p>
+    <p class="small-p text-left">{{ post.excerpt }}</p>
 
     {% endfor %}
 

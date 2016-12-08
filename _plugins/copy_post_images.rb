@@ -25,11 +25,6 @@ Jekyll::Hooks.register :posts, :post_write do |post|
 
     #FileUtils.copy_entry('/Stuff/Dropbox/1_current/3_logic_room/_posts/1_angular_2_modules_and_components_article','/Stuff/Dropbox/1_current/3_logic_room/_site/modules-and-components-article')
 
-
-
-
-
-
     #post_dest_path
     #puts post_folder_name #'welcome-to-jekyll'
 
