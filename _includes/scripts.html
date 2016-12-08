@@ -2,23 +2,27 @@
 
 {% if page.category == 'javascript' %}
 
-<div>
-  You are viewing a javascript
 
+<div style="height:150px; width:100%; background-color:red; position: fixed; bottom:0px">
+  asdfsd
+</div>
+
+
+<div>
   <script>
 
     setTimeout(function(){
 
-
       $(window).scroll(function () {
         if ($(window).scrollTop() > $('body').height() / 2) {
+
           console.log('half way');
+
+          $(window).unbind('scroll');
+
         }
       });
-
-
     },100);
-
 
   </script>
 
