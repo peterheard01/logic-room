@@ -9,6 +9,15 @@
 
           $('.news-popup').slideDown();
 
+          $("#my-form").submit(function(e) {
+            e.preventDefault();
+
+            var $form = $(this);
+            $.post($form.attr("action"), $form.serialize()).then(function() {
+              alert("Thank you!");
+            });
+          });
+
           $(window).unbind('scroll');
         }
       });
@@ -19,7 +28,28 @@
 
   <div class="news-popup">
 
-    sdsd
+    <!-- Begin MailChimp Signup Form -->
+
+
+          <h1>Want to Learn TDD?</h1>
+
+          <h2>Download our FREE E-Book now!</h2>
+
+
+    <form id="my-form" name="dev-list" netlify netlify-honeypot="bot-field">
+      <p><label>Email: <input name="email"></label></p>
+      <p class="hidden"><label>Bot field: <input name="bot-field"></label></p>
+      <p><label>Message: <textarea name="message"></textarea></label></p>
+      <p><button>Send</button></p>
+    </form>
+
+
+
+    <!--End mc_embed_signup-->
+
+<script>
+
+</script>
 
   </div>
 
