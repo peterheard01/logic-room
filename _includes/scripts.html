@@ -2,53 +2,27 @@
 
 {% if page.category == 'javascript' %}
 
-<script src="//load.sumome.com/" data-sumo-site-id="4fddae07d1ccee99330aead25d75ae85bc6804e99fefd1e92c06f38a3d7dfa03" async="async"></script><script src="//load.sumome.com/" data-sumo-site-id="4fddae07d1ccee99330aead25d75ae85bc6804e99fefd1e92c06f38a3d7dfa03" async="async"></script>
-
-
-
-<!--<div style="height: 150px;-->
-    <!--width: 200px;-->
-    <!--background-color: red;-->
-    <!--position: fixed;-->
-    <!--bottom: 0px;-->
-    <!--opacity: 1;-->
-    <!--right: 200px;">-->
-
-<!--sdsd-->
-
-<!--</div>-->
-
-
-<!--<div style="height:150px; width:100%; background-color:red; position: fixed; bottom:0px; opacity:1;">-->
-
-  <!--<div style="width: 200px;-->
-    <!--background-color: white;-->
-    <!--float: right;-->
-    <!--margin-right: 200px;-->
-    <!--height: 200px;">-->
-    <!--ss-->
-  <!--</div>-->
-
-<!--</div>-->
-
-
-<div>
   <script>
-
     setTimeout(function(){
-
       $(window).scroll(function () {
         if ($(window).scrollTop() > $('body').height() / 2) {
 
-          console.log('half way');
+          $('.news-popup').slideDown();
 
           $(window).unbind('scroll');
-
         }
       });
-    },100);
 
+    },2000);
   </script>
+
+
+  <div class="news-popup">
+
+    sdsd
+
+  </div>
+
 
 </div>
 
