@@ -2,58 +2,61 @@
 
 {% if page.category == 'javascript' %}
 
-  <script>
-    setTimeout(function(){
-      $(window).scroll(function () {
-        if ($(window).scrollTop() > $('body').height() / 2) {
 
-          $('.news-popup').slideDown();
+<script src="//load.sumome.com/" data-sumo-site-id="4fddae07d1ccee99330aead25d75ae85bc6804e99fefd1e92c06f38a3d7dfa03" async="async"></script>
 
-          $("#my-form").submit(function(e) {
-            e.preventDefault();
+  <!--<script>-->
+    <!--setTimeout(function(){-->
+      <!--$(window).scroll(function () {-->
+        <!--if ($(window).scrollTop() > $('body').height() / 2) {-->
 
-            var $form = $(this);
-            $.post($form.attr("action"), $form.serialize()).then(function() {
-              alert("Thank you!");
-            });
-          });
+          <!--$('.news-popup').slideDown();-->
 
-          $(window).unbind('scroll');
-        }
-      });
+          <!--$("#my-form").submit(function(e) {-->
+            <!--e.preventDefault();-->
 
-    },2000);
-  </script>
+            <!--var $form = $(this);-->
+            <!--$.post($form.attr("action"), $form.serialize()).then(function() {-->
+              <!--alert("Thank you!");-->
+            <!--});-->
+          <!--});-->
 
+          <!--$(window).unbind('scroll');-->
+        <!--}-->
+      <!--});-->
 
-  <div class="news-popup">
-
-    <!-- Begin MailChimp Signup Form -->
+    <!--},2000);-->
+  <!--</script>-->
 
 
-          <h1>Want to Learn TDD?</h1>
+  <!--<div class="news-popup">-->
 
-          <h2>Download our FREE E-Book now!</h2>
-
-
-    <form id="my-form" name="dev-list" netlify netlify-honeypot="bot-field">
-      <p><label>Email: <input name="email"></label></p>
-      <p class="hidden"><label>Bot field: <input name="bot-field"></label></p>
-      <p><label>Message: <textarea name="message"></textarea></label></p>
-      <p><button>Send</button></p>
-    </form>
+    <!--&lt;!&ndash; Begin MailChimp Signup Form &ndash;&gt;-->
 
 
+          <!--<h1>Want to Learn TDD?</h1>-->
 
-    <!--End mc_embed_signup-->
-
-<script>
-
-</script>
-
-  </div>
+          <!--<h2>Download our FREE E-Book now!</h2>-->
 
 
-</div>
+    <!--<form id="my-form" name="dev-list" netlify netlify-honeypot="bot-field">-->
+      <!--<p><label>Email: <input name="email"></label></p>-->
+      <!--<p class="hidden"><label>Bot field: <input name="bot-field"></label></p>-->
+      <!--<p><label>Message: <textarea name="message"></textarea></label></p>-->
+      <!--<p><button>Send</button></p>-->
+    <!--</form>-->
+
+
+
+    <!--&lt;!&ndash;End mc_embed_signup&ndash;&gt;-->
+
+<!--<script>-->
+
+<!--</script>-->
+
+  <!--</div>-->
+
+
+<!--</div>-->
 
 {% endif %}
