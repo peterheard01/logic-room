@@ -10,6 +10,11 @@
 
         $('.news-popup').slideDown();
 
+        $("#theForm").submit(function(e){
+          return false;
+        });
+
+
         $("#my-form").submit(function (e) {
           e.preventDefault();
 
@@ -25,8 +30,32 @@
 
   }, 2000);
 
-  function myFunction(){
+  function myFunction() {
     $('.news-popup').slideUp();
+  }
+
+  function submitClick(){
+//    $("#theForm").ajaxSubmit({url: '//app.mailerlite.com/webforms/submit/m9c8b8', type: 'post'});
+
+    // this is the id of the form
+    $("#theForm").submit(function(e) {
+
+      var url = "//app.mailerlite.com/webforms/submit/m9c8b8"; // the script where you handle the form input.
+
+      $.ajax({
+        type: "POST",
+        url: url,
+        data: $("#idForm").serialize(), // serializes the form's elements.
+        success: function(data)
+        {
+          alert(data); // show response from the php script.
+        }
+      });
+
+      e.preventDefault(); // avoid to execute the actual submit of the form.
+    });
+
+
   }
 
 </script>
@@ -36,32 +65,54 @@
 
   <div onclick="myFunction()" style="float:right; cursor:pointer;" class="text-white">x</div>
 
-  <h3 class="center text-white">Want to Learn TDD?</h3>
 
-  <h5 class="center text-white">Download our FREE E-Book now!</h5>
+  <script type="text/javascript" src="//app.mailerlite.com/data/webforms/244285/m9c8b8.js?v3"></script>
 
-  <br>
+  <style>
+    #mlb2-3740817 .subscribe-form{
+      border: 0px solid #F6F6F6 !important;
+      width:310px !important;
+    }
 
-  <form>
+    #mlb2-3740817 .subscribe-form .form-section h4{
+      text-align:center !important;
+    }
 
+    #mlb2-3740817 .subscribe-form .form-section p{
+      text-align:center !important;
+    }
 
-
-  <input style="color:black" type="text" placeholder="Enter Name"/>
-
-  <br>
-  <br>
-
-  <input style="color:black" type="text" placeholder="Enter Email"/>
-
-
-    <br>
-    <br>
+  </style>
 
 
-    <input style="color:black"  type="submit" value="Send">
 
 
-  </form>
+  <!--<h3 class="center text-white">Want to Learn TDD?</h3>-->
+
+  <!--<h5 class="center text-white">Download our FREE E-Book now!</h5>-->
+
+  <!--<br>-->
+
+  <!--<form id="theForm" action="//app.mailerlite.com/webforms/submit/m9c8b8">-->
+
+    <!--<input style="color:black" type="text" name="fields[name]" class="form-control" placeholder="Name" value="">-->
+
+    <!--<br>-->
+    <!--<br>-->
+
+    <!--<input style="color:black" type="text" name="fields[last_name]" class="form-control" placeholder="Last name" value="">-->
+
+    <!--<br>-->
+    <!--<br>-->
+
+    <!--<input style="color:black"  type="text" name="fields[email]" class="form-control" placeholder="Email*" value="">-->
+
+    <!--<br>-->
+    <!--<br>-->
+
+    <!--<input onclick="submitClick()" style="color:black" type="submit" value="Download">-->
+
+  <!--</form>-->
 
 
 </div>
