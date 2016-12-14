@@ -3,60 +3,68 @@
 {% if page.category == 'javascript' %}
 
 
-<script src="//load.sumome.com/" data-sumo-site-id="4fddae07d1ccee99330aead25d75ae85bc6804e99fefd1e92c06f38a3d7dfa03" async="async"></script>
+<script>
+  setTimeout(function () {
+    $(window).scroll(function () {
+      if ($(window).scrollTop() > $('body').height() / 2) {
 
-  <!--<script>-->
-    <!--setTimeout(function(){-->
-      <!--$(window).scroll(function () {-->
-        <!--if ($(window).scrollTop() > $('body').height() / 2) {-->
+        $('.news-popup').slideDown();
 
-          <!--$('.news-popup').slideDown();-->
+        $("#my-form").submit(function (e) {
+          e.preventDefault();
 
-          <!--$("#my-form").submit(function(e) {-->
-            <!--e.preventDefault();-->
+          var $form = $(this);
+          $.post($form.attr("action"), $form.serialize()).then(function () {
+            alert("Thank you!");
+          });
+        });
 
-            <!--var $form = $(this);-->
-            <!--$.post($form.attr("action"), $form.serialize()).then(function() {-->
-              <!--alert("Thank you!");-->
-            <!--});-->
-          <!--});-->
+        $(window).unbind('scroll');
+      }
+    });
 
-          <!--$(window).unbind('scroll');-->
-        <!--}-->
-      <!--});-->
+  }, 2000);
 
-    <!--},2000);-->
-  <!--</script>-->
+  function myFunction(){
+    $('.news-popup').slideUp();
+  }
 
-
-  <!--<div class="news-popup">-->
-
-    <!--&lt;!&ndash; Begin MailChimp Signup Form &ndash;&gt;-->
+</script>
 
 
-          <!--<h1>Want to Learn TDD?</h1>-->
+<div class="news-popup">
 
-          <!--<h2>Download our FREE E-Book now!</h2>-->
+  <div onclick="myFunction()" style="float:right; cursor:pointer;" class="text-white">x</div>
 
+  <h3 class="center text-white">Want to Learn TDD?</h3>
 
-    <!--<form id="my-form" name="dev-list" netlify netlify-honeypot="bot-field">-->
-      <!--<p><label>Email: <input name="email"></label></p>-->
-      <!--<p class="hidden"><label>Bot field: <input name="bot-field"></label></p>-->
-      <!--<p><label>Message: <textarea name="message"></textarea></label></p>-->
-      <!--<p><button>Send</button></p>-->
-    <!--</form>-->
+  <h5 class="center text-white">Download our FREE E-Book now!</h5>
+
+  <br>
+
+  <form>
 
 
 
-    <!--&lt;!&ndash;End mc_embed_signup&ndash;&gt;-->
+  <input style="color:black" type="text" placeholder="Enter Name"/>
 
-<!--<script>-->
+  <br>
+  <br>
 
-<!--</script>-->
-
-  <!--</div>-->
+  <input style="color:black" type="text" placeholder="Enter Email"/>
 
 
-<!--</div>-->
+    <br>
+    <br>
+
+
+    <input style="color:black"  type="submit" value="Send">
+
+
+  </form>
+
+
+</div>
+
 
 {% endif %}
