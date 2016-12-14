@@ -26,7 +26,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 permalink: /:title/
 
-include: [_redirects]
+include: [_redirects,resources]
 
 # Build settings
 markdown: kramdown
