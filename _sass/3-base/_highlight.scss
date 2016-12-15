@@ -18,18 +18,20 @@ p .highlighter-rouge {
 }
 
 .highlight {
-
+  font-size : em(16);
   .lineno {
     color:white;
     padding:0px 10px 0px 10px;
   }
-
-  //.pre {
-  //  margin-top:0px;
-  //  margin-bottom:0 !important;
-  //}
 }
 
+@media only screen and (min-width : 768px) {
+
+  .highlight {
+    font-size : em(20);
+  }
+
+}
 
 .highlight pre { background-color: #272822; margin-bottom:0px;  }
 .highlight .hll { background-color: #272822; }

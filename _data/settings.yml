@@ -29,7 +29,9 @@ works:
 #-------------------------------------------
 # footer section
 footers:
-- {phone: '<p>Phone 07889 812 612</p>',
-  email: '<p>E-mail hq@logicroom.co</p>',
-  location: '<p>85A Westbourne Terrace <br>Reading <br> RG30 2RP</p>',
-  company: '<p>Registered Company: 7872364</p>'}
+- {
+    phone: 'Phone : 0118 328 3255',
+    email: 'E-mail hq@logicroom.co',
+    location: '85A Westbourne Terrace <br>Reading <br> RG30 2RP',
+    company: 'Registered Company: 7872364'
+  }

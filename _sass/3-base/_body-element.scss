@@ -14,9 +14,7 @@ body {
     background-color: $light-grey;
     height: 40px;
     padding: 10px 10px 10px 10px;
-    color:$white;
-
-
+    color:black;
   }
 
   select {
@@ -132,6 +130,10 @@ body {
 
   a {
     text-decoration: underline;
+  }
+
+  .btn, .btn-large-white {
+    text-decoration: none;
   }
 
   .center {
