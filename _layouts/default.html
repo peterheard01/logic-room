@@ -2,9 +2,7 @@
 <html lang="en">
   <head>
 
-    <!--<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>-->
 
-    {% include meta.html %}
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -14,28 +12,17 @@
     _agile.track_page_view(); </script>
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/main.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="shortcut icon" href="/favicon.ico">
+    <meta name="google-site-verification" content="msgxaDrqyjetSYkMKgjapBCJBRc054D7-oD6zwqNjN0"/>
 
-    <!--<meta property="og:locale" content="en_US" />-->
-    <!--<meta property="og:type" content="website" />-->
-    <!--<meta property="og:title" content="{{ site.name }}" />-->
-    <!--<meta property="og:description" content="{{ site.description }}" />-->
-    <!--<meta property="og:url" content="http://www.logicroom.co" />-->
-    <!--<meta property="og:site_name" content="{{ site.name }}" />-->
-    <!--<meta property="og:image" content="http://www.logicroom.co/images/lr_header.jpg" />-->
-    <!--<meta name="google-site-verification" content="msgxaDrqyjetSYkMKgjapBCJBRc054D7-oD6zwqNjN0"/>-->
-
-    <!-- Material Design icons -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-
-
-
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>{% if page.title %}{{ page.title }}{% else %}Todd Motto: JavaScript and Angular articles{% endif %}</title>
+
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="Logic Room">
     <!--<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}">-->
