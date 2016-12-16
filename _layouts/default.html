@@ -1,92 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
 
 
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="https://logicroom.agilecrm.com/stats/min/agile-min.js"></script>
+  <script type="text/javascript"> _agile.set_account('s3bapj947bl8aln6udn8l78qfc', 'logicroom');
+  _agile.track_page_view(); </script>
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <script type="text/javascript" src="https://logicroom.agilecrm.com/stats/min/agile-min.js"></script>
-    <script type="text/javascript"> _agile.set_account('s3bapj947bl8aln6udn8l78qfc', 'logicroom');
-    _agile.track_page_view(); </script>
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/main.css"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+        href="{{ site.baseurl }}/feed.xml"/>
+  <link rel="shortcut icon" href="/favicon.ico">
+  <meta name="google-site-verification" content="msgxaDrqyjetSYkMKgjapBCJBRc054D7-oD6zwqNjN0"/>
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/main.css" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="shortcut icon" href="/favicon.ico">
-    <meta name="google-site-verification" content="msgxaDrqyjetSYkMKgjapBCJBRc054D7-oD6zwqNjN0"/>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
 
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="author" content="Logic Room">
+  <!--<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}">-->
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  {% if page.title %}
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description"
+        content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:image" content="{{ site.url }}/images/lr-header.jpg">
+  <meta property="og:publisher" content="https://www.facebook.com/logicroomlimited/">
 
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="author" content="Logic Room">
-    <!--<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}">-->
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-    {% if page.title %}
-    <meta property="og:locale" content="en_US">
-    <meta property="og:type" content="article">
-    <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:site_name" content="{{ site.title }}">
-    <meta property="og:image" content="{{ site.url }}/images/lr-header.jpg">
-    <meta property="og:publisher" content="https://www.facebook.com/logicroomlimited/">
-
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@LogicRoomCo">
-    <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="twitter:image" content="{{ site.url }}/images/lr_header.jpg">
-    {% endif %}
-
-
-
-
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@LogicRoomCo">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description"
+        content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="{{ site.url }}/images/lr_header.jpg">
+  {% endif %}
 
 
-
-  </head>
-
+</head>
 
 
-  <body>
+<body>
 
-  <div id="logic-room">
+<div id="logic-room">
 
-    {% include analytics.html %}
+  {% include analytics.html %}
 
-    {% include navigation.html %}
+  {% include navigation.html %}
 
-    {{content}}
+  {{content}}
 
-    {% include scripts.html %}
+  {% include scripts.html %}
 
-  </div>
+</div>
 
-  </body>
+</body>
 
-  <script>
-    (function (i, s, o, g, r, a, m) {
-      i['GoogleAnalyticsObject'] = r;
-      i[r] = i[r] || function () {
-          (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-      a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0];
-      a.async = 1;
-      a.src = g;
-      m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-    ga('create', 'UA-51037049-1', 'logicroom.co');
-    ga('send', 'pageview');
+  ga('create', 'UA-51037049-1', 'logicroom.co');
+  ga('send', 'pageview');
 
-  </script>
+</script>
 
 </html>
