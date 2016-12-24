@@ -1,15 +1,24 @@
-#logic-room {
-  .blog {
-
-    padding-bottom : 70px;
-    .posted-by {
-      display : inline;
-    }
-
-    .addthis_inline_follow_toolbox {
-      //span {
-      //  display:none;
-      //}
-    }
-  }
+#blog_post {
+  background-image: url('/images/grey-blocks-left.png');
+  background-repeat: no-repeat;
+  padding-bottom : 70px;
 }
+
+//#logic-room {
+//  .blog {
+//
+//    //background-image: url('/images/grey-blocks-left.png');
+//    //background-repeat: no-repeat;
+//
+//    padding-bottom : 70px;
+//    .posted-by {
+//      display : inline;
+//    }
+//
+//    .addthis_inline_follow_toolbox {
+//      //span {
+//      //  display:none;
+//      //}
+//    }
+//  }
+//}
