@@ -47,6 +47,16 @@ kramdown:
       line_numbers: true
       start_line: 1
 
+sitemap:
+  filename: "/sitemap.xml"
+  exclude:
+      - "/assets/main.scss"
+  include_posts:
+      - "/index.html"
+  change_frequency_name: "change_frequency"
+  priority_name: "priority"
+
+
 
 gems:
   - jekyll-feed

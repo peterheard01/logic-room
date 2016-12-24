@@ -5,8 +5,6 @@ Jekyll::Hooks.register :posts, :post_write do |post|
     local_path = File.dirname(__FILE__)
     project_base_path = File.expand_path("../", local_path)
 
-
-
     #puts post.site.dest
 
     post_src_folder_path = File.dirname(post.path)
@@ -17,8 +15,8 @@ Jekyll::Hooks.register :posts, :post_write do |post|
     post_dst_folder_path = File.join(project_base_path,'_site',post_folder_name)
 
 
-    puts post_src_folder_path
-    puts post_dst_folder_path
+    # puts post_src_folder_path
+    # puts post_dst_folder_path
 
 
     FileUtils.copy_entry(post_src_folder_path, post_dst_folder_path)
@@ -27,10 +25,6 @@ Jekyll::Hooks.register :posts, :post_write do |post|
 
     #post_dest_path
     #puts post_folder_name #'welcome-to-jekyll'
-
-
-
-
 
 
 end

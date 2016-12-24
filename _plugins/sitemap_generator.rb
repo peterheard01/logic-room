@@ -66,8 +66,10 @@ module Jekyll
     # Returns nothing
     def generate(site)
       # Configuration
+
       sitemap_config = site.config['sitemap'] || {}
       @config = {}
+
       @config['filename'] = sitemap_config['filename'] || SITEMAP_FILE_NAME
       @config['change_frequency_name'] = sitemap_config['change_frequency_name'] || CHANGE_FREQUENCY_NAME
       @config['priority_name'] = sitemap_config['priority_name'] || PRIORITY_NAME
@@ -241,7 +243,7 @@ module Jekyll
     end
 
     # Is the page or post listed as something we want to exclude?
-    #
+
     # Returns boolean
     def excluded?(site, name)
       @config['exclude'].include? name
