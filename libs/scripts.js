@@ -46,7 +46,7 @@ $(document).ready(function() {
       margin:10,
       dots:true,
       autoplay:true,
-      autoplayTimeout:4000,
+      autoplayTimeout:17000,
       smartSpeed:2000
   });
 
