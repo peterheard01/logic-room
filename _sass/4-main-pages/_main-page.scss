@@ -262,6 +262,18 @@
 
   /************************* Articles Page *******************/
 
+  #articles {
+
+    background-image: url("/images/grey-blocks-left.png");
+    background-repeat: no-repeat;
+
+    h2 {
+      margin-top:0px;
+      padding-top:40px;
+    }
+
+  }
+
   #post {
     .title, .content {
       text-align: center;
