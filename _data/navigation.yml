@@ -7,8 +7,8 @@
   path: '/'
 
 - text: about us
-  url: 'about_us'
-  path: '/about_us/'
+  url: 'about-us'
+  path: '/about-us/'
 
 - text: blog
   url: 'blog/'

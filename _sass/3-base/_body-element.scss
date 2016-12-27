@@ -170,6 +170,19 @@ body {
     color: $button_color;
   }
 
+  .text-grey {
+    color:$grey;
+  }
+
+  .text-turqoise {
+    color:$logo_color;
+  }
+
+  .cubes-bg {
+    background-image: url('/images/grey-blocks-left.png');
+    background-repeat: no-repeat;
+  }
+
 
   @media only screen and (min-width : 768px) {
 
