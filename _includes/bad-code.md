@@ -5,7 +5,7 @@ Bad quality code is a serious problem. For any organisation looking to scale an 
 
 The best way to ensure high quality code is to stop bad code. By implementing a 3rd party code review you are placing a very clear ringfence around your investment. The best case scenario is that the code being developed in your organisation is good and nothing needs to be done, the worst case is that it isn't and you are creating a problem by not having a clear quality control policy.
 
-Software is not cheap to produce, it's important that you have a clear policy for quality control because low quality code it will increase your **cost** and your **risk**, read more about this in our [article](http://www.ggg) about code quality in Digital Transformation!
+Software is not cheap to produce, it's important that you have a clear policy for quality control because low quality code it will increase your **cost** and your **risk**, read more about this in our  <a href="/the-cost-of-poor-quality-code-on-digital-transformation/" target="_blank">article</a> about code quality in Digital Transformation!
 
 ### Do You Need a Code Review?
 

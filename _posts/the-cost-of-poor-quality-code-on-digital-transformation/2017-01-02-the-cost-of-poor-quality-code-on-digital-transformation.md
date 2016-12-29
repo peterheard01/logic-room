@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Code Quality Matters For Digital Transformation
+title: The Cost Of Poor Quality Code On Digital Transformation
 author: Pete Heard
 excerpt: This article will discuss code quality in the context of a large scale Digital Transformation ...
 thumbnail: 404.jpg
