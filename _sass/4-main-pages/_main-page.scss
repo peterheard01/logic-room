@@ -100,9 +100,21 @@
     }
     background-image: url("/images/grey-blocks-left.png");
     background-repeat: no-repeat;
-    p.seemore{
+    .more {
 
-      margin-top:0px;
+      font-size: 0.8em !important;
+      height: 25px;
+      padding: 0px;
+      line-height: 25px;
+      width: 50px !important;
+      border-radius: 3px;
+      box-shadow: none;
+      background-color:#bdbdbd;
+      position: absolute;
+      margin-left:20px;
+
+      bottom: 0px;
+      left:0px;
     }
   }
 

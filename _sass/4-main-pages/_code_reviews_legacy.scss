@@ -38,12 +38,78 @@
       }
 
       .box {
-        height: 700px !important;
+        height: 800px !important;
       }
     }
-
-
 
   }
 
 }
+
+
+@media only screen and (min-width: 856px) {
+
+  #code-reviews-legacy {
+
+    .code-reviews-legacy {
+
+      .box {
+        height: 700px !important;
+      }
+    }
+
+  }
+
+}
+
+@media only screen and (min-width: 1000px) {
+
+  #code-reviews-legacy {
+
+    .code-reviews-legacy {
+
+      .box {
+        height: 620px !important;
+      }
+    }
+
+  }
+
+}
+
+
+@media only screen and (min-width: 1200px) {
+
+  #code-reviews-legacy {
+
+    .code-reviews-legacy {
+
+      .box {
+        height: 700px !important;
+      }
+    }
+
+  }
+
+}
+
+
+
+
+@media only screen and (min-width: 1300px) {
+
+  #code-reviews-legacy {
+
+    .code-reviews-legacy {
+
+      .box {
+        height: 640px !important;
+      }
+    }
+
+  }
+
+}
+
+
+

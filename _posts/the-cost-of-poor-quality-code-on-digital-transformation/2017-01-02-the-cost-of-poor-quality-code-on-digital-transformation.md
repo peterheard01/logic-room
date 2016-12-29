@@ -30,7 +30,7 @@ There are two high level observations we can make about Software In General :
 
 In the context of a Digital Transfomration that involves people processes and technology all 3 have a dependency on digital systems, these systems are powered by code and that code is important!
 
-![Angular 2 CLI Project Selection Screen](images/1_image.png "Angular 2 CLI Project Selection Screen")
+![Digital Transformation Image](images/1_image.png "Digital Transformation Image")
 > The close relationship between Digital Transformation and Software Code
 
 ## Why Would Code Quality Matter?

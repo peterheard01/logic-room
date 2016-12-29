@@ -3,13 +3,15 @@ Bad quality code is a serious problem. For any organisation looking to scale an 
 
 ### Protecting Your Organisation Against Bad Code
 
-The best way to ensure high quality code is to stop bad code. By implementing a 3rd party code review you are placing a very clear ringfence around your investment. The best case scenario is that the code being developed in your organisation is good and nothing needs to be done, the worst case is that it isn't and you are creating a problem by not having a clear quality control policy.
+A [study](http://www.castsoftware.com/castresources/materials/wp/cast_2010-annual-report_keyfindings.pdf) by Cast Software performed an audit of 75 code bases found that the average codebase has 347,000 lines of code and this produces approximately $1,055,000 of technical debt or (bad code). 
+
+That is an astonishing financial cost that the average code base has and the best way to ensure high quality code is to stop bad code. By implementing a 3rd party code review you are placing a very clear ring-fence around your investment. The best case scenario is that the code being developed in your organisation is good and nothing needs to be done, the worst case is that it isn't and you are creating a problem by not having a clear quality control policy.
 
 Software is not cheap to produce, it's important that you have a clear policy for quality control because low quality code it will increase your **cost** and your **risk**, read more about this in our  <a href="/the-cost-of-poor-quality-code-on-digital-transformation/" target="_blank">article</a> about code quality in Digital Transformation!
 
 ### Do You Need a Code Review?
 
-Bad code isnt' the only reason you may want some help with auditing your code, there are a number of reasons an organisation would seek an independant code review or audit. Typically they will fall into one of the following categories : 
+Bad code isn't the only reason you may want some help with auditing your code, there are a number of reasons an organisation would seek an independent code review or audit. Typically they will fall into one of the following categories : 
 
 1. **Delivery** : Too many bugs, deliveries being too late or perhaps the software idn't meeting the demands of the business, the client has problems and would like to know what to do!
 2. **Knowledge/Skills Improvement** : The best way to improve your in-house teams skills are to look at the actual output of their work. A codebase wide review can be used to create a clear action plan for skills and knowledge improvement. This can then be put into an integrated training plan for the team.
@@ -18,11 +20,11 @@ Bad code isnt' the only reason you may want some help with auditing your code, t
 
 ### How Our Code Review and Audit Report Service Works
 
-We take a high level look at your entire code base(s). And produce a report. Dependant on your objectives we work with you moving forward to help you improve. The process works like this...
+We provide a service where we can review or audit your code, what we do is take a high level look at your entire code base(s). And produce a report. Dependant on your objectives we work with you moving forward to help you improve. The process works like this...
 
 #### 1. Identifying Objectives
 
-We have a conversation with you to establish what exactly you are trying to achieve (detailed above). This is important becuase it will help us focus on the right area and produce a report which can hone in on the specific area you want to.
+We have a conversation with you to establish what exactly you are trying to achieve (detailed above). This is important because it will help us focus on the right area and produce a report which can hone in on the specific area you want to.
 
 #### 2. Producing The Report
 
@@ -50,15 +52,18 @@ Some clients would like to have a monthly, quarterly or bi-annual healthcheck on
 
 As a full stack Software Consultancy specialising in the development of high complexity systems with a focus on software code quality we can help you by extending or improving your systems for you. 
 
+
+<br>
+
 ### FAQ
 
-#### Who does the report?
+##### Who perfroms the audit and compiles the report?
 
-We use a Logic Room Technical Lead / consultant to perform compile the report. On the rare occasion we are working with niche technology we may work with our external network. 
+A Logic Room Technical Lead / Software Consultant to perform compile the report. On the rare occasion we are working with niche technology we may work with our external network. 
 
-You can see more about how we work as a consultancy and how skilled our technical leads are by watching our video [here](here).
+You can see more about how we work as a consultancy and how skilled our technical leads are by watching our video <a class="popup-youtube" href="https://www.youtube.com/watch?v=rZPrftWLfrc">here</a>
 
-#### But my team(s) already does this, why use you?
+#### But my team(s) already implements code reviews, why would I need this done externally?
 
 Teams can and often do review code well and manage quality. However by placing quality only 'at the team level' it's hard for an organistion to provide a consistent organisation wide policy on quality control. What is good for one team often isn't for the other, what is important to one team may not be even known by another. Having a higher level of reviewing helps to connect these dots. It **is** possible to create a consistent policy on Object Oriented code. There are fundamental rules and principles that govern the design of code. This is why you would invest in a code review, to create better consistency and quality across your code bases.
 
