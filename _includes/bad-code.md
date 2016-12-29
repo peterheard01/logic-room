@@ -87,9 +87,7 @@ As a full stack Software Consultancy specialising in the development of high com
 
 <br>
 
-<br>
-
-
+<!--first-->
 <div class="row">
     <div class="col-xs-1">
         <img src="/images/icons/plus.png"/>
@@ -106,8 +104,101 @@ As a full stack Software Consultancy specialising in the development of high com
 </div>
 
 <br>
+
+<!--second-->
+<div class="row">
+    <div class="col-xs-1">
+        <img src="/images/icons/plus.png"/>
+    </div>
+    <div class="col-xs-11">
+        <h5> My team already implements code reviews, why would I need this done externally?</h5>
+    </div>
+</div>
+
+<div class="answer">
+<p>Teams can and often do review code well and manage quality. However by placing quality only 'at the team level' it's hard for an organistion to provide a consistent organisation wide policy on quality control. What is good for one team often isn't for the other, what is important to one team may not be even known by another. Having a higher level of reviewing helps to connect these dots. It **is** possible to create a consistent policy on Object Oriented code. There are fundamental rules and principles that govern the design of code. This is why you would invest in a code review, to create better consistency and quality across your code bases.</p>
+
+<p>Added to this staff can and often do leave. Typical 1-3 month notice periods often do not leave enough time for total knowledge about code bases to be handed over exposing the organisation to even more risk. By working with us on an ongoing basis you can reduce risk and protect your investment.</p>
+</div>
+
+<br>
+
+<!--third-->
+<div class="row">
+    <div class="col-xs-1">
+        <img src="/images/icons/plus.png"/>
+    </div>
+    <div class="col-xs-11">
+        <h5>How much does this cost?</h5>
+    </div>
+</div>
+
+<div class="answer">
+    <p>This is dependant on the size of the code base and the client objectives.</p>
+
+    <p>We do provide a **fixed price** review for clients which will give a an overall health check and look for major problems. For clients that have specific concerns we look deeper into the code and we will be able to provide a more specific quote. </p>
+</div>
+
+
+<br>
+
+<!--fourth-->
+<div class="row">
+    <div class="col-xs-1">
+        <img src="/images/icons/plus.png"/>
+    </div>
+    <div class="col-xs-11">
+        <h5>How long will it take?</h5>
+    </div>
+</div>
+
+<div class="answer">
+<p>This is dependant on the client objectives and our current work-load but typically it will take 1-3 weeks for a normal code review to take place. This can be done sooner if there are pressing issues.</p>
+</div>
+
+
+<br>
+
+<!--fifth-->
+<div class="row">
+    <div class="col-xs-1">
+        <img src="/images/icons/plus.png"/>
+    </div>
+    <div class="col-xs-11">
+        <h5>If we have problems can you help us fix them?</h5>
+    </div>
+</div>
+
+<div class="answer">
+<p>Of course, as a full stack development consultancy that specialise in high quality maintainable code we can provide ongoing development and support for your enterprise applications. </p>
+</div>
+
+
+<br>
+
+<!--sixth-->
+<div class="row">
+    <div class="col-xs-1">
+        <img src="/images/icons/plus.png"/>
+    </div>
+    <div class="col-xs-11">
+        <h5>We plan on re-writing our applications, is this relevant?</h5>
+    </div>
+</div>
+
+<div class="answer">
+<p>By doing a proper audit of the code 'before' you rewrite it you may find that you don't need the rewrite and can simply modernise your code. Secondly if you have already started rewriting then auditing the code is an excellent way to make sure it is done to a high standard.</p>
+</div>
+
+
+
 <br>
 <br>
+<br>
+<br>
+
+
+
 
 
 </div>
