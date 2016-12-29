@@ -43,6 +43,10 @@ jQuery.easing.jswing=jQuery.easing.swing;jQuery.extend(jQuery.easing,{def:"easeO
 
 $(document).ready(function() {
 
+  $('.faq .row').click(function(elem){
+    $(this).next().toggle(1000);
+  });
+
   $('.box').responsiveEqualHeightGrid();
 
 

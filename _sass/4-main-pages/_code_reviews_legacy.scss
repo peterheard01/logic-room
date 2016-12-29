@@ -23,10 +23,29 @@
   .code-review {
 
     .faq {
-      //display:none;
-      div {
-        display:none;
+
+      .row {
+        cursor : pointer;
+        img{
+          max-width: none !important;
+          display : inline;
+          cursor : pointer;
+          padding: 0 0 0 15px !important;
+        }
+
+        h5 {
+          cursor : pointer;
+          margin : 0px;
+          padding-left: 4px;
+          padding-top : 2px;
+        }
+
+        .col-xs-1{
+          padding-left : 0px !important;
+        }
+
       }
+
     }
 
     .questions p{
@@ -46,9 +65,59 @@
 
 }
 
+@media only screen and (min-width: 530px) {
+
+
+  #code-reviews-legacy {
+
+    .code-review {
+      .faq {
+        .row {
+          h5 {
+            padding-left: 0px;
+          }
+        }
+      }
+    }
+  }
+
+}
+
+
+@media only screen and (min-width: 780px) {
+
+
+  #code-reviews-legacy {
+
+    .code-review {
+      .faq {
+        .row {
+          h5 {
+            padding-top: 0px !important;
+          }
+        }
+      }
+    }
+  }
+
+}
+
+
+
+
 @media only screen and (min-width: 768px) {
 
   #code-reviews-legacy {
+
+    .code-review {
+      .faq {
+        .row {
+          h5 {
+            padding-left: 0px !important;
+          }
+        }
+      }
+    }
 
     .code-reviews-legacy {
       .hug-bottom {
