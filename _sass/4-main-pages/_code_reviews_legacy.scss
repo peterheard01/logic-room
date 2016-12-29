@@ -1,17 +1,30 @@
-#code-reviews-legacy {
+#logic-room #code-reviews-legacy {
   .img-responsive {
     width: 120px;
   }
-  .box {
-    height: 400px;
+
+  .code-reviews-legacy {
+    ul {
+      width: 70%;
+      margin: auto;
+    }
+
+    .box {
+      height: 400px;
+    }
+    .languages {
+      text-align: center;
+    }
+
   }
-  .languages {
-    text-align: center;
+
+  .code-review {
+    .questions p{
+      margin-bottom : 2px;
+      text-align : center;
+    }
   }
-  ul {
-    width : 70%;
-    margin : auto;
-  }
+
 }
 
 @media only screen and (min-width: 768px) {
@@ -26,8 +39,6 @@
     .box {
       height: 700px !important;
     }
-
-
 
   }
 
