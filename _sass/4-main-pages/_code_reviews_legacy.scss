@@ -24,8 +24,14 @@
 
     .faq {
 
+      .answer {
+        display : none;
+      }
+
       .row {
         cursor : pointer;
+
+
         img{
           max-width: none !important;
           display : inline;
