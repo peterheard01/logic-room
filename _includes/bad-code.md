@@ -47,6 +47,86 @@ Bad code isn't the only reason you may want some help with auditing your code, t
 
 </div>
 
+<h3 class="center">Request Details / Pricing</h3>
+
+<br>
+
+<form name="contact" action="request-code-review-info" netlify="">
+
+  <div class="row">
+
+    <div class="col-md-6 form-item center wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+      <input type="text" name="name" placeholder="Full Name">
+    </div>
+
+    <div class="col-md-6 form-item center wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+      <input type="email" name="work email" placeholder="Work Email">
+    </div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col-md-6 form-item center wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+      <input type="text" name="position" placeholder="Title/Position">
+    </div>
+
+    <div class="col-md-6 form-item center wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+
+      <select class="form-dropdown" id="reason-for-contact" name="reason-for-contact" tabindex="1" autofocus="autofocus">
+        <option style="color: red" selected="selected" disabled="disabled">
+          Objective?
+        </option>
+        <option value="general">  Improve Delivery</option>
+        <option value="services"> Improve Developer Skills</option>
+        <option value="careers">  Cloud Migration/ Legacy Support</option>
+        <option value="careers">  Security Audit</option>
+        <option value="careers">  Other</option>
+      </select>
+
+    </div>
+
+  </div>
+  
+    <div class="row">
+    
+      <div class="col-md-12 form-item" style="visibility: visible; animation-name: fadeIn;">
+  
+        <select class="form-dropdown" id="reason-for-contact" name="reason-for-contact" tabindex="1" autofocus="autofocus">
+          <option style="color: red" selected="selected" disabled="disabled">
+            Language
+          </option>
+          <option value="general">  Javascript</option>
+          <option value="services"> C#</option>
+          <option value="careers">  Java</option>
+          <option value="careers">  Ruby</option>
+          <option value="careers">  Python</option>
+          <option value="careers">  Swift</option>
+          <option value="careers">  Other</option>
+        </select>
+  
+      </div>
+  
+    </div>
+
+  <div class="row">
+  
+  <br>
+  <br>
+
+    <div class="col-md-12 form-item center">
+
+      <button class="btn-form-submit">GET IN TOUCH</button>
+
+    </div>
+
+  </div>
+
+</form>
+
+  <br>
+  <br>
+
 ### How Our Code Review/Audit Process Works in 4 Steps
 
 We provide a service where we can review or audit your code, what we do is take a high level look at your entire code base(s). And produce a report. Dependant on your objectives we work with you moving forward to help you improve. The process works like this...
