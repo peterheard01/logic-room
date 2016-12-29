@@ -1,6 +1,11 @@
 ### Bad Code
 Bad quality code is a serious problem. For any organisation looking to scale an ambitious digital strategy requires not just the best in sales, marketing and operations but it requires the best from it's technology. More and more organisations are finding their technology is dependant on software code. Customer engagement, operational efficiency, security and complicance all have a dependency on the code at the heart of your digital operations...
 
+<div class="center">
+    <img class="mobile-only" src="/images/good-code-bad-code-mobile.png"/>
+    <img class="desktop-only" src="/images/good-code-bad-code-desktop.png"/>
+</div>
+
 ### Protecting Your Organisation Against Bad Code
 
 A [study](http://www.castsoftware.com/castresources/materials/wp/cast_2010-annual-report_keyfindings.pdf) by Cast Software performed an audit of 75 code bases found that the average codebase has 347,000 lines of code and this produces approximately $1,055,000 of technical debt or (bad code). 
@@ -18,6 +23,30 @@ Bad code isn't the only reason you may want some help with auditing your code, t
 2. **Technical** : Need to move to a public or on-prem cloud? Would you like to reconnect your application to different hardware, interfaces or remove legacy dependencies? Perhaps you are having peformance problems? By reviewing your code we can advise you on the costs, complexities and difficulties you may have.
 3. **Security** : Cyber security is a big risk to your business and growing by the day. Often clients need a way to ensure that their code base is secure. 
 
+
+<h5 class="center text-grey">A code review can shine a light on your code and help you with...</h5>
+
+<div class="row requirements">
+
+    <div class="col-xs-12 col-sm-3 col-md-3 box center">
+        <img src="/images/icons/delivery.png">
+        <p>delivery</P>
+    </div>
+    <div class="col-xs-12 col-sm-3 col-md-3 box center">
+        <img src="/images/icons/skills.png">
+        <p>dev skills</P>
+    </div>
+    <div class="col-xs-12 col-sm-3 col-md-3 box center">
+        <img src="/images/icons/technical.png">
+        <p>technical</P>
+    </div>
+    <div class="col-xs-12 col-sm-3 col-md-3 box center">
+        <img src="/images/icons/security.png">
+        <p>security</P>
+    </div>
+
+</div>
+
 ### How Our Code Review and Audit Report Service Works
 
 We provide a service where we can review or audit your code, what we do is take a high level look at your entire code base(s). And produce a report. Dependant on your objectives we work with you moving forward to help you improve. The process works like this...
@@ -32,7 +61,7 @@ Then we begin the report. The first thing we do is to run some of our automated 
 
 #### 3. Report Output
 
-We are reviewing your code against a number of metrics, for code bases where the client is interested in skills improvement for their developers we will look at things like :
+We are reviewing your code against a number of metrics, for code bases where the client is interested in skills improvement for their developers we will look at things like:
 
 - improving automated testing
 - developing better and more decoupled architecures
