@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Cost Of Poor Quality Code On Digital Transformation
+title: The Cost of Poor Quality Code on Digital Transformation
 author: Pete Heard
 excerpt: This article will discuss code quality in the context of a large scale Digital Transformation ...
 thumbnail: 404.jpg
@@ -66,6 +66,8 @@ For example; builders have a site foreman, accountants are independently audited
 
 Invariably as time passes, organizations eventually become aware that they have quality issues; excessive bugs, late releases, high developer churn and often the straight up inability to retain customers can all be symptoms of **bad code** ; we refer to this bad code as &#39;technical debt&#39;.
 
+{% markdown code-review/promo-block.md %}
+
 ## The Financial Cost of Bad Code / Technical Debt
 
 A [study](http://www.castsoftware.com/castresources/materials/wp/cast_2010-annual-report_keyfindings.pdf) by Cast Software performed an audit of 75 code bases and produced some interesting but also quite startling costs which provide us with an indication as to the financial burden that problems with code quality can place upon an organization. What they found is that on average a code base has exactly $2.82 of **technical debt** per line of code. What this means is an average cost of fixing some problems with that code base will equate to that cost per line. They identified problems by running a code analysis tool and identifying (Security, Performance, Robustness and Changeability) problems in the code. Whilst this automated tooling is not enough to spot software quality problems, it does provide us with at least a repeatable way of gathering data on this topic.
@@ -104,3 +106,6 @@ Organisations can and do chug along with poor quality code and it is possible to
 However, as we have seen, this comes loaded with higher **risk** and increased **cost** over the long term.  If you then take this increased risk and cost to it&#39;s conclusion it will simply drag an organization down to its weakest point and will make it uncompetitive.
 
 In a modern Digital Transformation programme an organisation should firstly look to unlock the hidden value in improving code quality and reducing technical debt for direct cost savings. Secondly they can reduce operational risk and improve customer satisfaction by driving up the internal quality of their applications. Improving code quality should be used as a tool to leverage faster and more efficient Digital Transformation.
+
+{% markdown code-review/promo-block.md %}
+
