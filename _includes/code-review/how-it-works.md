@@ -1,16 +1,16 @@
-### How Our Code Review/Audit Process Works in 4 Steps
+### How Our Code Review/Audit Process Works in 5 Steps
 
 We provide a service where we can review or audit your code, what we do is take a high level look at your entire code base(s). And produce a report. Dependant on your objectives we work with you moving forward to help you improve. The process works like this...
 
-#### 1. We Identify Your Objectives
+##### 1. We Identify Your Objectives
 
 We have a conversation with you to establish what exactly you are trying to achieve (detailed above). This is important because it will help us focus on the right area and produce a report which can hone in on the specific area you want to.
 
-#### 2. We Perform the Review
+##### 2. We Perform the Review
 
 Then we begin the report. The first thing we do is to run some of our automated tools to identify common low level repeated problems this gives us some valuable statistics. Then we audit the code and look for deeper and more complicated issues. These generally work at the architectural level. We write up the report in a word document and deliver it to you.
 
-#### 3. We Compile Your Report
+##### 3. We Compile Your Report
 
 We are reviewing your code against a number of metrics, for code bases where the client is interested in skills improvement for their developers we will look at things like:
 
@@ -26,11 +26,19 @@ For clients that have technical considerations we will look at things like :
 - Refactoring options for Cloud migrations
 - Advice on Legacy/Infrastructure improvements and some complexity estimations
 
-#### 4. Quarterly Health-checks and On-going Support
+##### 4. PDF Report + 30-45 Min Call
+
+At the end of the review you get your full report in PDF format and a 45 minute telephone consultation with a Technical Lead to discuss the findings. 
+
+##### 5. Quarterly Health-checks and On-going Support
 
 Some clients would like to have a monthly, quarterly or bi-annual healthcheck on the status of their code. This can be arranged up front so that checks can be kept up to date. We can review your code on an on going basis and produce a report for you. This allows you to get on with managing the rest of your technical operations knowing that quality control is being handled efficiently.
 
 As a full stack Software Consultancy specialising in the development of high complexity systems with a focus on software code quality we can help you by extending or improving your systems for you. 
+
+<br>
+
+
 
 <div class="faq">
 
@@ -85,9 +93,9 @@ As a full stack Software Consultancy specialising in the development of high com
 </div>
 
 <div class="answer">
-    <p>This is dependant on the size of the code base and the client objectives.</p>
+    <p>This is dependant on the size of the code base and the client objectives, but...</p>
 
-    <p>We do provide a **fixed price** review for clients which will give a an overall health check and look for major problems. For clients that have specific concerns we look deeper into the code and we will be able to provide a more specific quote. </p>
+    <p>We do also provide a <span class="bold">fixed price</span> review for clients which will give a an overall health check and look for major problems. For clients that have specific concerns we look deeper into the code and we will be able to provide a more specific quote. </p>
 </div>
 
 
