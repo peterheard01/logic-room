@@ -10,9 +10,9 @@
               <img class="img-responsive" src="images/{{%post.thumbnail%}}" alt="">
             </div>
             <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
-              <h3>{{post.title}}</h3>
+              <h3><a style="display:inline; text-decoration: none; color:black;" href="{{post.url}}">{{post.title}}</a></h3>
               <div class="span">
-                <span>By {{ post.author }} | {{ post.date | date: "%B, %d, %Y %R %P" }}</span>
+                <span>{{ post.date | date: "%B, %d, %Y %R %P" }}</span>
               </div>
               <p class="content">{{ post.excerpt }}</p>
               <a href="{{post.url}}" class="but">Read article  <i class="material-icons">trending_flat</i></a>
