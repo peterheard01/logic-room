@@ -143,6 +143,22 @@ As a full stack Software Consultancy specialising in the development of high com
 
 <br>
 
+<!--seventh-->
+<div class="row">
+    <div class="col-xs-1">
+        <img src="/images/icons/plus.png"/>
+    </div>
+    <div class="col-xs-11">
+        <h5>Which languages/platforms do you support?</h5>
+    </div>
+</div>
+
+<div class="answer">
+    <p>The languages we support are Javascript, C#, Java, Ruby, Python, Swift, Objective C. We can review web/mobile and enterprise applications. </p>
+</div>
+
+<br>
+
 </div>
 
 
