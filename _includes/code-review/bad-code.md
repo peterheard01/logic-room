@@ -24,25 +24,25 @@ Bad code isn't the only reason you may want some help with auditing your code, t
 3. **Security** : Cyber security is a big risk to your business and growing by the day. Often clients need a way to ensure that their code base is secure. 
 
 
-<h5 class="center text-grey">A code review can shine a light on your code and help you with...</h5>
+<h5 class="center text-grey">A full code review and audit can help you with ...</h5>
 
 <div class="row requirements">
 
     <div class="col-xs-12 col-sm-3 col-md-3 box center">
         <img src="/images/icons/delivery.png">
-        <p>speeding delivery</P>
+        <h5 class="text-grey">agile delivery</h5>
     </div>
     <div class="col-xs-12 col-sm-3 col-md-3 box center">
         <img src="/images/icons/skills.png">
-        <p>improving developer skills</P>
+        <h5 class="text-grey">developer skills</h5>
     </div>
     <div class="col-xs-12 col-sm-3 col-md-3 box center">
         <img src="/images/icons/technical.png">
-        <p>technical (cloud and legacy)</P>
+        <h5 class="text-grey">cloud and legacy migration</h5>
     </div>
     <div class="col-xs-12 col-sm-3 col-md-3 box center">
         <img src="/images/icons/security.png">
-        <p>security</P>
+        <h5 class="text-grey">security</h5>
     </div>
 
 </div>
