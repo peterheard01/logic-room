@@ -66,7 +66,7 @@ For example; builders have a site foreman, accountants are independently audited
 
 Invariably as time passes, organizations eventually become aware that they have quality issues; excessive bugs, late releases, high developer churn and often the straight up inability to retain customers can all be symptoms of **bad code** ; we refer to this bad code as &#39;technical debt&#39;.
 
-{% markdown code-review/promo-block.md %}
+{% markdown code-review/prompt-block.md %}
 
 ## The Financial Cost of Bad Code / Technical Debt
 
@@ -107,5 +107,5 @@ However, as we have seen, this comes loaded with higher **risk** and increased *
 
 In a modern Digital Transformation programme an organisation should firstly look to unlock the hidden value in improving code quality and reducing technical debt for direct cost savings. Secondly they can reduce operational risk and improve customer satisfaction by driving up the internal quality of their applications. Improving code quality should be used as a tool to leverage faster and more efficient Digital Transformation.
 
-{% markdown code-review/promo-block.md %}
+{% markdown code-review/prompt-block.md %}
 

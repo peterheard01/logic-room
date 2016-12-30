@@ -1,7 +1,7 @@
 <div style="background-color:red; padding : 10px; border-radius : 3px;">
     
-    <h3 style="display:inline;">Need a Code Review / Audit?!</h3>
-    
-    <h3 style="display:inline;"> &nbsp; &nbsp; <a href="/services/code-review/" > Click Here >> </a></h3>
-    
+    <h5 class="center">
+        PROMOTION : First 2 Code Reviews we do in 2017 are FREE, request details now to qualify!
+    </h5>
+        
 </div>

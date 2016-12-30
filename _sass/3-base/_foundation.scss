@@ -174,8 +174,16 @@ body {
     color:$grey;
   }
 
+  .text-dark {
+    color:$banner;
+  }
+
   .text-turqoise {
     color:$logo_color;
+  }
+
+  .bold {
+    font-family: 'Dosis-Medium';
   }
 
   .cubes-bg {

@@ -9,7 +9,7 @@
 
       <div class="row">
         <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
-          <h2 class="text-orange">sitemap</h2>
+          <h2 class="text-orange">Sitemap</h2>
           <ul>
           {% for nav in site.data.navigation %}
             <li><a href="/{{ nav.url }}">{{ nav.text }}</a></li>
@@ -17,7 +17,7 @@
           </ul>
         </div>
         <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
-          <h2 class="text-orange">social</h2>
+          <h2 class="text-orange">Social</h2>
           <ul>
             <li><a href="https://www.facebook.com/logicroomlimited" target="_blank">facebook</a></li>
             <li><a href="https://twitter.com/LogicRoomCo" target="_blank">twitter</a></li>
@@ -27,7 +27,7 @@
         {% for footer in site.data.settings.footers %}
           <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 
-            <h2 class="text-orange">contact us</h2>
+            <h2 class="text-orange">Contact Us</h2>
             <p class="text-white">{{ footer.phone }}</p>
             <p class="text-white">{{ footer.email }}</p>
             <p class="text-white">{{ footer.location }}</p>
