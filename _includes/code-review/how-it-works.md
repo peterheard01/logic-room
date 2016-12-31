@@ -30,6 +30,8 @@ For clients that have technical considerations we will look at things like :
 
 At the end of the review you get your full report in PDF format and a 45 minute telephone consultation with a Technical Lead to discuss the findings. 
 
+<img src="/images/code_report.png"/>
+
 ##### 5. Quarterly Health-checks and On-going Support
 
 Some clients would like to have a monthly, quarterly or bi-annual healthcheck on the status of their code. This can be arranged up front so that checks can be kept up to date. We can review your code on an on going basis and produce a report for you. This allows you to get on with managing the rest of your technical operations knowing that quality control is being handled efficiently.
