@@ -2,7 +2,7 @@
 layout: post
 title: 5 Javascript Test Doubles You Should Know About
 author: Pete Heard
-excerpt: In this blog we will have a look at 5 Test Doubles. In my free [TDD E-book](http://www.peteheard.com/testdrivendevelopment/) I only cover 2 (the Stub and the Spy) ...
+excerpt: In this blog we will have a look at 5 Test Doubles. In my free TDD E-book I only cover 2 (the Stub and the Spy) ...
 thumbnail: 404.jpg
 category : javascript
 date:   2016-02-3 01:03:50 +0000
@@ -14,7 +14,7 @@ In this blog we will have a look at 5 Test Doubles. In my free [TDD E-book](http
 
 A '`Test Double`' is a piece of code which can be used in place of code within the context of a test to help us make assertions. Whether you use TDD or BDD or you simply write tests after you write your code the definition of Test Double should not really alter. Of course it does depending on who you speak to but if you look at the history behind them (and by history I mean publication of books*) then you can that there is a rough conclusion about the different types. The most important thing we can do as professionals is to understand all terms, and what they mean so that in conversation, we can identify what we are speaking about more easily. * Test Driven Development, Kent Beck. Growing Object Oriented Software Guided by Tests, Steve Pryce and Nat Freeman. Xunit Test Patterns, Gerard Meszaros
 
-## What is a Test-Double?
+## What is a Test Double?
 
 A Test Double is simply an object that can be used in place of a real world object when executing production code with a unit-test. They have 3 main purposes...
 

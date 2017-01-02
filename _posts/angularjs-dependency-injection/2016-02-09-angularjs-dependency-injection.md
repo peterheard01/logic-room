@@ -2,13 +2,13 @@
 layout: post
 title: AngularJS Dependency Injection has 3 Key Benefits
 author: Pete Heard
-excerpt: This blog will talk about some hidden benefits of AngularJS Dependency Injection. It is really about Inversion of Control (IoC) ....
+excerpt: This blog will talk about some hidden benefits of AngularJS Dependency Injection; it's really about Inversion of Control (IoC) ....
 thumbnail: 404.jpg
 category : angular
 date:   2016-02-20 01:03:50 +0000
 ---
 
-This blog will talk about some hidden benefits of AngularJS Dependency Injection. It is really about Inversion of Control (IoC) in general and it's use in creating non-trivial applications. As a signed-up advocate of the Software Craftsmanship Manifesto I’m always interested in keeping design of software **[decoupled](https://en.wikipedia.org/wiki/Coupling_(computer_programming))** and I talk about this in my [free e-book about TDD](http://www.peteheard.com/tdd-simplified/). This leads to less **rigidity** in design (which over time will make development slow and difficult). Take, for example, the following code…
+This blog will talk about some hidden benefits of AngularJS Dependency Injection; it's really about Inversion of Control (IoC) in general and it's use in creating non-trivial applications. As a signed-up advocate of the Software Craftsmanship Manifesto I’m always interested in keeping design of software **[decoupled](https://en.wikipedia.org/wiki/Coupling_(computer_programming))** and I talk about this in my [free e-book about TDD](http://www.peteheard.com/tdd-simplified/). This leads to less **rigidity** in design (which over time will make development slow and difficult). Take, for example, the following code…
 
 ```javascript
 //simple function constructor which defines an order

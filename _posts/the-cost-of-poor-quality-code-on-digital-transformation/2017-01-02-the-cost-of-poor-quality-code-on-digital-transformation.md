@@ -2,13 +2,13 @@
 layout: post
 title: The Cost of Poor Quality Code on Digital Transformation
 author: Pete Heard
-excerpt: This article will discuss code quality in the context of a large scale Digital Transformation ...
+excerpt: This article will discuss code quality in the context of large scale Digital Transformation ...
 thumbnail: 404.jpg
 category : digital-transformation
 date:   2016-12-28 01:03:50 +0000
 ---
 
-This article will discuss code quality in the context of a large scale Digital Transformation. Specifically we will look at the disadvantages to allowing poor quality code to become embedded in your applications and assess some of the risks and costs it brings.
+This article will discuss code quality in the context of large scale Digital Transformation. Specifically we will look at the disadvantages to allowing poor quality code to become embedded in your applications and assess some of the risks and costs it brings.
 
 ## What We Will Cover :
 
