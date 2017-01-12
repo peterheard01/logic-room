@@ -2,13 +2,13 @@
 layout: post
 title: The Pitfalls in Continuous Integration/Continuous Deployment - and how to avoid them!
 author: Pete Heard
-excerpt: This article will discuss the main problems that occur in an automated release process using CI and CD ...
+excerpt: This article will discuss the potential pitfalls and problems in Continuous Integration and Continuous Deployment...
 thumbnail: 404.jpg
-category : digital-transformation
+category : agile-software-engineering
 date:   2017-01-12 06:05:50 +0000
 ---
 
-This article will discuss the potential pitfalls of [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) and [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery) (CI and CD respectively). Most importantly we will discover how to avoid them. Since the purpose is to create software we will begin this discussion by thinking about it from a software development perspective; most problems can be reduced down to writing code so this is a good place to start from; a bottom up approach so to speak.
+This article will discuss the potential pitfalls and problems in [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration){:target="_blank"} and [Continuous Deployment](https://www.agilealliance.org/glossary/continuous-deployment/){:target="_blank"} (CI and CD respectively). Most importantly we will discover how to avoid them. Since the purpose is to create software we will begin this discussion by thinking about it from a software development perspective; most problems can be reduced down to writing code so this is a good place to start from; a bottom up approach so to speak.
 
 ## What We Will Cover :
 
@@ -38,7 +38,7 @@ Working software without proof is useless. Trying to say something is done unles
 
 **GOAL 1** : To ensure high quality output (both functionality and code)
 
-The ultimate goal of a company is to make money. Of course we can argue for more noble goals but when it comes to spending large sums of money on making software then we should focus this business objective. If an organisation needs to make money then they can do it in any number of ways. Lately we have seen the [Digital Transformation](https://en.wikipedia.org/wiki/Digital_transformation) movement begin to take shape. If our business objective is to make money then how can our software delivery process support this objective? The answer is that we should try and create software for the lowest possible cost (as long as it fulfils the first goal).   Now we have arrived at our second goal:
+The ultimate goal of a company is to make money. Of course we can argue for more noble goals but when it comes to spending large sums of money on making software then we should focus this business objective. If an organisation needs to make money then they can do it in any number of ways. Lately we have seen the [Digital Transformation](https://en.wikipedia.org/wiki/Digital_transformation){:target="_blank"} movement begin to take shape. If our business objective is to make money then how can our software delivery process support this objective? The answer is that we should try and create software for the lowest possible cost (as long as it fulfils the first goal).   Now we have arrived at our second goal:
 
 **GOAL 2** : To decrease cost
 
