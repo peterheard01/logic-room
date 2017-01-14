@@ -5,10 +5,13 @@ author: Pete Heard
 excerpt: In this blog we will have a look at 5 Test Doubles. In my free TDD E-book I only cover 2 (the Stub and the Spy) ...
 thumbnail: 404.jpg
 category : javascript
-date:   2016-02-3 01:03:50 +0000
+date:   2015-08-12 01:03:50 +0000
+
+
+
 ---
 
-In this blog we will have a look at 5 Test Doubles. In my free [TDD E-book](http://www.peteheard.com/testdrivendevelopment/) I only cover 2 (the Stub and the Spy) since my personal experience is that when taking a state based approach to testing this is all that is needed. But it's good to know these 5 because most likely they will be dotted around code bases and being able to identify them is important.
+In this blog we will have a look at 5 Test Doubles. In our [TDD E-book](https://app.mailerlite.com/webforms/landing/b3d9r0){:target="_blank"} (which you can get by signing up to our mailing list) I only cover 2 (the Stub and the Spy) since my personal experience is that when taking a state based approach to testing this is all that is needed. But it's good to know these 5 because most likely they will be dotted around code bases and being able to identify them is important.
 
 ## What is a Test Double?
 
