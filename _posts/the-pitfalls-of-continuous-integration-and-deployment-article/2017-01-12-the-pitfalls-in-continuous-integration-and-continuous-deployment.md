@@ -46,7 +46,7 @@ Let's have a look at some pitfalls so you know what the main problems are when i
 
 ## Pitfall 1 : Skills Gaps (Dev-Ops)
 
-Okay, so the first and most common problem I see with clients using CI and CD is a 'skills gap'. There may be engineers who understand enough about specific platforms, technologies and languages but multi-faceted all-rounders can be a challenge.
+Okay, so the first and most common problem I see with clients using CI and CD is a 'skills gap'. There may be engineers who understand enough about specific platforms, technologies and languages but finding multi-faceted all-rounders can be a challenge.
 
 The key here is to realise that recruiting people solely for their ability to manage your CI and CD process is leaving a large knowledge gap in your overall software delivery capability. When we talk about Agile in Software Engineering one of the things that comes up time and time again is that of collaboration. If you want to build a highly collaborative team you have to create 'specialised generalists'. A 'specialised generalist' is someone who understands one area in depth but is also comfortable working in other roles in order to get the team as a whole to deliver software. What we don't want is the situation where developers think that their work is done when they finish writing code. Ideally we want to foster an environment of collective ownership of all parts of the development pipeline, specification --> deployment.
 
@@ -56,14 +56,14 @@ This is fundamentally the take home message with Dev-Ops; you need to start to i
 
 ## Pitfall 2: Network Connections and IO
 
-During both CI and CD we will need to have automated testing in place to check that new functionality is working and that past functionality has not broken. Most software will need at least 1 form of connection to the real world; the user interface and/or the database. Without them it would be difficult to use most applications. For testing purposes, quite often the software is built and packaged then a test suite (e.g. selenium) will drive the user interface and that interface, the application will call to a database.
+During both CI and CD we will need to have automated testing in place to check that new functionality is working and that past functionality has not broken. Most software will need at least 1 form of connection to the real world; the user interface and/or the database. Without them it would be difficult to use most applications. For testing purposes, quite often the software is built and packaged and then a test suite (e.g. selenium) will drive the user interface then the application will interact with a database.
 
 Whilst this form of testing provides a very real and human like form of behavioural flow it also has some major drawbacks. Here are a couple of points to note about this approach:
 
 1. If network connections are unreliable the tests can give out false positives
-2. Because it has to change databse values we have to write complex scripts to 'reset' the data
+2. Because it has to change database values we have to write complex scripts to 'reset' the data
 
-Both of these side effects affect the **entire** application and will end up increating cost and complexity.  So... is there a better way?
+Both of these side effects affect the **entire** application and will end up increasing cost and complexity.  So... is there a better way?
 
 ### Creating a Testable Architecture
 
@@ -88,9 +88,9 @@ By optimising architectures in this way you will increase the speed of your rele
 
 As we saw in our goals, the first objective of CI and CD is to get a high quality output. In order to do that (and as we discovered in Pitfall 2) we need to have automated testing. The ability for a developer to continuously change code without the fear of breaking it is one of the most important things that developers should be in the position to do. Automated testing allows this and fast automated testing promotes this!
 
-In order to write tests; we need to be able to accurately set a system up in a consistent fashion every time we execute the test. This means taking any moving variables out of the equation. Specificially what we want to do is 'lock' our test data. In large systems this is hard because the test data needs to be represented somehow. We already saw that it is not a good idea to use the database directly to store this test data ( it is too slow and complex to write reset scripts). The next best thing is to use our abstraction layers (from pitfall 2) and pass test data into the right parts of our CI/CD pipeline.
+In order to write tests; we need to be able to accurately set a system up in a consistent fashion every time we execute the tests. This means taking any moving variables out of the equation. Specificially what we want to do is 'lock' our test data. In large systems this is hard because the test data needs to be represented somehow. We already saw that it is not a good idea to use the database directly to store this test data ( it is too slow and complex to write reset scripts). The next best thing is to use our abstraction layers (from pitfall 2) and pass test data into the right parts of our CI/CD pipeline.
 
-In order to make sure our tests don't give us false positives (from dealing with incorrect data) we need to make sure that the test data is kept up-to-date. In order to know when our test data becomes invalid we can either create some sort of automated script to produce it (which might be too costly/difficult) or we can be diligent and keep on top of it. In order to facilitate the process of keeping test data up-to-date it is wise to keep all the test data in one place. This can be a as simple as having a folder where it is kept in your source control repository. In most of the projects we have done recently we stick to a rule and we keep it in a folder called ``/stubs. Every release, someone who understands the data architecture should give all the files in this folder the 'once over' and try and understand if any changes have been made to the schema. If they have these stubs should be updated. That way your CI/CD system will flag any errors before deployment.
+In order to make sure our tests don't give us false positives (from dealing with incorrect data) we need to make sure that the test data is kept up-to-date. In order to know when our test data becomes invalid we can either create some sort of automated script to produce it (which might be too costly/difficult) or we can be diligent and maintain it. In order to facilitate the process of keeping test data up-to-date it is wise to keep all the test data in one place. This can be a as simple as having a folder where it is kept in your source control repository. In most of the projects we have done recently we stick to a rule and we keep it in a folder called ```/stubs```. Every release, someone who understands the data architecture should give all the files in this folder the 'once over' and try and understand if any changes have been made to the schema. If they have these stubs should be updated. That way your CI/CD system will flag any errors before deployment.
 
 ![Image of example test data](images/3_image.png "Image of example test data")
 > Some test data in one of our projects
