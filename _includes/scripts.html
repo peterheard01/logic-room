@@ -1,108 +1,17 @@
-
-
-
-
-
-
 <script async src="/libs/scripts.js"></script>
 
-{% if page.category == 'angular' or page.category == 'javascript'  %}
+{% if page.category == 'angular' or page.category == 'react' or page.category == 'javascript' or if page.category == 'digital-transformation' or page.category == 'agile'  %}
 
-<!-- MailerLite Universal -->
 <script>
-  (function(m,a,i,l,e,r){m['MailerLiteObject']=e;function f(){
-    var c={a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
+
+  (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
+    var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
     f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
     var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?'+(~~(new Date().getTime()/10000000));
     _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
 
   var ml_account = ml('accounts', '636287', 'r9i2p4n2q0', 'load');
+
 </script>
-<!-- End MailerLite Universal -->
-
-<!--<script>-->
-  <!--setTimeout(function () {-->
-    <!--$(window).scroll(function () {-->
-      <!--if ($(window).scrollTop() > $('body').height() / 2) {-->
-
-        <!--$('.news-popup').slideDown();-->
-
-        <!--$("#theForm").submit(function(e){-->
-          <!--return false;-->
-        <!--});-->
-
-
-        <!--$("#my-form").submit(function (e) {-->
-          <!--e.preventDefault();-->
-
-          <!--var $form = $(this);-->
-          <!--$.post($form.attr("action"), $form.serialize()).then(function () {-->
-            <!--alert("Thank you!");-->
-          <!--});-->
-        <!--});-->
-
-        <!--$(window).unbind('scroll');-->
-      <!--}-->
-    <!--});-->
-
-  <!--}, 2000);-->
-
-  <!--function myFunction() {-->
-    <!--$('.news-popup').slideUp();-->
-  <!--}-->
-
-  <!--function submitClick(){-->
-<!--//    $("#theForm").ajaxSubmit({url: '//app.mailerlite.com/webforms/submit/m9c8b8', type: 'post'});-->
-
-    <!--// this is the id of the form-->
-    <!--$("#theForm").submit(function(e) {-->
-
-      <!--var url = "//app.mailerlite.com/webforms/submit/m9c8b8"; // the script where you handle the form input.-->
-
-      <!--$.ajax({-->
-        <!--type: "POST",-->
-        <!--url: url,-->
-        <!--data: $("#idForm").serialize(), // serializes the form's elements.-->
-        <!--success: function(data)-->
-        <!--{-->
-          <!--alert(data); // show response from the php script.-->
-        <!--}-->
-      <!--});-->
-
-      <!--e.preventDefault(); // avoid to execute the actual submit of the form.-->
-    <!--});-->
-
-
-  <!--}-->
-
-<!--</script>-->
-
-
-<!--<div class="news-popup">-->
-
-  <!--<div onclick="myFunction()" style="float:right; cursor:pointer;" class="text-white">x</div>-->
-
-
-  <!--<script type="text/javascript" src="//app.mailerlite.com/data/webforms/244285/m9c8b8.js?v3"></script>-->
-
-  <!--<style>-->
-    <!--#mlb2-3740817 .subscribe-form{-->
-      <!--border: 0px solid #F6F6F6 !important;-->
-      <!--width:310px !important;-->
-    <!--}-->
-
-    <!--#mlb2-3740817 .subscribe-form .form-section h4{-->
-      <!--text-align:center !important;-->
-    <!--}-->
-
-    <!--#mlb2-3740817 .subscribe-form .form-section p{-->
-      <!--text-align:center !important;-->
-    <!--}-->
-
-  <!--</style>-->
-
-
-<!--</div>-->
-
 
 {% endif %}

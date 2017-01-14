@@ -4,7 +4,7 @@ title: The Pitfalls in Continuous Integration/Continuous Deployment - and how to
 author: Pete Heard
 excerpt: This article will discuss the potential pitfalls and problems in Continuous Integration and Continuous Deployment...
 thumbnail: 404.jpg
-category : agile-software-engineering
+category : agile
 date:   2017-01-12 06:05:50 +0000
 ---
 
