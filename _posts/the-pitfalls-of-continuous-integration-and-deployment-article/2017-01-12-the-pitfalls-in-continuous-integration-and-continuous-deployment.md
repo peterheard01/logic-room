@@ -67,7 +67,7 @@ Both of these side effects affect the **entire** application and will end up hav
 
 ### Creating a Testable Architecture
 
-In order to limit Network Connections and Database IO (Input Output) when you design your application it is important to create a layer of abstraction around your application components, we call this creating a 'testable architecture'. This layer of abstraction will allow the software team to use something called Inversion of Control which is where they can use fake implementations of IO dependant modules (like the database). In order to test the view you can use viewmodels which you can read about in our [TDD E-book](https://app.mailerlite.com/webforms/landing/b3d9r0){:target="_blank"} (available by signing up to our mailing list). This will allow rapid testing of view like structures in order to give us total confidence that our business objectives have been met.
+In order to limit Network Connections and Database IO (Input Output) when you design your application it is important to create a layer of abstraction around your application components, we call this creating a 'testable architecture'. This layer of abstraction will allow the software team to use something called Inversion of Control which is where they can use fake implementations of IO dependant modules (like the database). In order to test the view you can use viewmodels which you can read about in our [TDD E-book](/tdd-simplified-in-5-steps/){:target="_blank"}. This will allow rapid testing of view like structures in order to give us total confidence that our business objectives have been met.
 
 After this, the view and the database can be tested in isolation. This diagram shows a before and after, introducing these abstractions in the right place.
 
