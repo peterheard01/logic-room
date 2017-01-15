@@ -66,8 +66,6 @@ For example; builders have a site foreman, accountants are independently audited
 
 Invariably as time passes, organisations eventually become aware that they have quality issues; excessive bugs, late releases, high developer churn and often the straight up inability to retain customers can all be symptoms of **bad code** ; we refer to this bad code as &#39;technical debt&#39;.
 
-{% markdown code-review/prompt-block.md %}
-
 ## The Financial Cost of Bad Code / Technical Debt
 
 A [study](http://www.castsoftware.com/castresources/materials/wp/cast_2010-annual-report_keyfindings.pdf) by Cast Software performed an audit of 75 code bases and produced some interesting but also quite startling costs which provide us with an indication as to the financial burden that problems with code quality can place upon an organisation. What they found is that on average a code base has exactly $2.82 of **technical debt** per line of code. What this means is an average cost of fixing some problems with that code base will equate to that cost per line. They identified problems by running a code analysis tool and identifying (Security, Performance, Robustness and Changeability) problems in the code. Whilst this automated tooling is not enough to spot software quality problems, it does provide us with at least a repeatable way of gathering data on this topic.
