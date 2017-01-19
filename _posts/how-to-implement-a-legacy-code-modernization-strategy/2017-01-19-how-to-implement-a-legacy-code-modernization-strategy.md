@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Implement a Legacy Code Modernization Strategy
+title: How To Implement Legacy Code Modernization
 author: Pete Heard
 excerpt: In this article we will discuss Legacy Systems and Code Modernization which are often the Achilles' tendons of organisations that are undergoing large scale Digital Transformation.
 thumbnail: 404.jpg
