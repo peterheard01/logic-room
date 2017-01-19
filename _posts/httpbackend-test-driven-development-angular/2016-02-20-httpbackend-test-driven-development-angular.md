@@ -5,7 +5,7 @@ author: Pete Heard
 excerpt: In this blog post we will examine the $httpBackend object and how it really helps us to write clean and maintainable unit tests ...
 thumbnail: 404.jpg
 category : angular
-date:   2017-01-19 04:00:00 +0000
+date:   2016-01-19 04:00:00 +0000
 ---
 
 In this blog post we will examine the $httpBackend object and how it really helps us to write clean and maintainable unit tests when practicing Test Driven Development (TDD). I’m a practitioner of Test Driven Development. If you have read my [e-book](http://www.peteheard.com/testdrivendevelopment/) you can see that I am keen on applying the 80/20 rule to automated testing and creating unit tests that work like behaviour tests. This means that in my tests I recommend using the applications' own API to physically set pre-conditions of a test. However, in pure vanilla Javascript this can become quite cumbersome and brittle using only pure callbacks. Take, for example, the following test code…
