@@ -84,7 +84,7 @@ body {
 
   ol li, ul li {
     color: $grey;
-    font-family: 'Dosis-ExtraLight' !important;
+    font-family: 'Dosis-SemiBold' !important;
     padding-bottom:5px;
   }
 
@@ -119,15 +119,17 @@ body {
   }
 
   p, ul li, ol li {
-    font-family: 'Dosis-ExtraLight';
-    color: $dark-grey;
+    font-family: 'Dosis-Light';
+    color: #5a5a5a;
     text-align: justify;
     font-size : em(18);
+    line-height: em(30);
+
   }
 
   strong, a {
     font-weight:bold;
-    font-family: 'Dosis-Regular';
+    font-family: 'Dosis-SemiBold';
   }
 
   a {
