@@ -1,5 +1,5 @@
 ---
-title : Code Reviews and Legacy Code Modernization Service in Reading, London, South West, Berkshire
+title : Logic Room | Web and Mobile Javascript Development In Reading and London, UK
 layout: landing
 ---
 
@@ -26,7 +26,11 @@ layout: landing
 
       <div class="center">
 
-        <img style="max-width: 90px !important; display: inline;" src="/images/logo.png"/>
+        <a target="_blank" href="/">
+
+          <img style="max-width: 90px !important; display: inline;" src="/images/logo.png"/>
+
+        </a>
 
       </div>
 
@@ -55,40 +59,165 @@ layout: landing
       <br>
       <br>
       <br>
+      <br>
+      <br>
 
       <div class="center" style="padding:20px; max-width:1200px; margin:auto; z-index:1001; position:relative; border-radius:5px;">
 
-        <a style="border-radius: 2px; height:50px; width:100px; padding:10px;" class="btn-large">let's talk</a>
+        <a onclick="letsTalk()" style="border-radius: 2px; height:50px; width:100px; padding:10px;" class="btn-large">let's talk</a>
 
 
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
+        <script>
+        function letsTalk (evt) {
+          $('html, body').animate({
+            scrollTop: $("#lets-talk").offset().top
+          }, 2000);
+        }
+        </script>
+
+
         <br>
 
 
       </div>
 
 
-      <br>
-      <br>
+
 
     </div>
 
   </div>
 
+  <div style="background-color: white;">
 
 
-  <!--contact-->
+    <div style="max-width:900px; margin:auto;">
+
+      <br>
+      <br>
+
+      <h3 class="center" style="font-size:30px; color:#5a5a5a; max-width:500px; margin:auto;">
+        Organistions that work with us
+      </h3>
+
+      <br>
+      <br>
 
 
-  <div class="center" style="padding:20px; max-width:1000px; margin:auto; z-index:1001; position:relative; border-radius:5px;">
+      <div class="row">
+
+        <div class="col-sm-4 col-sm-offset-2 center">
+
+          <img style="display: inline; max-width: 200px !important; visibility: visible; animation-name: fadeIn;" src="/images/cisco.png" class="wow fadeIn">
 
 
+        </div>
 
-    <form name="contact" action="thank-you" netlify>
+
+        <div class="col-sm-4 center">
+
+          <img style="display: inline; max-width: 200px !important; visibility: visible; animation-name: fadeIn;" src="/images/tristar.png" class="wow fadeIn">
+
+        </div>
+
+      </div>
+
+
+    </div>
+
+    <br>
+
+  </div>
+
+
+  <section id="experts">
+    <div class="wrapper">
+
+      <br>
+      <br>
+
+      <h2 class="text-orange center">Javascript Craftsmanship For Web and Mobile Digital Products</h2>
+
+      <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+          <h3 class="title white-text center">Responsive Web App <br> & Backend Development</h3>
+
+          <br>
+
+          <p class="white-text">
+            We build beautiful and well engineered products for the web. Specialists in Single Page Application (SPA) development. Performance optimised
+            code that runs fast any browser.
+          </p>
+
+          <br>
+
+
+          <ul>
+            <li style="color:white; font-family:'Dosis-Light' !important; font-size:15px;  padding:0px !important;">Angular 1/2</li>
+            <li style="color:white; font-family:'Dosis-Light' !important; font-size:15px;  padding:0px !important;">React</li>
+            <li style="color:white; font-family:'Dosis-Light' !important; font-size:15px;  padding:0px !important;">Meteor</li>
+            <li style="color:white; font-family:'Dosis-Light' !important; font-size:15px;  padding:0px !important;">Modular CSS using LESS</li>
+            <li style="color:white; font-family:'Dosis-Light' !important; font-size:15px;  padding:0px !important;">Node.js Experts</li>
+          </ul>
+
+        </div>
+
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+          <h3 class="title white-text center">Cross Platform <br>  Mobile App Development</h3>
+
+          <br>
+
+          <p class="white-text">
+            We are thoroughbred software designers who specialise in decoupling applications which allows code to be ported to
+            multiple platforms
+          </p>
+
+          <br>
+
+          <ul>
+            <li style="color:white; font-family:'Dosis-Light' !important; font-size:15px;  padding:0px !important;">Hybrid (CSS and HTML5) using Cordova (Phonegap)</li>
+            <li style="color:white; font-family:'Dosis-Light' !important; font-size:15px;  padding:0px !important;">True Native for IOS and Android using React Native</li>
+            <li style="color:white; font-family:'Dosis-Light' !important; font-size:15px;  padding:0px !important;">Cross Platform Modular Code For Platform Development</li>
+            <li style="color:white; font-family:'Dosis-Light' !important; font-size:15px;  padding:0px !important;">NativeScript and Angular 2</li>
+          </ul>
+
+        </div>
+
+
+      </div>
+
+    </div>
+
+  </section>
+
+  {% include testimonials.html %}
+
+
+  <div id="lets-talk" class="center" style="padding:20px; max-width:1200px; padding:50px; background-color: lightgray; margin:auto; z-index:1001; position:relative; border-radius:5px;">
+
+
+    <br>
+    <br>
+
+
+    <h1 class="center" style="font-size:40px; color:#5a5a5a; max-width:500px; margin:auto;">
+      Work With Logic Room
+    </h1>
+
+    <br>
+
+    <h3 class="center" style="font-size:20px;color:#000000; max-width:500px; margin:auto;">
+      Use this form or send an email to
+
+      <a href="mailto:hq@logicroom.co">hq@logicroom.co</a>
+
+    </h3>
+
+    <br>
+    <br>
+    <br>
+
+    <form name="landing-page" action="thank-you" netlify>
 
       <div class="row">
 
