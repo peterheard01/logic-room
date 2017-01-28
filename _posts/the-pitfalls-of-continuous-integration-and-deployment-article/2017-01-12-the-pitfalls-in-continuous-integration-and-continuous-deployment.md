@@ -17,6 +17,7 @@ This article will discuss the potential pitfalls and problems in [Continuous Int
 - Pitfall 1: Lack of Skills (Dev-Ops)
 - Pitfall 2: Network Connections and IO
 - Pitfall 3: Test Data
+- Pitfall 4: Documentation
 - Conclusion: It's All About Speed
 
 ## Recap : What is CI and CD?
@@ -98,12 +99,36 @@ In order to make sure our tests don't give us false positives (from dealing with
 
 **Bottom Line: Keep test data up-to-date to avoid costly mistakes going into production.  Either automate this or get someone to regularly audit test data.  This will ensure a high quality output.**
 
-#### Conclusion: It's All About Speed
+
+
+## Pitfall 4: Documentation
+
+In the book [Domain Driven Design](https://www.amazon.co.uk/Domain-driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1485595708&sr=8-1&keywords=domain+driven+design) (DDD) by Eric Evans he talks about the concept of a Software Model. What he goes on to explain is that the software model describes all the code, knowledge, language/expressions AND the documentation. He goes on to say that a team should put enough effort into each area to adequately develop software. The reasoning behind this is that software represents the real world and as such needs a certain level of ‘group’ knowledge behind it. This group knowledge (including the sum of all parts) will be refined as the problem domain is discovered.
+ 
+However, documentation can be very difficult to keep in sync wth software, for this reason when implementing continuous integration and deployment how do we know that the documentation is actually in sync with the deployed version? Here are some techniques to help with this.
+ 
+ 
+**Built api interfaces** these are tools that will automatically scan the public api points of software and display them (optionally) through a graphical interface. For example [Swagger](http://swagger.io/) is one such open source tool.
+ 
+ ![Image of swagger](images/4_image.png "Image of swagger")
+ 
+**Collaborative documentation tools (wiki and markdown)** documentation software that can be edited by anyone using open formats are great to promote maintenance . Ideally, the documentation should be tied to whatever Agile management tools you are using. For example [Atlassian Jira](https://confluence.atlassian.com/jira064/jira-documentation-720411693.html) is a very common tool.
+ 
+**Inline source code documentation** many frameworks and languages allow you to implement inline documentation as part of the build and release process. For example Angular (Javascript) supports ```NgDoc```. When used with the build tool Grunt, it will automatically generate documentation. And because it stored with the source code it increases the chances it will be kept up to date!
+ 
+ ![Image of ngDoc](images/5_image.png "Image of ngDoc")
+ 
+ 
+ **Bottom Line: Improve the quality and completeness of your software documentation by integrating the creation, maintenance and release of it into your CI and CD pipeline, use source control where possible to make sure it stays in sync**
+ 
+
+## Conclusion: It's All About Speed
 
 In this article we have seen how we can clarify our goals with regard to Continuous Integration and Deployment. It's a good habit to clarify objectives. Of course, quite often in business we can forget to do this but we should remind ourselves of this! In the case of releasing software our objective is speed - the speed of feedback! By feeding-back failure quicker you reduce cost. We have seen how :
 
 1. Encouraging your entire software team to be interested in and contribute to release and deployment (Dev Ops) you will remove bottlenecks
 2. Limiting IO  by creating testable architectures will increase pipeline and thus decrease cost
 3. Keeping test data up to date will help you improve quality (by spotting defects sooner)
+4. Integrating documentation creation and maintenance into your CI and CD process will help to keep it in sync and thus more valuable
 
 Organisations that consistently optimise their CI and CD process will experience a faster time-to-market with their products and a higher level of both technical and functional quality. Ultimately, by paying attention to, and optimising the release pipeline they can leverage a competitive advantage by shipping better software faster!
