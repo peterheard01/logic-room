@@ -152,6 +152,6 @@ In this article we have seen how microservices provide a convention of splitting
 
 We then looked at the costs and benefits which can be summarised with the following slide :
 
-![Costs and Benefits of microservices](images/3_image.png "Costs and Benefits of microservices")
+![Costs and Benefits of microservices](images/3_image.png "Costs and Benefits of microservices"){:target="_blank"}
 
 If organisations decide to move to a microservices based architecture they should attempt to slowly improve their legacy/monolithic applications and add automated testing.  Once this is done, then they can slowly begin to slowly refactor out smaller parts of the code and include this within their new microservice architecture.

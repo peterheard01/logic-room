@@ -27,7 +27,7 @@ The applications are undocumented and are using vendor specific implementations 
 
 - **Fragile Internal Designs**
 
-Quite often changing these systems will be difficult because there are deep architectural issues within the code. [Software Coupling](https://en.wikipedia.org/wiki/Coupling_(computer_programming)) is rife and it is difficult for software developers to understand any single part in isolation.
+Quite often changing these systems will be difficult because there are deep architectural issues within the code. [Software Coupling](https://en.wikipedia.org/wiki/Coupling_(computer_programming)){:target="_blank"} is rife and it is difficult for software developers to understand any single part in isolation.
 
 - **Little or no Automated Testing**
 
@@ -72,7 +72,7 @@ In order to scale your Digital Transformation projects successfully you are goin
 
 ### Use the Gartner TIME Model
 
-Using the [Gartner TIME model](https://www.gartner.com/doc/2652116/toolkit-using-gartners-time-model) technical business leaders can come up with a way to decide how important it is that they upgrade their systems. The system uses two factors to evaluate a code base or system that is deemed legacy:
+Using the [Gartner TIME model](https://www.gartner.com/doc/2652116/toolkit-using-gartners-time-model){:target="_blank"} technical business leaders can come up with a way to decide how important it is that they upgrade their systems. The system uses two factors to evaluate a code base or system that is deemed legacy:
 
 1. **Business Value** - this is both the current value to the business in terms of revenue and the opportunity the application provides for future growth.
 2. **Technical Quality** - this is the measure of code quality; higher quality code will allow you to change it more easily.
@@ -93,7 +93,7 @@ The next section will talk about modernization of legacy code and the approach t
 
 ## An Action Plan for Modernization
 
-Digital Transformation (the business transformation of people processes and technologies) is not something that can be achieved in one fell swoop. In order to mitigate risks, organisations need to take it on a step-by-step basis. In fact, as part of a sound business strategy, being able to improve small parts of complex system at the low level will (over time), yield significant [advantages](http://jamesclear.com/marginal-gains) over simply trying to make too many large changes at the same time.
+Digital Transformation (the business transformation of people processes and technologies) is not something that can be achieved in one fell swoop. In order to mitigate risks, organisations need to take it on a step-by-step basis. In fact, as part of a sound business strategy, being able to improve small parts of complex system at the low level will (over time), yield significant [advantages](http://jamesclear.com/marginal-gains){:target="_blank"} over simply trying to make too many large changes at the same time.
 
 One case study that highlights this point is that of [Team Sky](http://road.cc/content/feature/187025-12-ways-team-sky-develops-those-marginal-gains){:target="_blank"} that used 'Marginal Gains' to win the Tour de France within 5 years.
 

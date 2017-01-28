@@ -8,7 +8,7 @@ category : angular
 date:   2016-01-19 04:00:00 +0000
 ---
 
-In this blog post we will examine the $httpBackend object and how it really helps us to write clean and maintainable unit tests when practicing Test Driven Development (TDD). I’m a practitioner of Test Driven Development. If you have read my [e-book](http://www.peteheard.com/testdrivendevelopment/) you can see that I am keen on applying the 80/20 rule to automated testing and creating unit tests that work like behaviour tests. This means that in my tests I recommend using the applications' own API to physically set pre-conditions of a test. However, in pure vanilla Javascript this can become quite cumbersome and brittle using only pure callbacks. Take, for example, the following test code…
+In this blog post we will examine the $httpBackend object and how it really helps us to write clean and maintainable unit tests when practicing Test Driven Development (TDD). I’m a practitioner of Test Driven Development. If you have read my [e-book](http://www.peteheard.com/testdrivendevelopment/){:target="_blank"} you can see that I am keen on applying the 80/20 rule to automated testing and creating unit tests that work like behaviour tests. This means that in my tests I recommend using the applications' own API to physically set pre-conditions of a test. However, in pure vanilla Javascript this can become quite cumbersome and brittle using only pure callbacks. Take, for example, the following test code…
 
 ```javascript
 // using spaghetti callback expectations
@@ -71,7 +71,7 @@ it('when user goes back then delete is called', inject(function(done){
 }));
 ```
 
-As you can see the $httpBackend is an object that is using a reference to an internally stored collection of asynchronous calls, it is overwriting these with test doubles. Then it is executing them synchronously thus blocking the test there and then, and making sure all of the fake backend calls are complete, it does what is says on the tin; it **flushes**. Since we aren’t actually performing IO in this test we don't need to worry about blocking the process so can make the code halt whilst it is being flushed. This diagram is handy to refer to to get the process that the $httpBackend object goes through when the test code invokes it. ![$httpBackend for Test Driven Development in Angular](images/1_image.png)
+As you can see the $httpBackend is an object that is using a reference to an internally stored collection of asynchronous calls, it is overwriting these with test doubles. Then it is executing them synchronously thus blocking the test there and then, and making sure all of the fake backend calls are complete, it does what is says on the tin; it **flushes**. Since we aren’t actually performing IO in this test we don't need to worry about blocking the process so can make the code halt whilst it is being flushed. This diagram is handy to refer to to get the process that the $httpBackend object goes through when the test code invokes it. ![$httpBackend for Test Driven Development in Angular](images/1_image.png){:target="_blank"}
 
 ## Conclusion
 

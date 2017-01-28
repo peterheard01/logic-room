@@ -30,7 +30,7 @@ There are two high level observations that we can make about software in general
 
 In the context of a Digital Transformation that involves people processes and technology, all three have a dependency on digital systems which are powered by code and that code is extremely important.
 
-![Digital Transformation Image](images/1_image.png "Digital Transformation Image")
+![Digital Transformation Image](images/1_image.png "Digital Transformation Image"){:target="_blank"}
 > The close relationship between Digital Transformation and Software Code
 
 ## Why Would Code Quality Matter?
@@ -68,7 +68,7 @@ Invariably as time passes, organisations eventually become aware that they have 
 
 ## The Financial Cost of Bad Code / Technical Debt
 
-A [study](http://www.castsoftware.com/castresources/materials/wp/cast_2010-annual-report_keyfindings.pdf) by Cast Software performed an audit of 75 code bases and produced some interesting but also quite startling costs which provide us with an indication as to the financial burden that problems with code quality can place upon an organisation. What they found is that on average a code base has exactly $2.82 of **technical debt** per line of code. What this means is an average cost of fixing some problems with that code base will equate to that cost per line. They identified problems by running a code analysis tool and identifying (Security, Performance, Robustness and Changeability) problems in the code. Whilst this automated tooling is not enough to spot software quality problems, it does provide us with at least a repeatable way of gathering data on this topic.
+A [study](http://www.castsoftware.com/castresources/materials/wp/cast_2010-annual-report_keyfindings.pdf){:target="_blank"} by Cast Software performed an audit of 75 code bases and produced some interesting but also quite startling costs which provide us with an indication as to the financial burden that problems with code quality can place upon an organisation. What they found is that on average a code base has exactly $2.82 of **technical debt** per line of code. What this means is an average cost of fixing some problems with that code base will equate to that cost per line. They identified problems by running a code analysis tool and identifying (Security, Performance, Robustness and Changeability) problems in the code. Whilst this automated tooling is not enough to spot software quality problems, it does provide us with at least a repeatable way of gathering data on this topic.
 
 The conclusion was interesting; they found that the average size of a code base was 347,000 lines of code and this produces approximately $1,055,000 of technical debt! That means that on average a code base is carrying a million dollars worth of value locked up in &#39;Bad Code&#39; or &#39;Technical Debt&#39;.
 
@@ -78,24 +78,24 @@ The conclusion was interesting; they found that the average size of a code base 
 
 We have seen how poor quality code can carry cost, but in the world of business it&#39;s impossible to address cost without considering risk. A high risk business venture may yield short term capital gains but if it promptly puts you out of business it probably isn&#39;t a wise move. So looking at code quality through the lens of risk is the second way to evaluate it.
 
-A [study](http://downloads.seapine.com/pub/papers/CostPoorQuality.pdf) performed by Seapine cited data it collected which identified that 24% of organisations were seeking to reduce the risk of poor customer satisfaction from the digital products they provide. Interestingly, later on in the report,  organisations claim that software quality and reliability are lifelines to securing long term customer retention and growth.
+A [study](http://downloads.seapine.com/pub/papers/CostPoorQuality.pdf){:target="_blank"} performed by Seapine cited data it collected which identified that 24% of organisations were seeking to reduce the risk of poor customer satisfaction from the digital products they provide. Interestingly, later on in the report,  organisations claim that software quality and reliability are lifelines to securing long term customer retention and growth.
 
 
-![Risk/Cost payoff graph showing inverse proportion](images/2_image.png "Risk/Cost payoff graph showing inverse proportion")
+![Risk/Cost payoff graph showing inverse proportion](images/2_image.png "Risk/Cost payoff graph showing inverse proportion"){:target="_blank"}
 > The relationship between cost and risk and code quality is inverselely proportional 
 
 If keeping customers happy is a core part of your business strategy then addressing quality in a pragmatic way will help you ensure your long term financial goals can be not only met but improved upon. This article has only cited a small amount of evidence but there are an abundance of independent research papers published which add to the argument that improved software quality helps to dramatically reduce costs.
 
-- [http://www.castsoftware.com/castresources/materials/wp/cast\_2010-annual-report\_keyfindings.pdf](http://www.castsoftware.com/castresources/materials/wp/cast_2010-annual-report_keyfindings.pdf)
-- [http://downloads.seapine.com/pub/papers/CostPoorQuality.pdf](http://downloads.seapine.com/pub/papers/CostPoorQuality.pdf)
-- [https://www.infoq.com/news/2009/03/TDD-Improves-Quality](https://www.infoq.com/news/2009/03/TDD-Improves-Quality)
-- [http://www.springer.com/computer/swe/journal/10664](http://www.springer.com/computer/swe/journal/10664)
+- [http://www.castsoftware.com/castresources/materials/wp/cast\_2010-annual-report\_keyfindings.pdf](http://www.castsoftware.com/castresources/materials/wp/cast_2010-annual-report_keyfindings.pdf){:target="_blank"}
+- [http://downloads.seapine.com/pub/papers/CostPoorQuality.pdf](http://downloads.seapine.com/pub/papers/CostPoorQuality.pdf){:target="_blank"}
+- [https://www.infoq.com/news/2009/03/TDD-Improves-Quality](https://www.infoq.com/news/2009/03/TDD-Improves-Quality){:target="_blank"}
+- [http://www.springer.com/computer/swe/journal/10664](http://www.springer.com/computer/swe/journal/10664){:target="_blank"}
 
 ## Leveraging Marginal Gains On Code Quality : Optimising Agile Software Delivery
 
 The topic of marginal gains is an exciting new business topic that has emerged in recent years.  It is related to being able to optimise at the small scale in order to produce seismic shifts at the large scale; the basic idea is that this is a bottom-up approach to business which uses, data, feedback and statistics at the micro level in order to drive strategy at the higher level.
 
-An [interesting article](http://www.economist.com/news/business/21607816-businesses-should-aim-lots-small-wins-big-data-add-up-something-big-little) from the Economist goes into more detail about marginal gains. The great thing about taking code quality seriously in your organisation is that it is a very tangible asset which holds value in the form of information and process. If we are adopting a marginal gains approach to your business and are looking to optimise at the small level to drive higher competitiveness, then improving code quality provides a huge opportunity for maximizing growth.  It does this firstly by addressing debt and secondly by driving greater customer experience.
+An [interesting article](http://www.economist.com/news/business/21607816-businesses-should-aim-lots-small-wins-big-data-add-up-something-big-little){:target="_blank"} from the Economist goes into more detail about marginal gains. The great thing about taking code quality seriously in your organisation is that it is a very tangible asset which holds value in the form of information and process. If we are adopting a marginal gains approach to your business and are looking to optimise at the small level to drive higher competitiveness, then improving code quality provides a huge opportunity for maximizing growth.  It does this firstly by addressing debt and secondly by driving greater customer experience.
 
 ## Conclusion
 

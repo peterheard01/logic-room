@@ -28,7 +28,7 @@ Continuous Deploment (CD) is the bit that happens after CI. It describes all the
 
 The word **continuous** with regard to both of these terms means that we keep repeating the process over and over.  Here is a handy diagram to help you:
 
-![Angular 2 App Architecture](images/1_image.png "Architecture of Angular 2 App")
+![Angular 2 App Architecture](images/1_image.png "Architecture of Angular 2 App"){:target="_blank"}
 > Continuous Integration and Continuous Deployment Feedback Loops!
 
 ## Goals of CI and CD
@@ -78,7 +78,7 @@ Now we are in a situation where the view and the database can be tested in isola
 
 By optimising architectures in this way you will increase the speed of your release pipeline and reduce cost at the same time. This is because speed and cost are inversely proportional in the context of software development.
 
-![A diagram of a testable architecture](images/2_image.png "A diagram of a testable architecture")
+![A diagram of a testable architecture](images/2_image.png "A diagram of a testable architecture"){:target="_blank"}
 > A diagram of a testable architecture
  
 **Handy tip** : With the emergence of Single Page Applications  Javascript code holds more than just GUI elements, it also holds business logic so we can use these abstraction techniques to create better testing for our web apps!
@@ -93,7 +93,7 @@ In order to write tests; we need to be able to accurately set a system up in a c
 
 In order to make sure our tests don't give us false positives (from dealing with incorrect data) we need to make sure that the test data is kept up-to-date. In order to know when our test data becomes invalid we can either create some sort of automated script to produce it (which might be too costly/difficult) or we can be diligent and maintain it. In order to facilitate the process of keeping test data up-to-date it is wise to keep all the test data in one place. This can be a as simple as having a folder where it is kept in your source control repository. In most of the projects we have done recently we stick to a rule and we keep it in a folder called ```/stubs```. Every release, someone who understands the data architecture should give all the files in this folder the 'once over' and try and understand if any changes have been made to the schema. If they have these stubs should be updated. That way your CI/CD system will flag any errors before deployment.
 
-![Image of example test data](images/3_image.png "Image of example test data")
+![Image of example test data](images/3_image.png "Image of example test data"){:target="_blank"}
 > Some test data in one of our projects
 
 
@@ -103,20 +103,20 @@ In order to make sure our tests don't give us false positives (from dealing with
 
 ## Pitfall 4: Documentation
 
-In the book [Domain Driven Design](https://www.amazon.co.uk/Domain-driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1485595708&sr=8-1&keywords=domain+driven+design) (DDD) by Eric Evans he talks about the concept of a Software Model. What he goes on to explain is that the software model describes all the code, knowledge, language/expressions AND the documentation. He goes on to say that a team should put enough effort into each area to adequately develop software. The reasoning behind this is that software represents the real world and as such needs a certain level of ‘group’ knowledge behind it. This group knowledge (including the sum of all parts) will be refined as the problem domain is discovered.
+In the book [Domain Driven Design](https://www.amazon.co.uk/Domain-driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1485595708&sr=8-1&keywords=domain+driven+design){:target="_blank"} (DDD) by Eric Evans he talks about the concept of a Software Model. What he goes on to explain is that the software model describes all the code, knowledge, language/expressions AND the documentation. He goes on to say that a team should put enough effort into each area to adequately develop software. The reasoning behind this is that software represents the real world and as such needs a certain level of ‘group’ knowledge behind it. This group knowledge (including the sum of all parts) will be refined as the problem domain is discovered.
  
 However, documentation can be very difficult to keep in sync wth software, for this reason when implementing continuous integration and deployment how do we know that the documentation is actually in sync with the deployed version? Here are some techniques to help with this.
  
  
-**Built api interfaces** these are tools that will automatically scan the public api points of software and display them (optionally) through a graphical interface. For example [Swagger](http://swagger.io/) is one such open source tool.
+**Built api interfaces** these are tools that will automatically scan the public api points of software and display them (optionally) through a graphical interface. For example [Swagger](http://swagger.io/){:target="_blank"} is one such open source tool.
  
- ![Image of swagger](images/4_image.png "Image of swagger")
+ ![Image of swagger](images/4_image.png "Image of swagger"){:target="_blank"}
  
-**Collaborative documentation tools (wiki and markdown)** documentation software that can be edited by anyone using open formats are great to promote maintenance . Ideally, the documentation should be tied to whatever Agile management tools you are using. For example [Atlassian Jira](https://confluence.atlassian.com/jira064/jira-documentation-720411693.html) is a very common tool.
+**Collaborative documentation tools (wiki and markdown)** documentation software that can be edited by anyone using open formats are great to promote maintenance . Ideally, the documentation should be tied to whatever Agile management tools you are using. For example [Atlassian Jira](https://confluence.atlassian.com/jira064/jira-documentation-720411693.html){:target="_blank"} is a very common tool.
  
 **Inline source code documentation** many frameworks and languages allow you to implement inline documentation as part of the build and release process. For example Angular (Javascript) supports ```NgDoc```. When used with the build tool Grunt, it will automatically generate documentation. And because it stored with the source code it increases the chances it will be kept up to date!
  
- ![Image of ngDoc](images/5_image.png "Image of ngDoc")
+ ![Image of ngDoc](images/5_image.png "Image of ngDoc"){:target="_blank"}
  
  
  **Bottom Line: Improve the quality and completeness of your software documentation by integrating the creation, maintenance and release of it into your CI and CD pipeline, use source control where possible to make sure it stays in sync**
