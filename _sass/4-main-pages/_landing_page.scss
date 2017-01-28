@@ -1,0 +1,69 @@
+#logic-room {
+
+
+  .landing-page {
+
+    p {
+      font-size:em(16) !important;
+    }
+
+    .header {
+      color:#FFFFFF !important;
+      max-width:500px;
+      margin:auto;
+    }
+
+    .logo {
+      max-width: 70px !important;
+      display: inline;
+    }
+
+    .call-to-action {
+      font-family:'Dosis-ExtraLight';
+      line-height:30px;
+      color:#fafaff;
+      max-width:700px;
+      margin:auto;
+    }
+
+    #experts {
+
+
+    }
+
+
+  @media only screen and (min-width : 320px) {}
+
+  /* Extra Small Devices, Phones */
+  @media only screen and (min-width : 480px) {}
+
+  /* Small Devices, Tablets */
+  @media only screen and (min-width : 768px) {
+
+    .logo {
+      max-width: 80px !important;
+    }
+
+    p {
+      font-size:em(20) !important;
+    }
+
+  }
+
+  /* Medium Devices, Desktops */
+  @media only screen and (min-width : 992px) {
+
+    .logo {
+      max-width: 90px !important;
+    }
+
+  }
+
+  /* Large Devices, Wide Screens */
+  @media only screen and (min-width : 1200px) {}
+
+  }
+
+
+
+}
