@@ -28,6 +28,11 @@
 
     #experts {
 
+      ul {
+        li {
+          color:white; font-family:'Dosis-Light' !important; font-size:14px;  padding:0px !important;
+        }
+      }
 
     }
 
@@ -46,6 +51,16 @@
 
     p {
       font-size:em(20) !important;
+    }
+
+    #experts {
+
+      ul {
+        li {
+          font-size:16px;
+        }
+      }
+
     }
 
   }
