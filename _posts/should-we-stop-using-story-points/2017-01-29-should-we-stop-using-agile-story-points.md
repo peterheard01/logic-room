@@ -49,15 +49,15 @@ The business love these diagrams because they can look at the y-axis as a measur
 
 By measuring a team’s output using a point we immediately start to create a very simplified measure of output. A single digit on a timeline which is somehow meant to tell us about that entire team’s ability to produce software.
 
-And by reducing a team’s output down to points we may actually be causing unwanted side effects; one such side effect is 'a precedent'. And that 'precedent' no matter how subtle creates pressure for the team to deliver.
+By reducing a team’s output down to points we may actually be causing unwanted side effects; one such side effect is 'a precedent'. And that 'precedent' no matter how subtle creates pressure for the team to deliver.
 
 There has been interesting [research](https://www.sciencedaily.com/releases/2009/02/090210162035.htm){:target="_blank"} to suggest that although we might see pressure as something useful it can actually diminish our ability to make good decisions. Good decisions help a team to make better software. So what we can see is that points may be <strong>useful</strong> to the business, but they may also be <strong>harmful</strong> to the team.
 
 ## An Alternative Metric
 
-As a developer my income is dependent on the software that I create making money for whoever pays me to write software for them. My objective is to create software that offers something that my clients or employers can use to save or make money (as we established). So perhaps with this in mind we can begin to see a new paradigm with regards to what we can gauge the creation of software on. Value.
+As a developer my income is dependent on the software that I create making money for whoever pays me to write software for them. My objective is to create software that offers something that my clients or employers can use to save or make money (as we established). So perhaps with this in mind we can begin to see a new paradigm with regards to what we can gauge the creation of software on: <strong>Value</strong>.
 
-Perhaps if we started to integrate the value that the software creates more closely into the team this might help the team do what it is meant to do; create profitable software.
+Perhaps if we started to integrate a metric of value that the software creates more closely into the team this might help the team do what it is meant to do; create profitable software.
 I think Story Points have served us well. I think they have done their job. But I think as we move forward as an industry the key to beginning to see powerful Digital Transformation happen lies in unlocking value, not just boiling everything down to figures which aren't necessarily tied to our ultimate objective.
 I think we need to involve our developers more closely in the process of creating value from software.
 
