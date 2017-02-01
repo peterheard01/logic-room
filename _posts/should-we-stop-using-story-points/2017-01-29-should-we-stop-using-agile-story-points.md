@@ -16,7 +16,7 @@ I am often reminded of this saying when I find myself obsessively and compulsive
 
 It's a modern day illness; the constant need to measure success by simple numerical data. We all know that the measure of success is often much more nuanced. For example, what is valued by a person or society in one context is not necessarily shared by someone or anyone in another!
 
-But in the big ol' world of business we love to be able to roll-off numbers. In the world of Agile the story point reigns supreme. Yes... we live by the point!
+But in the big ol' world of business we love to be able to roll-off numbers. In the world of Agile; the story point reigns supreme. Yes... we live by the point!
 But let us take a step back and consider:
 
 1.	Why do we develop software?
@@ -38,7 +38,7 @@ So if profit is the number one objective in business do points actually help us 
 
 ## The Purpose of a Point
 
-The original purpose of a story point was to create a layer of abstraction between how long something takes and its actual real world implementation. Mike Cohn [explains](https://www.mountaingoatsoftware.com/blog/the-main-benefit-of-story-points){:target="_blank"} it is as a solution to a problem where different people on a team might actually take a different amount of time to do something. Different tasks can be more or less involved depending on the time and context under which they are taken. The point provides enough abstraction to be able to take an 'averaging' across a team.
+The original purpose of a story point was to create a layer of abstraction between how long something takes and its actual implementation. Mike Cohn [explains](https://www.mountaingoatsoftware.com/blog/the-main-benefit-of-story-points){:target="_blank"} it is as a solution to a problem where different people on a team might actually take a different amount of time to do something. Different tasks can be more or less involved depending on the time and context under which they are taken. The point provides enough abstraction to be able to take an 'averaging' across a team.
 However, sometimes points can cause problems. Usually, points on a team will get translated directly into time (at some stage) whether we like it or not. Usually, they get put into a burn-up or a burn-down chart, both of which have time across the x-axis. 
 
 ![A burn up chart](images/1_image.png "A burn up chart")
@@ -49,9 +49,9 @@ The business love these diagrams because they can look at the y-axis as a measur
 
 By measuring a team’s output using a point we immediately start to create a very simplified measure of output. A single digit on a timeline which is somehow meant to tell us about that entire team’s ability to produce software.
 
-And by reducing a team’s output down to points we may actually be causing unwanted side effects; one such side effect is ‘the precedent’. And that precedent no matter how subtle creates pressure for the team to deliver.
+And by reducing a team’s output down to points we may actually be causing unwanted side effects; one such side effect is 'a precedent'. And that 'precedent' no matter how subtle creates pressure for the team to deliver.
 
-There has been interesting [research](https://www.sciencedaily.com/releases/2009/02/090210162035.htm){:target="_blank"} to suggest that although we might see pressure as something useful it can actually diminish our ability to make good decisions. Good decisions help a team to make better software. So what we can see is that points may be useful to the business, but they may also be harmful to the team.
+There has been interesting [research](https://www.sciencedaily.com/releases/2009/02/090210162035.htm){:target="_blank"} to suggest that although we might see pressure as something useful it can actually diminish our ability to make good decisions. Good decisions help a team to make better software. So what we can see is that points may be <strong>useful</strong> to the business, but they may also be <strong>harmful</strong> to the team.
 
 ## An Alternative Metric
 
@@ -66,8 +66,8 @@ I think we need to involve our developers more closely in the process of creatin
 Perhaps we can start to integrate our business goals more closely with the output of the team, here are a few ways I have seen businesses more closely collaborate with the team and identify value based objectives
 
 1. The developers should spend more time with users understanding how they work, and their needs
-2. The developers should actually be involved in more 'Impact Mapping' with the users/business stakeholders to help cut away features that aren't needed
-3.	The developers should be given a bi-weekly or monthly 1hr update from a business executive which should explicitly lay out the financial or operational objectives for the software
+2. The developers should actually be involved in more [Impact Mapping](https://www.impactmapping.org/){:target="_blank"} with the users/business stakeholders to help cut away features that aren't needed
+3. The developers should be given a bi-weekly or monthly 1hr update from a business executive which should explicitly lay out the financial or operational objectives for the software
 
 ## Conclusion
 
