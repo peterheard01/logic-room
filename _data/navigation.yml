@@ -6,6 +6,10 @@
   url: '#projects'
   path: '/'
 
+- text: guides
+  url: 'guides/'
+  path: '/guides/'
+
 - text: about us
   url: 'about-us'
   path: '/about-us/'
