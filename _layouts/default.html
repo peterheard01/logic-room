@@ -55,8 +55,16 @@
         content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:image" content="{{ site.url }}/images/lr-header.jpg">
   <meta property="og:publisher" content="https://www.facebook.com/logicroomlimited/">
+
+
+  {% if page.url != '/'  %}
+    <meta property="og:image" content="{{ page.url }}images/header.png">
+  {% else %}
+    <meta property="og:image" content="{{ site.url }}/images/lr-header.jpg">
+  {% endif %}
+
+
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@LogicRoomCo" />
@@ -87,6 +95,8 @@
 
 
 <div id="logic-room">
+
+  <!--<img style="width:100%; padding:0px;" src="{{post.url}}images/header.png">-->
 
 
 
