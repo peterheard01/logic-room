@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nobody Really Understands Digital Transformation - This Surprising Research Shows Why...
+title: Does Anyone Really Understand Digital Transformation? Not According to this Research...
 author: Pete Heard
 excerpt: This article will discuss why everyone seems to be confused about one of the biggest change management topics to hit the enterprise in recent years; 'Digital Transformation'
 thumbnail: 404.jpg
