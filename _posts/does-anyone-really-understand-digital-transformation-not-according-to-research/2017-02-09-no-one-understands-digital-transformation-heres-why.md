@@ -10,7 +10,7 @@ date:   2017-02-09 05:48:50 +0000
 
 This article will discuss why everyone seems to be confused about one of the biggest change management topics to hit the enterprise in recent years; 'Digital Transformation'.
 
-We will discuss the origins of the movement and take a look at some general conventions of how it works. Then we will look at evidence to see how it is being implemented in the real world. This article will highlight the fact that there is an inconsistent understanding of what Digital Transformation is as well as showing evidence which will support this claim.
+We will discuss the origins of the movement and take a look at some general conventions of how it works. Then we will look at evidence to see how it is being implemented in the real world. There is an inconsistent understanding of what Digital Transformation as we will discover.
 
 We will attempt to get to the heart of what it is about and apply a simple rule which should add some clarity to this often misinterpreted topic. Hopefully this article will help you gain a consistent understanding.
 
