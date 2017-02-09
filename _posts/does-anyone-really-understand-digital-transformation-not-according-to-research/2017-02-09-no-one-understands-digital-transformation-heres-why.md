@@ -115,4 +115,4 @@ Organisations should make a conscious decision regarding this. On the one hand, 
 
 Digital Transformation is not just about tactical improvements at the small scale; it's about fundamentally enabling the business to improve its overall capability to create better value for its customers, partners and for society as a whole!
 
-I hope you enjoyed this article.  Feel free to comment as always!
+I hope you enjoyed this article. 
