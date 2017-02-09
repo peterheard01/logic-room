@@ -71,7 +71,7 @@ it('when user goes back then delete is called', inject(function(done){
 }));
 ```
 
-As you can see the $httpBackend is an object that is using a reference to an internally stored collection of asynchronous calls, it is overwriting these with test doubles. Then it is executing them synchronously thus blocking the test there and then, and making sure all of the fake backend calls are complete, it does what is says on the tin; it **flushes**. Since we aren’t actually performing IO in this test we don't need to worry about blocking the process so can make the code halt whilst it is being flushed. This diagram is handy to refer to to get the process that the $httpBackend object goes through when the test code invokes it. ![$httpBackend for Test Driven Development in Angular](images/1_image.png){:target="_blank"}
+As you can see the $httpBackend is an object that is using a reference to an internally stored collection of asynchronous calls, it is overwriting these with test doubles. Then it is executing them synchronously thus blocking the test there and then, and making sure all of the fake backend calls are complete, it does what is says on the tin; it **flushes**. Since we aren’t actually performing IO in this test we don't need to worry about blocking the process so can make the code halt whilst it is being flushed. This diagram is handy to refer to to get the process that the $httpBackend object goes through when the test code invokes it. ![$httpBackend for Test Driven Development in Angular](images/1_image.png)
 
 ## Conclusion
 
