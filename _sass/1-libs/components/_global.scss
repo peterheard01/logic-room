@@ -400,14 +400,23 @@ table {
 
 thead {
   border-bottom: 1px solid $table-border-color;
+  font-family: 'Dosis-Bold' !important;
+  font-size: 18px;
 }
 
 td, th{
-  padding: 15px 5px;
+  padding: 15px 5px 5px !important;
   display: table-cell;
   text-align: left;
   vertical-align: middle;
   border-radius: 2px;
+  font-family: 'Dosis-Light';
+  font-size: 1.25em;
+  color: #5a5a5a;
+}
+
+th {
+  padding-bottom:20px !important;
 }
 
 // Responsive Table
