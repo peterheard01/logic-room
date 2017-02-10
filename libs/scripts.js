@@ -40,6 +40,12 @@ jQuery.easing.jswing=jQuery.easing.swing;jQuery.extend(jQuery.easing,{def:"easeO
   return this;};$.fn.detectGridColumns=function(){var offset=0,cols=0,$tiles=this.filter(':visible');$tiles.each(function(i,elem){var elemOffset=$(elem).offset().top;if(offset===0||elemOffset===offset){cols++;offset=elemOffset;}else{return false;}});return cols;};var grids_event_uid=0;$.fn.responsiveEqualHeightGrid=function(){var _this=this;var event_namespace='.grids_'+grids_event_uid;_this.data('grids-event-namespace',event_namespace);function syncHeights(){var cols=_this.detectGridColumns();_this.equalHeightGrid(cols);}
   $(window).bind('resize'+event_namespace+' load'+event_namespace,syncHeights);syncHeights();grids_event_uid++;return this;};$.fn.responsiveEqualHeightGridDestroy=function(){var _this=this;_this.css('height','auto');$(window).unbind(_this.data('grids-event-namespace'));return this;};})(window.jQuery);
 
+function scrollTo(id) {
+  $('html, body').animate({
+    scrollTop: $("#" + id).offset().top
+  }, 2000);
+}
+
 
 $(document).ready(function() {
 
