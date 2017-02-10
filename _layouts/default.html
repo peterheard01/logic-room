@@ -47,6 +47,7 @@
   <!--<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}">-->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
   <!--{% if page.title %}-->
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
@@ -56,74 +57,34 @@
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:publisher" content="https://www.facebook.com/logicroomlimited/">
-
-
-  {% if page.url != '/'  %}
+  <!--{% if page.url != '/'  %}-->
     <meta property="og:image" content="{{ page.url }}images/header.png/?refid=LinkedIn">
-  {% else %}
+  <!--{% else %}-->
     <meta property="og:image" content="{{ site.url }}/images/lr-header.jpg/?refid=LinkedIn">
-  {% endif %}
-
-
-
+  <!--{% endif %}-->
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@LogicRoomCo" />
   <meta name="twitter:title" content="{{ page.title }}" />
-  <meta name="twitter:description" content="{{ page.title }}" />
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
   <meta name="twitter:image" content="https://www.logicroom.co/images/logo-dark.jpg" />
-
-  <!--<meta name="twitter:card" content="summary">-->
-  <!--<meta name="twitter:site" content="@LogicRoomCo">-->
-  <!--<meta name="twitter:title" content="{{ page.title }}">-->
-  <!--<meta name="twitter:description"-->
-        <!--content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">-->
-  <!--<meta name="twitter:image" content="{{ site.url }}/images/logo-dark.jpg">-->
   <!--{% endif %}-->
-
-  <!--{% if page.title %}-->
-
-
-  <!--{% endif %}-->
-
-
-
 
 </head>
-
 
 <body>
 
 
 <div id="logic-room">
 
-  <!--<img style="width:100%; padding:0px;" src="{{post.url}}images/header.png">-->
-
-
-
-  {% include analytics.html %}
-
   {% include navigation.html %}
 
   {{content}}
 
-  {% include scripts.html %}
-
 </div>
 
-<script id="dsq-count-scr" src="//https-www-logicroom-co.disqus.com/count.js" async></script>
 
 </body>
 
-<script>
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-51037049-1']);
-_gaq.push(['_trackPageview']);
-setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])",15000);  // --additional line
-(function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script>
+{% include scripts.html %}
 
 </html>

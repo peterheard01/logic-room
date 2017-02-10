@@ -69,31 +69,16 @@
 
 </head>
 
-
 <body>
 
 <div id="logic-room">
 
-  {% include analytics.html %}
-
   {{content}}
-
-  {% include scripts.html %}
 
 </div>
 
 </body>
 
-<script>
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-51037049-1']);
-  _gaq.push(['_trackPageview']);
-  setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])",15000);  // --additional line
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
+{% include scripts.html %}
 
 </html>
