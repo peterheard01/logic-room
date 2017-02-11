@@ -1,21 +1,34 @@
+// function applyTransparentHeader(){
+//   if ($(window).scrollTop() === 0) {
+//     $('.navbar-fixed nav').css("background-color","transparent");
+//     // > 100px from top - show div
+//     // console.log('top');
+//   }
+//   else {
+//     // console.log('not top');
+//     $('.navbar-fixed nav').css("background-color","#07121b");
+//   }
+// }
+
+
 $(document).ready(function() {
 
-  $(window).scroll(function() {
-    if ($(window).scrollTop() === 0) {
 
-      $('.navbar-fixed nav').css("background-color","transparent");
 
-      // > 100px from top - show div
-      console.log('top');
-    }
-    else {
-      console.log('not top');
-
-      $('.navbar-fixed nav').css("background-color","#07121b");
-
-      // <= 100px from top - hide div
-    }
-  });
+  // $(window).scroll(function() {
+  //   if ($(window).scrollTop() === 0) {
+  //
+  //     //$('.navbar-fixed nav').css("background-color","#07121b");
+  //
+  //     // > 100px from top - show div
+  //     console.log('top');
+  //   }
+  //   else {
+  //     console.log('not top');
+  //
+  //     //$('.navbar-fixed nav').css("background-color","transparent");
+  //   }
+  // });
 
   function scrollTo(id) {
     $('html, body').animate({

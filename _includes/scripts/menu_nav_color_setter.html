@@ -1,0 +1,14 @@
+<script>
+  $(document).ready(function() {
+    setNavMenuColor();
+    $(window).scroll(setNavMenuColor);
+    function setNavMenuColor(){
+      if ($(window).scrollTop() <= 100) {
+        $('.navbar-fixed nav').css("background-color","transparent");
+      }
+      else if($(window).scrollTop() > 100) {
+        $('.navbar-fixed nav').css("background-color","#07121b");
+      }
+    }
+  });
+</script>

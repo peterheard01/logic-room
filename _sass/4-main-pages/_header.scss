@@ -3,7 +3,8 @@
     position: relative;
     z-index: 9999;
     nav {
-      //background-color: $banner;
+      background-color: $banner;
+      box-shadow: none;
     }
     ul li {
       list-style-type: none !important;
