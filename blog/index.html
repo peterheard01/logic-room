@@ -7,35 +7,23 @@ type : blog
 
   <div class="wrapper">
 
-
-    <br>
-
-    <style>
-      img:hover {
-        opacity: 0.5;
-      }
-
-      .highlight {
-        cursor : pointer;
-      }
-
-
-    </style>
-
     <div class="row">
-    {% for post in site.posts limit:52 %}
 
-      <div style="min-height:300px;" class="col-xs-12 col-sm-3">
+      {% for post in site.posts limit:52 %}
+      <div class="col-xs-12 col-sm-4">
 
         <a class="highlight" style="text-decoration: none; cursor:pointer;" href="{{post.url}}">
-        <img style="width:100%; padding:0px;" src="{{post.url}}images/header.png">
-        <h5>{{post.title}} </h5>
+        <img src="{{post.url}}images/header.png">
+
+          <br>
+          <br>
+
+        <!--<h5>{{post.title}} </h5>-->
         </a>
 
       </div>
+      {% endfor %}
 
-
-    {% endfor %}
     </div>
 
   </div>
