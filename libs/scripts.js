@@ -1,40 +1,12 @@
-// function applyTransparentHeader(){
-//   if ($(window).scrollTop() === 0) {
-//     $('.navbar-fixed nav').css("background-color","transparent");
-//     // > 100px from top - show div
-//     // console.log('top');
-//   }
-//   else {
-//     // console.log('not top');
-//     $('.navbar-fixed nav').css("background-color","#07121b");
-//   }
-// }
+function scrollTo(id) {
+  $('html, body').animate({
+    scrollTop: $("#" + id).offset().top
+  }, 2000);
+}
 
 
 $(document).ready(function() {
 
-
-
-  // $(window).scroll(function() {
-  //   if ($(window).scrollTop() === 0) {
-  //
-  //     //$('.navbar-fixed nav').css("background-color","#07121b");
-  //
-  //     // > 100px from top - show div
-  //     console.log('top');
-  //   }
-  //   else {
-  //     console.log('not top');
-  //
-  //     //$('.navbar-fixed nav').css("background-color","transparent");
-  //   }
-  // });
-
-  function scrollTo(id) {
-    $('html, body').animate({
-      scrollTop: $("#" + id).offset().top
-    }, 2000);
-  }
 
   $('.faq .row').click(function(elem){
     $(this).next().toggle(1000);
@@ -46,7 +18,7 @@ $(document).ready(function() {
   $('.button-collapse').sideNav({
       menuWidth: 300,
       closeOnClick: true,
-      edge: 'right',
+      edge: 'right'
     }
   );
 
@@ -70,7 +42,6 @@ $(document).ready(function() {
     mainClass: 'mfp-fade',
     removalDelay: 160,
     preloader: false,
-
     fixedContentPos: false
   });
 
