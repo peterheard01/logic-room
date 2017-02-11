@@ -4,7 +4,7 @@ $text_color: #ffffff;
 nav {
   color: $navbar-font-color;
   @extend .z-depth-1;
-  background: #071d2c;
+  //background: #071d2c;
   width: 100%;
   height: $navbar-height-mobile;
   line-height: $navbar-height-mobile;
@@ -162,7 +162,7 @@ nav {
 // Fixed Navbar
 .navbar-fixed {
   position: relative;
-  height: $navbar-height-mobile;
+  //height: $navbar-height-mobile;
   z-index: 998;
 
   nav {
@@ -175,6 +175,6 @@ nav {
     line-height: $navbar-height;
   }
   .navbar-fixed {
-    height: $navbar-height;
+    //height: $navbar-height;
   }
 }
