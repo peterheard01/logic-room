@@ -7,6 +7,19 @@ type : blog
 
   <div class="wrapper">
 
+    <div class="spacer"></div>
+
+    <h2 class="center">
+      Engaging and insightful articles  on Digital Transformation, Agile Software Engineering and Javascript
+      <span class="text-orange">Every Week!</span>
+    </h2>
+
+    <br>
+
+    <script type="text/javascript" src="//static.mailerlite.com/data/webforms/267474/y3l7h5.js?v10"></script>
+
+    <br>
+
     <div class="row">
 
       {% for post in site.posts limit:9 %}
@@ -16,10 +29,7 @@ type : blog
           <a class="highlight" href="{{post.url}}">
             <img src="{{post.url}}images/header.png">
             <p>
-
               {{ post.title | truncate: 165, '...' }}
-
-
             </p>
           </a>
         </div>
