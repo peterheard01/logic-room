@@ -84,14 +84,16 @@ body {
 
   ol li, ul li {
     color: $grey;
-    font-family: 'Dosis-SemiBold' !important;
     padding-bottom:5px;
+  }
+
+  ul li {
+    font-family: 'Dosis-Medium' !important;
   }
 
   h1,h2,h3,h4,h5,h6{
     font-family: 'Dosis-Regular';
     color: $banner;
-    //text-transform: capitalize;
   }
 
   h1 {
