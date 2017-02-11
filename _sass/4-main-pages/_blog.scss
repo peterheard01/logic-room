@@ -20,8 +20,12 @@
   a {
     text-decoration: none;
     cursor:pointer;
+  }
+
+  a:hover {
     opacity:0.5 !important;
   }
+
   p {
     font-size: 18px;
     text-align: left;
