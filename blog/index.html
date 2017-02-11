@@ -3,7 +3,7 @@ layout: default_navigation_page
 type : blog
 ---
 
-<section id="blog">
+<section id="blog-listing">
 
   <div class="wrapper">
 
@@ -12,14 +12,17 @@ type : blog
       {% for post in site.posts limit:9 %}
       <div class="col-xs-12 col-sm-4">
 
-        <!--<a class="highlight" href="{{post.url}}">-->
-          <img src="{{post.url}}images/header.png">
+        <div class="post">
+          <a class="highlight" href="{{post.url}}">
+            <img src="{{post.url}}images/header.png">
+            <p>
 
-          <!--<br>-->
-          <!--<br>-->
+              {{ post.title | truncate: 165, '...' }}
 
-        <!--<h5>{{post.title}} </h5>-->
-        <!--</a>-->
+
+            </p>
+          </a>
+        </div>
 
       </div>
       {% endfor %}

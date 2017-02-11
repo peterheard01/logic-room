@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Does Anyone Really Understand Digital Transformation? Not According to this Research...
+title: Does Anyone Understand Digital Transformation? Not According to this Research...
 author: Pete Heard
 excerpt: This article will discuss why everyone seems to be confused about one of the biggest change management topics to hit the enterprise in recent years; 'Digital Transformation'
 thumbnail: 404.jpg
@@ -8,11 +8,9 @@ category : digital-transformation
 date:   2017-02-09 05:48:50 +0000
 ---
 
-This article will discuss why everyone seems to be confused about one of the biggest change management topics to hit the enterprise in recent years; 'Digital Transformation'.
+Digital Transformation is one of the biggest change management topics to hit the enterprise in recent years but it seems that there is wide-spread confusion about what it really is.
 
-We will discuss the origins of the movement and take a look at some general conventions of how it works. Then we will look at evidence to see how it is being implemented in the real world. There is an inconsistent understanding of what Digital Transformation as we will discover.
-
-We will attempt to get to the heart of what it is about and apply a simple rule which should add some clarity to this often misinterpreted topic. Hopefully this article will help you gain a consistent understanding.
+In this article we will discuss the origins of the movement and see evidence which highlights that organisations are not fully clear on what it is. This means they may be missing out on the opportunities it presents.
 
 ## What we will cover:
 
@@ -54,15 +52,15 @@ Google trends, which shows search volume data, reveals that this word has been t
 ![Google trend for Digital Transformation](images/1_image.png "Google trend for Digital Transformation")
 > Google trend for Digital Transformation
 
-It's important to realise that Digital Transformation is not new; it is just that the expression has been used a lot recently which has attracted more attention. The technological transition from traditional analogue business to digital has been happening for at least [20 years](https://thenextweb.com/insider/2011/08/06/20-years-ago-today-the-world-wide-web-opened-to-the-public/) since the introduction of the web.
+It's important to realise that Digital Transformation is not new; it is just that the expression has been used a lot recently which has attracted more attention. The technological transition from traditional analogue business to digital has been happening for at least [20 years](https://thenextweb.com/insider/2011/08/06/20-years-ago-today-the-world-wide-web-opened-to-the-public/){:target="_blank"} since the introduction of the web.
 
 ## What Businesses 'Think' Digital Transformation is
 
 As we already discussed, transformation is important to businesses because it enables change and flexibility. This ability to change can help the business to maintain its competitive advantage.
 
-Research obtained by [Forbes](http://www.forbes.com/sites/brucerogers/2016/01/07/why-84-of-companies-fail-at-digital-transformation/#68d258e3588f) suggests that 84% of businesses are failing at Digital Transformation. According to the research, only 25% of companies actually understand what Digital Transformation is.
+Research obtained by [Forbes](http://www.forbes.com/sites/brucerogers/2016/01/07/why-84-of-companies-fail-at-digital-transformation/#68d258e3588f){:target="_blank"} suggests that 84% of businesses are failing at Digital Transformation. According to the research, only 25% of companies actually understand what Digital Transformation is.
 
-So what is creating this confusion that we are seeing? Mulesoft, the API integration company, did some interesting research for their [2016 Connectivity Benchmark Study](https://www.mulesoft.com/lp/reports/2016-connectivity-benchmark){: target="\_blank"} which came up with the following statistics about what companies think Digital Transformation is:
+So what is creating this confusion that we are seeing? Mulesoft, the API integration company, did some interesting research for their [2016 Connectivity Benchmark Study](https://www.mulesoft.com/lp/reports/2016-connectivity-benchmark){: target="_blank"} which came up with the following statistics about what companies think Digital Transformation is:
 
 | Type | Result |
 | --- | --- |
