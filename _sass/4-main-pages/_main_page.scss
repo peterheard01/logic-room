@@ -29,13 +29,13 @@
         color: #8ff465;
       }
       img {
-        padding:0px;
-        margin:0px;
+        padding: 0px;
+        margin: 0px;
       }
       .psst {
         text-transform: lowercase;
-        z-index:1000;
-        position:relative;
+        z-index: 1000;
+        position: relative;
       }
       .title {
         color: $text_color;
@@ -66,7 +66,7 @@
       z-index: -1;
     }
     .logo {
-      width: 100px;
+      width: 80px;
       display: inline-block;
       margin-top: 20px;
     }
@@ -159,8 +159,8 @@
 
     img {
       display: inline-block;
-      padding:0px;
-      margin:0px;
+      padding: 0px;
+      margin: 0px;
     }
   }
 
@@ -196,8 +196,8 @@
       color: #888888;
     }
     h2 {
-      margin-top:0px;
-      padding-top:40px;
+      margin-top: 0px;
+      padding-top: 40px;
     }
   }
 
@@ -213,8 +213,8 @@
     display: flex;
     align-items: center;
     img {
-      padding:0;
-      margin:0;
+      padding: 0;
+      margin: 0;
     }
     .image {
       position: absolute;
@@ -229,7 +229,7 @@
     }
 
     ul {
-      padding-left : 0px !important;
+      padding-left: 0px !important;
       li {
         list-style-type: none !important;
         a {
@@ -247,17 +247,8 @@
     }
   }
 
-}
-
-/*==================================================
-=            Bootstrap 3 Media Queries             =
-==================================================*/
-
-/*==========  Mobile First Method  ==========*/
-
-/* Custom, iPhone Retina */
-@media only screen and (min-width: 320px) {
-  #logic-room {
+  /* Custom, iPhone Retina */
+  @media only screen and (min-width: 320px) {
     #main {
       p {
         font-family: 'Dosis-Light';
@@ -368,11 +359,9 @@
       text-align: center;
     }
   }
-}
 
-/* Extra Small Devices, Phones */
-@media only screen and (min-width: 480px) {
-  #logic-room {
+  /* Extra Small Devices, Phones */
+  @media only screen and (min-width: 480px) {
     #main {
       height: 600px;
       .brand-logo {
@@ -391,31 +380,10 @@
       .image_right {
         display: none;
       }
-      .landing .title {
-        padding-left: 0;
+      .logo {
+        width: 90px;
       }
-      .landing {
-        padding-top: 1em;
-        .lines {
-          text-align: center;
-        }
-        .centered {
-          padding-top: 1em;
-        }
-        img {
-          max-width: 30%;
-          padding-top: .5em;
-        }
-        .city-scape {
-          display: none;
-        }
-        .blue-blocks-left {
-          display: none;
-        }
-        .blue-blocks-right {
-          display: none;
-        }
-      }
+
     }
     .wrapper {
       width: 1440px;
@@ -456,11 +424,9 @@
       text-align: center;
     }
   }
-}
 
-/* Small Devices, Tablets */
-@media only screen and (min-width: 768px) {
-  #logic-room {
+  /* Small Devices, Tablets */
+  @media only screen and (min-width: 768px) {
     #main {
       height: 650px;
       .brand-logo {
@@ -560,12 +526,9 @@
       text-align: center;
     }
   }
-}
 
-/* Medium Devices, Desktops */
-@media only screen and (min-width: 992px) {
-
-  #logic-room {
+  /* Medium Devices, Desktops */
+  @media only screen and (min-width: 992px) {
     #main {
       height: 700px;
       .landing {
@@ -645,12 +608,8 @@
     }
   }
 
-}
-
-/* Large Devices, Wide Screens */
-@media only screen and (min-width: 1200px) {
-
-  #logic-room {
+  /* Large Devices, Wide Screens */
+  @media only screen and (min-width: 1200px) {
     #main {
       height: 700px;
       .nav-wrapper {
@@ -692,7 +651,6 @@
         }
       }
     }
-
     #projects {
       @include padding(null null 3em null);
       .row {
@@ -710,3 +668,7 @@
   }
 
 }
+
+
+
+
