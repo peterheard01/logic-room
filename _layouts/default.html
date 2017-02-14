@@ -25,14 +25,25 @@
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:description"
         content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:url" content ="{{ site.url }}{{ page.url }}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:publisher" content="https://www.facebook.com/logicroomlimited/">
-  {% if page.url != '/'  %}
-    <meta property="og:image" content="{{ page.url }}images/header.png/?refid=LinkedIn">
-  {% else %}
-    <meta property="og:image" content="{{ site.url }}/images/lr-header.jpg/?refid=LinkedIn">
+
+  header url is : {{ page.headerUrl   }}
+  layout.type url is : {{layout.type}}
+  layout.type url is : {{site.url}}
+
+  {% if page.headerUrl != '' and page.headerUrl != null %}
+      custom
+    <meta property="og:image" content="{{  page.headerUrl }}">
+  {% else if layout.type == 'blog'  %}
+      blog
+    <meta property="og:image" content="{{ page.url }}images/header.png ">
+  {% else if layout.type == 'page' %}
+      page
+    <meta property="og:image" content="{{ site.url }}/images/lr-header.jpg">
   {% endif %}
+
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@LogicRoomCo" />
   <meta name="twitter:title" content="{{ page.title }}" />

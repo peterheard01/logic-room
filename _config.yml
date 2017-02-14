@@ -27,6 +27,9 @@ permalink: /:title/
 
 include: [_redirects,resources]
 
+collections:
+- my_collection
+
 # Build settings
 markdown: kramdown
 theme: minima
