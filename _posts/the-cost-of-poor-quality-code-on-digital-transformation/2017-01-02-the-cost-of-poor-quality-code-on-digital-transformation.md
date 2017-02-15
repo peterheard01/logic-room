@@ -105,5 +105,3 @@ However, as we have seen, this comes loaded with higher **risk** and increased *
 
 In a modern Digital Transformation programme an organisation should firstly look to unlock the hidden value in improving code quality and reducing technical debt for direct cost savings. Secondly they can reduce operational risk and improve customer satisfaction by driving up the internal quality of their applications. Improving code quality should be used as a tool to leverage faster and more efficient Digital Transformation.
 
-{% markdown code-review/prompt-block.md %}
-
