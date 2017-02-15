@@ -28,11 +28,11 @@
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:publisher" content="https://www.facebook.com/logicroomlimited/">
   {% if page.headerUrl != '' and page.headerUrl != null %}
-    <meta property="og:image" content="{{page.headerUrl}}">
+    <meta property="og:image" content="{{ site.url }}{{ page.url }}{{ page.headerUrl }}">
   {% elsif layout.type == 'blog'  %}
-    <meta property="og:image" content="images/header.png">
+    <meta property="og:image" content="{{ site.url }}{{ page.url }}images/header.png">
   {% elsif layout.type == 'page' %}
-    <meta property="og:image" content="/images/header.png">
+    <meta property="og:image" content="{{ site.url }}/images/header.png">
   {% endif %}
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@LogicRoomCo" />
