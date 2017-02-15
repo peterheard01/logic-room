@@ -4,6 +4,8 @@
 
 <script id="dsq-count-scr" src="//https-www-logicroom-co.disqus.com/count.js" async></script>
 
+
+{% if site.url == 'https://www.logicroom.co' %}
 <script>
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-51037049-1']);
@@ -15,6 +17,7 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+{% endif %}
 
 <!-- MailerLite Universal -->
 {% if page.category == 'angular' or page.category == 'react' or page.category == 'javascript' or page.category == 'digital-transformation' or page.category == 'agile'  %}
