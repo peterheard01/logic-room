@@ -5,7 +5,7 @@ author: Pete Heard
 excerpt: This article discusses how C-level execs (CEO, CTO, COO, CIO and IT Directors) and software leaders can make software development more efficient using Lean and reduce cost!
 thumbnail: 404.jpg
 category : agile
-date:   2017-02-16 05:44:00 +0000
+date:   2017-02-16 06:00:00 +0000
 ---
 
 When you cut costs, profits go up and research [carried out by IBM](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03729USEN&attachment=GBE03729USEN.PDF){:target="_blank"} on 5000 business leaders in 2015 found that cutting cost is the fourth highest priority for a C-level exec  (CEO, CTO, COO, CIO and IT Directors).
@@ -153,6 +153,6 @@ In this article we have looked at some ways to make the scoping and building of 
 
 We have also discussed analytics and social media techniques to help us guide feature selection and have seen that refactoring and modernising code is an option, instead of rewriting entire systems.
 
-A new era awaits the future of development as companies look to consolidate legacy systems, improve customer relations and increase technical efficiency in order to become more efficient and digitally 'aware'!
+A new era awaits the future of development, as companies look towards better ways to consolidate legacy systems, improve feature selection and increase technical efficiency using analytics in order to reduce cost and become more Lean!
 
 I hope you enjoyed this article.
