@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 Ways CXOs Can Cut the Cost of Software Development
+title: 6 Ways CXOs Can Cut the Cost of Agile Software Development
 author: Pete Heard
 excerpt: This article discusses how C-level execs (CEO, CTO, COO, CIO and IT Directors) and software leaders can make software development more efficient using Lean and reduce cost!
 thumbnail: 404.jpg
