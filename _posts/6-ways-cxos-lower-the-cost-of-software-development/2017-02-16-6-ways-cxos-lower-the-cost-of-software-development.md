@@ -5,10 +5,10 @@ author: Pete Heard
 excerpt: This article discusses how C-level execs (CEO, CTO, COO, CIO and IT Directors) and software leaders can make software development more efficient using Lean and reduce cost!
 thumbnail: 404.jpg
 category : agile
-date:   2017-02-16 06:14:00 +0000
+date:   2017-02-16 05:44:00 +0000
 ---
 
-When you cut costs, profits go up and research [carried out by IBM](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03729USEN&attachment=GBE03729USEN.PDF) on 5000 business leaders in 2015 found that cutting cost is the fourth highest priority for a C-level exec  (CEO, CTO, COO, CIO and IT Directors).
+When you cut costs, profits go up and research [carried out by IBM](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03729USEN&attachment=GBE03729USEN.PDF){:target="_blank"} on 5000 business leaders in 2015 found that cutting cost is the fourth highest priority for a C-level exec  (CEO, CTO, COO, CIO and IT Directors).
 
 ![The top priorities for C-level execs](images/2_image.png "The top priorities for C-level execs"){:target="_blank"}
 > The top priorities for C-level execs courtesy of IBM
@@ -22,11 +22,11 @@ The best type of cost to cut is the one that saves not only hard cash but also t
 - **Technique 3** : Improve Requirements Building
 - **Technique 4** : Introduce a Testing Mind-set
 - **Technique 5** : Embrace DevOps and Continuous Integration/Continuous Deployment
-- **Technique 6** : Refactor Don't Rewrite
+- **Technique 6** : Refactor Legacy Systems - Don't Rewrite
 
 ## Lead Development Choices with Better Strategic Planning
 
-In one of my last blog posts I explored the [limitation of story points](https://www.logicroom.co/should-we-stop-using-agile-story-points/). I made the point that whilst story points may help the business manage a team, they don't necessarily help the team make software.
+In one of my last blog posts I explored the [limitation of story points](https://www.logicroom.co/should-we-stop-using-agile-story-points/){:target="_blank"}, I made the point that story points help the business manage a team but they don't necessarily help the team make software.
 
 I go on to clarify that we create software for companies that need to make a profit from it. This is done either by making money or saving money and this happens by adding value to customers. Story points don't capture any information about value from a customer's perspective.
 
@@ -46,13 +46,13 @@ We develop software for end users. Be it internal or external; our users are the
 
 Bad decisions cost us money; apart from wasting time physically developing them, we waste resources managing their development. Bad feature decisions can often create bloated solutions with features that simply don't provide a good Return on Investment (ROI).
 
-In the [Human Factors International video](../../C:%5CUsers%5CLENOVO%5CDownloads%5C%5Bhttps:%5Cwww.youtube.com%5Cwatch%3Fv=O94kYyzqvTc%5D(https:%5Cwww.youtube.com%5Cwatch%3Fv=O94kYyzqvTc)), Dr. Susan Weinschenk notes that of those IT investments, up to 15% of IT projects are abandoned and at least 50% of a programmer's time during the project is spent doing rework that is avoidable. Following best practices helps to identify challenges upfront so that a solution can be found early.
+In the [Human Factors International video](https://www.youtube.com/user/HFIvideo){:target="_blank"}, Dr. Susan Weinschenk notes that of those IT investments, up to 15% of IT projects are abandoned and at least 50% of a programmer's time during the project is spent doing rework that is avoidable. Following best practices helps to identify challenges upfront so that a solution can be found early.
 
 By using data we can begin to profile our users and improve our decision making. The following approaches can be used:
 
 ### Web and Mobile Analytics
 
-For example, here is one such tool we use here at Logic Room [hotjar](https://www.hotjar.com){: target="_blank"} which helps us create HeatMaps that we use to monitor our homepage to see which links were clicked on the most.
+For example, here is one such tool we use here at Logic Room [hotjar](https://www.hotjar.com){:target="_blank"} which helps us create HeatMaps that we use to monitor our homepage to see which links were clicked on the most.
 
 You can get a very real idea of what it is that people want to do as soon as they come to our site; in our case - they want to read our blogs!
 
@@ -71,17 +71,17 @@ By analysing trends on social media we can see not only what is big with users a
 
 ### Paid Digital Advertising and A/B testing
 
-Apart from using advertising to actually sell products, paid advertising is very effective at controlling what potential users see and thus what they click on. By strategically placing ads on Google or another search engine and seeing what makes them click, we can build up a profile of what our users are interested in.
+Apart from using advertising to sell products, paid advertising is very effective at controlling what potential users see and thus what they click on. By strategically placing ads on Google or another search engine and seeing what makes them click, we can build up a profile of what our users are interested in, this is called 'A/B split testing'.
 
-For example, if I want to create network virtualisation software I can run 1000 ads. On 500 of them I advertise a drag and drop interface. On the others, a command line interface. By seeing which receives the most clicks, I know which feature to develop first. This type of feature development is actually inspired by the biological standpoint of natural selection and is emerging as a powerful way to drive business strategy. For a really interesting case study about these sorts of techniques I recommend a fantastic book [Why The Tories Won (the 2015 election)](https://www.amazon.co.uk/dp/B016DE6COE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) which talks about many methods the Tories used to get into the heads of voters to find out what they wanted using digital strategies. They then knew **exactly** how to run their campaign by using data. The same rules can be applied to development.
+For example, if I want to create network virtualisation software I can run 1000 ads. On 500 of them I advertise a drag and drop interface. On the others, a command line interface. By seeing which receives the most clicks, I know which feature to develop first. This type of feature development is actually inspired by the biological standpoint of natural selection and is emerging as a powerful way to drive business strategy. For a really interesting case study about these sorts of techniques I recommend a fantastic book [Why The Tories Won (the 2015 election)](https://www.amazon.co.uk/dp/B016DE6COE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1){:target="_blank"} which talks about many methods the Tories used to get into the heads of voters to find out what they wanted using digital strategies. They then knew **exactly** how to run their campaign by using data. The same rules can be applied to development.
 
 ![David Cameron exercising his thumbs](images/1_image.png "David Cameron exercising his thumbs")
-> David doing his 'thumb' thing (source : guardian)
+> David doing his 'thumb' thing
 
 
 ## Improve Requirements Building
 
-The global, non-profit application developers' portal 'App Developers Alliance' collected data for their [Insights Report](https://www.appdevelopersalliance.org/developer-insights-report-2015) and they found that 48% of project failures are from poorly documented requirements.
+The global, non-profit application developers' portal 'App Developers Alliance' collected data for their [Insights Report](https://www.appdevelopersalliance.org/developer-insights-report-2015){:target="_blank"} and they found that 48% of project failures are from poorly documented requirements.
 
 The _most_ inefficient way to develop software is to fail outright. So in order to be more efficient and cost effective we can look to improve the process of requirements building.
 
@@ -107,13 +107,13 @@ There is a very clear relationship between software quality and cost. When code 
 ![he inverse relationship between cost and quality](images/4_image.png "he inverse relationship between cost and quality")
 > The inverse relationship between cost and quality
 
-Test Driven Development (TDD) is a discipline that developers use where they write tests before they write code. Interesting [research](https://www.infoq.com/news/2009/03/TDD-Improves-Quality) carried out by a number of large vendors (for example, Microsoft) indicates the TDD approach has been proven to reduce the cost of development by improving quality.
+Test Driven Development (TDD) is a discipline that developers use where they write tests before they write code. Interesting [research](https://www.infoq.com/news/2009/03/TDD-Improves-Quality){:target="_blank"} carried out by a number of large vendors (for example, Microsoft) indicates the TDD approach has been proven to reduce the cost of development by improving quality.
 
 TDD can be difficult to implement correctly in an organisation because it is often administered in a way that doesn't promote speed and ease of use. Be sure to download our [TDD guide](https://www.logicroom.co/tdd-simplified-in-5-steps/){: target="\_blank"} which breaks it down into easy to do steps.
 
 ## Embrace DevOps and Continuous Integration/Continuous Deployment
 
-DevOps is a software development practice that refers to an entire team taking responsibility for the automation of end-to-end software packages and releases - in the book ['A Practical Approach to Large-Scale Agile Development'](https://www.amazon.com/dp/0321821726?tag=contindelive-20) some interesting figures were cited where they speak about applying DevOps; they found:
+DevOps is a software development practice that refers to an entire team taking responsibility for the automation of end-to-end software packages and releases - in the book ['A Practical Approach to Large-Scale Agile Development'](https://www.amazon.com/dp/0321821726?tag=contindelive-20){:target="_blank"} some interesting figures were cited where they speak about applying DevOps; they found:
 
 - Overall development costs reduced by ~40%
 - Programs under development increased by ~140%
@@ -129,9 +129,9 @@ _'Give me six hours to chop down a tree and I will spend the first four sharpeni
 
 DevOps is fundamentally about culture; a culture of automation reduces complexity and this will drive down cost and improve efficiency.
 
-## Refactor Systems - Don't Rewrite
+## Refactor Legacy Systems - Don't Rewrite
 
-Astonishingly, there is [$1,000,000 of technical debt](https://www.logicroom.co/the-cost-of-poor-quality-code-on-digital-transformation/) included in the average code base.
+Astonishingly, there is [$1,000,000 of technical debt](https://www.logicroom.co/the-cost-of-poor-quality-code-on-digital-transformation/){:target="_blank"} included in the average code base.
 
 The article I linked to (above) shows that this debt causes huge problems for organisations. There are several problems that bad code is likely to create in an organisation
 
@@ -143,7 +143,7 @@ All of the above drive up cost and reduce efficiency.
 
 Legacy code is in every organisation and organisations often re-write entire systems. However refactoring (modernising) legacy systems is often a far better approach.
 
-A skilled engineer can help their client/employer slowly improve code. They can do it in a non-destructive way that mitigates risk. You can read more about the approach using Michael Feathers book called [Working Effectively with Legacy Code](https://www.amazon.co.uk/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052).
+A skilled engineer can help their client/employer slowly improve code. They can do it in a non-destructive way that mitigates risk. You can read more about the approach using Michael Feathers book called [Working Effectively with Legacy Code](https://www.amazon.co.uk/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052){:target="_blank"}.
 
 ## Conclusion
 
