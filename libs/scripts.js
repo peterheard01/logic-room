@@ -1,11 +1,16 @@
-function scrollTo(id) {
-  $('html, body').animate({
-    scrollTop: $("#" + id).offset().top
-  }, 2000);
-}
+
 
 
 $(document).ready(function() {
+
+  window.scrollTo = function(id) {
+
+    debugger;
+    alert('sss');
+    $('html, body').animate({
+      scrollTop: $("#" + id).offset().top
+    }, 2000);
+  };
 
 
   $('.faq .row').click(function(elem){
