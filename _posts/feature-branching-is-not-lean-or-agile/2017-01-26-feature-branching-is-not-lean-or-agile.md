@@ -57,7 +57,7 @@ In Agile we are told to use continuous integration (CI). Using feature branches 
 
 The real reason why feature branching is used so much isn't because it's better, it isn't because it really solves a problem that needed to be solved it's because the IT industry is fuelled by trends. We quite often forget to push back on things that add too much complexity for too little benefit.
 
-I'm not entirely sure why many developers love to wield a sense of mastery over Git; perhaps they feel a sense of pride. I guess when someone cool like Linus Torvolds (inventor of Linux) creates something like Git it's automatically assigned God status and is rolled out in great jubilee and fanfare.
+I'm not entirely sure why many developers love to wield a sense of mastery over Git and the complexities of feature branching. I sometimes feel developers are too clever and scupper their own productivity by learning something really complex. I guess when someone cool like Linus Torvolds (inventor of Linux) creates something like Git it's automatically assigned God status and is rolled out in great jubilee and fanfare too which doesn't help. We gravitate to it like a magnet and instead of judiciously using 'parts' of it we use 'all' of it!
 
 ![Monty python devs](images/2_image.jpg "Monty python devs")
 
