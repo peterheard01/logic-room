@@ -12,6 +12,17 @@ Feature branching is a modern approach to software development that all the top 
 
 Feature branching is a hugely wasteful technique which directly violates Lean principles and also contravenes Agile. It's a practice that has been shoe-horned into the enterprise and it costs companies dearly.
 
+## What is 'Feature Branching'
+
+Feature branching is a technique that software teams use to create multiple copies of the same software. The purpose is so that they can add features to a copy of the software without affecting the original. 
+
+When the feature is complete the idea is that they will 'merge' their changes back with the original copy. As we will discuss in this article the problems start when the original copy is modified 'after' the feature branch was created because now you have two copies of the same thing and they are conflicted. 
+
+![Feature Branching Conflict](images/3_image.png "Feature Branching Conflict")
+
+
+This conflict underpins the argument I make in this article. To begin our story we start with the origins of feature branching.
+
 ## Where 'Feature Branching' Came From
 
 Feature branching first took hold in our industry with the proliferation of distributed source control; notably [Git](https://git-scm.com/){:target="_blank"}. It exploded onto the scene just about the same time open source became big with distributed developers.
@@ -27,7 +38,7 @@ Git can be used with tools such as Bitbucket and introduces the concept of the '
 - It allows a **code review** to occur
 - It allows **bugs** to be caught before they are integrated
 
-![Angular 2 App Architecture](images/1_image.png "Architecture of Angular 2 App")
+![A picture of bitbucket](images/1_image.png "A picture of bitbucket")
 
 It's assumed that discussing code before integration has a benefit; that it catches bugs and improves software quality. It's assumed that the process has benefit because it manages control. The problem, is that this 'benefit' comes with really extreme **costs**.
 
@@ -44,11 +55,11 @@ In Agile we are told to use continuous integration (CI). Using feature branches 
 
 # History Repeats Itself
 
-The real reason why feature branching exists isn't because it's better, it isn't because it really solves a problem that needed to be solved it's because in the IT industry we don't critically challenge and push back on trends, we don't challenge emerging techniques; we don't think!
+The real reason why feature branching is used so much isn't because it's better, it isn't because it really solves a problem that needed to be solved it's because the IT industry is fuelled by trends. We quite often forget to push back on things that add too much complexity for too little benefit.
 
-I'm not entirely sure why developers love to wield a sense of mastery over Git; perhaps they feel a sense of pride. I guess when someone cool like Linus Torvolds (inventor of Linux) creates something like Git it's automatically assigned God status and is rolled out in great jubilee and fanfare.
+I'm not entirely sure why many developers love to wield a sense of mastery over Git; perhaps they feel a sense of pride. I guess when someone cool like Linus Torvolds (inventor of Linux) creates something like Git it's automatically assigned God status and is rolled out in great jubilee and fanfare.
 
-![Angular 2 App Architecture](images/2_image.jpg "Architecture of Angular 2 App")
+![Monty python devs](images/2_image.jpg "Monty python devs")
 
 I dine at the table of common sense. I assume everything is a fad and stick to what I know because too much of IT is overly complex. If feature branching now has a hedgemony because it's shiney. And we validate that hedgemony based on the idea that it adds benefit; no matter the cost; my next logical question is; can we cut feature branching away but still hold onto the benefits of catching bugs and maintaining code quality? Yes we can!
 
@@ -56,7 +67,7 @@ I dine at the table of common sense. I assume everything is a fad and stick to w
 
 It's actually better to catch bugs after integrating code since the best way to assert bugs in software is to perform testing. By merging continuously all day we increase the amount of testing that happens on the final artifact. And this increases the chances that we find bugs.
 
-The reason we review code is to protect our employer/client from bad code. But it might make more sense to use pair programming and good education to ensure better software development. There are numerous approaches to this for example I created an [e-book](https://www.logicroom.co/guides/tdd-simplified-in-5-steps/){:target="_blank"} called TDD Simplified which offers a simple model with which to apply Test Driven Development (TDD. For architecuture; teams can use a single paradigm to create designs for example the [hexagonal architecure](http://alistair.cockburn.us/Hexagonal+architecture){:target=_blank"} is one such principle I have used on multiple projects.
+The reason we review code is to protect our employer/client from bad code. But it might make more sense to use pair programming and good education to ensure better software development. There are numerous approaches to this for example I created an [e-book](https://www.logicroom.co/guides/tdd-simplified-in-5-steps/){:target="_blank"} called TDD Simplified which offers a simple model with which to apply Test Driven Development (TDD). For architecuture; teams can use a single paradigm to create designs for example the [hexagonal architecure](http://alistair.cockburn.us/Hexagonal+architecture){:target=_blank"} is one such principle I have used on multiple projects.
 
 ## Conclusion
 
