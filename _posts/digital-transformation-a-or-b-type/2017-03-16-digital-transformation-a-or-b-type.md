@@ -8,7 +8,7 @@ category : agile
 date:   2017-03-22 05:20:00 +0000
 ---
 
-When companies undergo digital transformation, choosing which technology to deploy can be difficult, and changing a business operating model is risky. 
+When companies undergo [digital transformation](/no-one-understands-digital-transformation-heres-why/){:target="_blank"}, choosing which technology to deploy can be difficult, and changing a business operating model is risky. 
 
 Companies are beginning to use data more and more to help to decide where to guide their efforts, alongside more traditional 'vision' led approaches. Making decisions is perhaps the most important part of running a successful business. Make the right one; you create profit; make the wrong one; you lose money. 
 
@@ -18,9 +18,9 @@ We will compare two different ways of making decisions and look at the types of 
 
 The A-Type is usually used in an expansive business that has many customer interactions happening across multiple parts of the business. They are already making a lot of transactions; this means that they have access to a lot of data. 
 
-An example of an A-Type company that makes decisions using data is [Google](http://www.smartdatacollective.com/bernardmarr/85871/analytics-google-great-example-data-driven-decision-making). The article speaks about how Google have used data to help with the HR process. 
+An example of an A-Type company that makes decisions using data is [Google](http://www.smartdatacollective.com/bernardmarr/85871/analytics-google-great-example-data-driven-decision-making){:target="_blank"}. The article speaks about how Google have used data to help with the HR process. 
 
-In the A-Type; data can be used to help to drive their strategy. This is their **competitive advantage**. For A-Types a **systematic approach** to refining business decisions using data is often preferred. For example in the book; [KPI Checklist](https://www.amazon.co.uk/KPI-Checklists-Bernie-Smith-ebook/dp/B00GKMOIKK/ref=sr_1_1?ie=UTF8&qid=1489392095&sr=8-1&keywords=bernie+smith) the author; Bernie Smith, talks about a 7 step system that can be used to set up key performance metrics and then use them to slowly communicate and drive decisions. Through a process like this; firstly objectives are identified which can be measured. Then they are slowly tracked on a dashboard which gives a very transparent way of tracking actual performance against desired performance. At any stage in the process business decisions can be made when there is any deviation from the desired path.
+In the A-Type; data can be used to help to drive their strategy. This is their **competitive advantage**. For A-Types a **systematic approach** to refining business decisions using data is often preferred. For example in the book; [KPI Checklist](https://www.amazon.co.uk/KPI-Checklists-Bernie-Smith-ebook/dp/B00GKMOIKK/ref=sr_1_1?ie=UTF8&qid=1489392095&sr=8-1&keywords=bernie+smith){:target="_blank"} the author; Bernie Smith, talks about a 7 step system that can be used to set up key performance metrics and then use them to slowly communicate and drive decisions. Through a process like this; firstly objectives are identified which can be measured. Then they are slowly tracked on a dashboard which gives a very transparent way of tracking actual performance against desired performance. At any stage in the process business decisions can be made when there is any deviation from the desired path.
 
 What's great about this approach is that it removes a lot of risk from the equation of business strategy, since you can prove your hypothesis with data.
 
@@ -37,11 +37,11 @@ The key consideration here is that the A-Type uses a 'bottom-up' approach to bus
 
 The B-Type typically drives most of their decisions through a more **innovative approach**. They are often involved in more creative styles of product development which bridge gaps in emerging fields. For this reason; often the data is not available, or if it was, it would not be useful since they are taking much bigger leaps in deciding which decisions to make.
 
-One such example is Apple. Steve Jobs was well known as an advocate of keeping things simple for his customers. This meant using logic to decide what to build and what not to. In the book [Insanely Simple](https://www.amazon.co.uk/dp/B007N72M9K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) Ken Segal, talks about how Steve Jobs would regularly reject the notion of decisions made using data which could help them drive business strategy. Instead, he opted to keep things simple for their customers as the overriding principle. 
+One such example is Apple. Steve Jobs was well known as an advocate of keeping things simple for his customers. This meant using logic to decide what to build and what not to. In the book [Insanely Simple](https://www.amazon.co.uk/dp/B007N72M9K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1){:target="_blank"} Ken Segal, talks about how Steve Jobs would regularly reject the notion of decisions made using data which could help them drive business strategy. Instead, he opted to keep things simple for their customers as the overriding principle. 
 
 His fear was that some decisions based on data could end up creating complexity. One such example in the book was a near fragmentation of the iPhone models which were somehow 'proven' to be a good idea but he decided to not let happen.
 
-The problem with B-Types is that there can be a lot more risk since you can't prove assumptions; but in [Black Box Thinking](https://www.amazon.co.uk/dp/B00PW634YQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) Matthew Syed talks about some engineers at Unilever that were trying to create a new type of nozzle. 
+The problem with B-Types is that there can be a lot more risk since you can't prove assumptions; but in [Black Box Thinking](https://www.amazon.co.uk/dp/B00PW634YQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1){:target="_blank"} Matthew Syed talks about some engineers at Unilever that were trying to create a new type of nozzle. 
 
 They had a particular factory component which kept failing and costing them a lot of money (in lost production). They had hired a team of physical modelling experts to use equations to create the 'perfect nozzle'. No matter how many times they tried to create perfection using math they just couldn't seem to get it to work. So they decided to take another approach.
 
@@ -68,7 +68,7 @@ Regardless of what type of transformation type you are; (A or B type), it doesn'
 
 In business; we often lose the ability to act decisively because we don't have clarity, its the loss of clarity which really holds us back.
 
-We can actually see the A-Type and B-Type hypothesis I am making in this [article](https://www.fastcodesign.com/3068474/the-real-difference-between-google-and-apple) which shows a visual representation; a node-based comparison of innovation between Google and Apple. 
+We can actually see the A-Type and B-Type hypothesis I am making in this [article](https://www.fastcodesign.com/3068474/the-real-difference-between-google-and-apple){:target="_blank"} which shows a visual representation; a node-based comparison of innovation between Google and Apple. 
 
 The diagram shows proximity of patents that each company have. Apple have fewer but they are controlled through a centralised strategy. This is because Apple (a B-Type) spends a larger proportion of it's time working on larger innovative products than Google (an A-Type). They have a more vested interest in each patent because each of their strategy is based around larger moves. Whereas Google a 'data driven' decision company  makes a larger amount of smaller innovations (patents). 
 
