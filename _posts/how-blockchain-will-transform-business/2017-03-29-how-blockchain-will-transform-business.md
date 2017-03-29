@@ -10,7 +10,7 @@ date:   2017-03-29 04:47:00 +0000
 
 Blockchain is a technology that makes transactions easier, faster and more secure; it is set to shake up lot's of industries from finance to property. 
 
-To understand the basics about blockchain and it's ability to change business we begin our journey with our most lovable of friend; money! 
+To understand the basics about blockchain and how it will change some of the mechanisms of trade we need to understand a little about how it works; and this starts with looking at our most lovable of friends; money! 
 
 ## How Transactions Traditionally Work
 
