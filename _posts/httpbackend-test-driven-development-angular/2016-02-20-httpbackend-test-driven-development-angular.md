@@ -4,7 +4,7 @@ title: $httpBackend Enhances Test Driven Development in Angular
 author: Pete Heard
 excerpt: In this blog post we will examine the $httpBackend object and how it really helps us to write clean and maintainable unit tests ...
 thumbnail: 404.jpg
-category : angular
+category : javascript
 date:   2016-01-19 04:00:00 +0000
 ---
 

@@ -18,6 +18,10 @@
   url: 'blog/'
   path: '/blog/'
 
+- text: javascript
+  url: 'blog/learn-javascript/'
+  path: '/blog/learn-javascript/'
+
 - text: inquire
   url: 'inquire/'
   path: '/inquire/'

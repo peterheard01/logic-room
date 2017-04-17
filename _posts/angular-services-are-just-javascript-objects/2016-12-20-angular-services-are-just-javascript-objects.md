@@ -4,7 +4,7 @@ title: Angular Services Are Just Javascript Objects
 author: Pete Heard
 excerpt: In this article we will look at Angular services and how they are created inside the Angular source code. We will then we will draw a conclusion which will go towards making us better Software Architects ...
 thumbnail: 404.jpg
-category : angular
+category : javascript
 date:   2016-12-20 01:03:50 +0000
 ---
 

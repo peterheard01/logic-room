@@ -4,7 +4,7 @@ title: Angular Directives are Just HTML
 author: Pete Heard
 excerpt: In this article we will take a look Angular Directives, how they are dealt with during the Angular bootstrapping pipeline and how they should be designed ...
 thumbnail: 404.jpg
-category : angular
+category : javascript
 date:   2016-11-21 01:03:50 +0000
 ---
 

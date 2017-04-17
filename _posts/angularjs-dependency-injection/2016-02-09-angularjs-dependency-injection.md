@@ -4,7 +4,7 @@ title: AngularJS Dependency Injection has 3 Key Benefits
 author: Pete Heard
 excerpt: This blog will talk about some hidden benefits of AngularJS Dependency Injection; it's really about Inversion of Control (IoC) ....
 thumbnail: 404.jpg
-category : angular
+category : javascript
 date:   2016-02-20 01:03:50 +0000
 ---
 
