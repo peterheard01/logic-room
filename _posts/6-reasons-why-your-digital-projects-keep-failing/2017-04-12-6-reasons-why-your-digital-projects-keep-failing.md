@@ -8,13 +8,13 @@ category : agile
 date:   2017-04-12 04:05:50 +0000
 ---
 
-If you are a business owner, you know how important your digital strategy is if you want your company to be successful. Even so, with all of this focus on building effective digital strategies, some business owners are still struggling with failing digital projects and don&#39;t understand why. To help them troubleshoot and come up with a solution to ensure the success of their digital projects, we have created this list of some of the more common reasons digital projects fail and how you can avoid them.
+If you are a business executive, you know how important your [digital strategy](/no-one-understands-digital-transformation-heres-why/){:target="_blank"} is if you want your company to be successful. Even so, with all of this focus on building effective digital strategies, some leaders are still struggling with failing digital projects and don&#39;t understand why. To help them troubleshoot and come up with a solution to ensure the success of their digital projects, we have created this list of some of the more common reasons digital projects fail and how you can avoid them.
 
 The two main causes of failed digital projects are missed deadlines and blown budgets. There are many factors that contribute to this and these are the most common:
 
 ## Focusing on the money before the details
 
-This is one of the easiest factors to avoid but the one that most business owners fall victim to. If your team is focused on the cash value of the project and wants to &quot;talk details&quot; later, your digital project could be doomed for failure. Understanding what each project entails is key to meeting deadlines and not going overbudget.
+This is one of the easiest factors to avoid but the one that most business owners fall victim to. If your team is focused on the cash value of the project and wants to &quot;talk details&quot; later, your digital project could be doomed for failure. Understanding what each project entails is key to meeting deadlines and not going over budget.
 
 ## Failing to plan, is planning to fail
 
@@ -40,4 +40,4 @@ Waiting until a project is complete before introducing it to your clients will e
 
 Getting your clients involved as early as possible in the development of their project enables you to get them to sing off on wireframes, designs, HTML and more. It will also make them feel more included in the process and give you a chance to produce a better end result.
 
-Effective and successful digital projects need more than just good developers. They need a team that works together as a unit, one that follows best practice processes and one that doesn&#39;t compromise on the steps it takes to deliver a quality end-result. These three teams also need to be one and they need to be able to do their job properly without any last minute distractions that could cause the digital project to fail.
+Effective and successful digital projects need more than just [good developers](/6-ways-cxos-lower-the-cost-of-software-development/){:target="_blank"}. They need a team that works together as a unit, one that follows best practice processes and one that doesn&#39;t compromise on the steps it takes to deliver a quality end-result. These three teams also need to be one and they need to be able to do their job properly without any last minute distractions that could cause the digital project to fail.
