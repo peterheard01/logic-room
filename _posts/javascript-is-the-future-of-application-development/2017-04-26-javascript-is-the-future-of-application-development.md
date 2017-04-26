@@ -26,11 +26,11 @@ Better tooling, more support and advancements in the language are allowing JavaS
 
 ## Reasons to use JavaScript
 
-### Reason 1 : It Enables Developers To Remove Duplication
+### Reason 1 : It's Better For Distributed Architectures
 
 One of the biggest problems with writing software is duplication. As soon as duplication occurs this immediately adds development cost, since every change to the original now has to be done twice. 
 
-This adds significant overhead. Unfortunately with the rise in popularity of distributed architectures (e.g. Single Page Applications and Microservices) this duplication is becoming more prevalant, it adds cost because it makes applications more complex and difficult to maintain.
+This adds significant overhead. Unfortunately with the rise in popularity of distributed architectures (e.g. Single Page Applications and microservices) this duplication is becoming more prevalent, it adds cost because it makes applications more complex and difficult to maintain.
 
 For example; let's take a typical Single Page Application (SPA). You have a client server relationship. On the client (the browser) you need to store a list of security policies against some sort of entity. These security policies are important. They might include things like (can delete, can update). They are important because you don't want to show a user things it can't do. 
 
