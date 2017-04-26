@@ -100,7 +100,7 @@ This makes it more tricky for the programmer. Because they have to write code th
 
 The upshot is that because they write code that isn't allowed to block JavaScripts' only thread; it will immediately release resources, unlike with our 'multi-threaded' environments where resources are held onto for further processing. 
 
-This has the effect of having significant (performance increase)[https://dzone.com/articles/performance-comparison-between] on applications that run high load processes and makes it perfect in a web environment. 
+This has the effect of having significant [performance increase](https://dzone.com/articles/performance-comparison-between){:target="_blank"} on applications that run high load processes and makes it perfect in a web environment. 
 
 Again this does come with a cost. What JavaScript is not good at doing is servicing requests that need to hold the processor for long periods to perform tasks...for example writing long data streams to disk or processing graphics in real time (such as in distributed gaming). 
 
