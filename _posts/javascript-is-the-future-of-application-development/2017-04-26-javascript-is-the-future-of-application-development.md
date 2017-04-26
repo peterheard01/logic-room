@@ -24,7 +24,7 @@ Better tooling, more support and advancements in the language are allowing JavaS
 ![JavaScript duplication image](images/4_image.png "JavaScript duplication image")
 > source : [http://githut.info/](http://githut.info/)
 
-## The Benefits to Using JavaScript 
+## Reasons to use JavaScript
 
 ### Reason 1 : It Enables Developers To Remove Duplication
 
