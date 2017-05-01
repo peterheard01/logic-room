@@ -1,6 +1,6 @@
 - text: services
-  url: '#services'
-  path: '/'
+  url: 'javascript-angular-react-nativescript-reading-london/'
+  path: '/javascript-angular-react-nativescript-reading-london/'
 
 - text: past projects
   url: '#projects'
