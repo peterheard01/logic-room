@@ -10,7 +10,7 @@ date:   2017-05-10 04:29:00 +0000
 
 In this article we will discuss a plan for you to interview senior JavaScript developers and architects; including interview questions.
 
-JavaScript is rapidly growing in popularity as a cross-platform multi-device programming language. It is powering the next generation of enterprise applications. [Githut](http://githut.com) which parses data from Github shows JavaScript to be the most popular programming language. You can read more about it [here](/JavaScript-is-the-future-of-application-development/){:target="_blank"}
+JavaScript is rapidly growing in popularity as a cross-platform multi-device programming language. It is powering the next generation of enterprise applications. [Githut](http://githut.info/) which parses data from Github shows JavaScript to be the most popular programming language. You can read more about it [here](/JavaScript-is-the-future-of-application-development/){:target="_blank"}
 
 ![JavaScript popularity from githut](images/1_image.png "JavaScript duplication image")
 > source : [http://githut.info/](http://githut.info/)
