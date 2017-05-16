@@ -4,7 +4,7 @@ title: JavaScript is the Future of Enterprise Application Development
 author: Pete Heard
 excerpt: JavaScript is rapidly rising to the top of a sea of languages. It's the future!
 thumbnail: 404.jpg
-category : agile, javascript
+category : javascript
 date:   2017-04-26 04:29:00 +0000
 ---
 

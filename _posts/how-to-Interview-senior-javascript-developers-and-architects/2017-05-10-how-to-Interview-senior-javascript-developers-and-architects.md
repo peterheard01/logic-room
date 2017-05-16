@@ -4,7 +4,7 @@ title: How To Interview Senior JavaScript Developers and Architects
 author: Pete Heard
 excerpt: Hiring the right JavaScript Developers is hard. Use this guide to help!
 thumbnail: 404.jpg
-category : agile, JavaScript
+category : javascript
 date:   2017-05-10 04:29:00 +0000
 ---
 
