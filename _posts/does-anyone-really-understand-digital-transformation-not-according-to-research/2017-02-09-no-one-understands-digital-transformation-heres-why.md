@@ -8,8 +8,6 @@ category : digital-transformation
 date:   2017-02-09 05:48:50 +0000
 ---
 
-UPDATE : I'm doing a talk on this in my group in Reading [https://www.meetup.com/Digital-Transformation-In-Reading/events/237925093/](https://www.meetup.com/Digital-Transformation-In-Reading/events/237925093/){: target="_blank"}
-
 Digital Transformation is one of the biggest change management topics to hit the enterprise in recent years but it seems that there is wide-spread confusion about what it really is.
 
 In this article we will discuss the origins of the movement and see evidence which highlights that organisations are not fully clear on what it is. This means they may be missing out on the opportunities it presents.
