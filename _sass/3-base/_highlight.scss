@@ -23,6 +23,12 @@ p .highlighter-rouge {
     color:white;
     padding:0px 10px 0px 10px;
   }
+
+  td, th{
+    padding: 0 0 0 0 !important;
+  }
+
+
 }
 
 @media only screen and (min-width : 768px) {
