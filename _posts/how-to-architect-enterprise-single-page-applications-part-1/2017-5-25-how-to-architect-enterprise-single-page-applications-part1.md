@@ -71,7 +71,7 @@ Whilst the above code does work, when I reflect on it; I'm not happy. I can see 
 ```javascript
 function getVehicleEngineInfo(){
 
-   var view = {engines:null};
+    var view = {engines:null};
    	
 	loadVehicles(DataLoader.getCars, (car) => { return car.engineSize; });
 	loadVehicles(DataLoader.getPlanes, (plane) => { return plane.engines[0].size + plane.engines[1].size; });
@@ -110,7 +110,7 @@ NOTE : at this point I am using the word 'file' instead of 'object' because many
 //vehicleLoader.js
 function vehicleLoader(){
 
-   var view = {engines:null};
+    var view = {engines:null};
    	
 	vehicleConstructor.loadVehicles(view,DataLoader.getCars, (car) => { return car.engineSize; });
 	vehicleConstructor.loadVehicles(view, DataLoader.getPlanes, (plane) => { return plane.engines[0].size + plane.engines[1].size; });
@@ -146,7 +146,7 @@ Our ```vehicleLoader.js``` becomes very easy to extend and understand because it
 //vehicleLoader.js
 function vehicleLoader(){
 
-   var view = {engines:null};
+    var view = {engines:null};
    	
 	vehicleConstructor.loadVehicles(view,DataLoader.getCars, (car) => { return car.engineSize; });
 	vehicleConstructor.loadVehicles(view, DataLoader.getPlanes, (plane) => { return plane.engines[0].size + plane.engines[1].size; });
