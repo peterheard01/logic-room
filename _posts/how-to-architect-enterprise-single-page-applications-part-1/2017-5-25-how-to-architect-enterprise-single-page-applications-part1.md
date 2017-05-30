@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Architect Single Page Applications [Part 1]
+title: How To Architect Enterprise Single Page Applications (SPA) [Part 1]
 author: Pete Heard
 excerpt: We discuss the first in a series of techniques for building enterprise Single Page Applications from frameworks such as Angular, React, Ember, Vue, Backbone or Knockout.
 thumbnail: 404.jpg
