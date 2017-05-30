@@ -148,7 +148,7 @@ function vehicleLoader(){
 
     var view = {engines:null};
     
-    vehicleConstructor.loadVehicles(view,DataLoader.getCars, (car) => { return car.engineSize; });
+    vehicleConstructor.loadVehicles(view, DataLoader.getCars, (car) => { return car.engineSize; });
     vehicleConstructor.loadVehicles(view, DataLoader.getPlanes, (plane) => { return plane.engines[0].size + plane.engines[1].size; });
     vehicleConstructor.loadVehicles(view, DataLoader.getTrucks, (plane) => { return car.engineSize; });
     vehicleConstructor.loadVehicles(view, DataLoader.getBikes, (plane) => { return car.engineSize; });
