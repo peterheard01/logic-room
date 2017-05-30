@@ -328,7 +328,7 @@ I did originally want to go into more depth with this article. But from experien
 
 In this article we have discovered :
 
-- Separating out responsibilites in SPAs is critical if you want to make enterprise solutions. It allows you to begin to create standardised patterns which help you achieve conformity between developers and thus 'scale'.
+- Separating out responsibilities in SPAs is critical if you want to make enterprise solutions. It allows you to begin to create standardised patterns which help you achieve conformity between developers and thus 'scale'.
 - MV* isn't magic. They are just patterns designed by other humans to allow us to separate out our responsibilities. Just because a framework is using an MV* pattern doesn't mean you have to. You are free to apply whatever patterns you need to build your applications around the frameworks own patterns. Patterns are not laws, they are tools.
 - We have looked a React example and how we are often led down a path of mixing responsibilities. The hype of new frameworks makes us forget basic design fundamentals. You can begin separating out your ```views``` and your ```view``` logic into discrete modules. This will make testing easier and re-usability will be improved. 
 
