@@ -218,7 +218,7 @@ var GameTicker = React.createClass({
 });
 ```
 
-In this example we can see what is called a ```functional reactive``` approach to SPA design. Don't panic at this hi-falutin term. It just means the closure of functions being used to manipulate views directly.
+In this example we can see what is called a ```functional reactive programming``` (FRP) approach to SPA design. Don't panic at this hi-falutin term. It just means the closure of functions being used to manipulate views directly.
 
 What this FRP approach does is allow us to write declarative binding functions at the view level, unfortunately we **do** write them in that exact place and we create the first problem we have with building scalable front end solutions.
 
