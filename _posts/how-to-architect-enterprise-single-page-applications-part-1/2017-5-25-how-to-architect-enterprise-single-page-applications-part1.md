@@ -37,29 +37,29 @@ Consider the following JavaScript fragment:
 ```javascript
 function getVehicleEngineInfo(){
 
-   var view = {engines:null};
-   
+    var view = {engines:null};
+    
     //get cars
     DataLoader.getCars((carsFromServer) => {
-		
-		_.each(carsFromServer, (car) => {
-			var vehicleId = car.Id;
-			var totalEngineCapacity = car.engineSize;
-			view.engines.push({vehicleId:vehicleId, capacity: engineSize});
-		})
-	
-	});
-	
-	//get planes
-	DataLoader.getPlanes(() = {
-		
-		_.each(carsFromServer, (plane) => {
-			var vehicleId = plane.Id;
-			var totalEngineCapacity = plane.engines[0].size + plane.engines[1].size;
-			view.engines.push({vehicleId:vehicleId, size: totalEngineCapacity});
-		})
-		
-	});
+        
+        _.each(carsFromServer, (car) => {
+            var vehicleId = car.Id;
+            var totalEngineCapacity = car.engineSize;
+            view.engines.push({vehicleId:vehicleId, capacity: engineSize});
+        })
+    
+    });
+    
+    //get planes
+    DataLoader.getPlanes(() = {
+        
+        _.each(carsFromServer, (plane) => {
+            var vehicleId = plane.Id;
+            var totalEngineCapacity = plane.engines[0].size + plane.engines[1].size;
+            view.engines.push({vehicleId:vehicleId, size: totalEngineCapacity});
+        })
+        
+    });
 	
 }
 ```
@@ -72,20 +72,20 @@ Whilst the above code does work, when I reflect on it; I'm not happy. I can see 
 function getVehicleEngineInfo(){
 
     var view = {engines:null};
-   	
-	loadVehicles(DataLoader.getCars, (car) => { return car.engineSize; });
-	loadVehicles(DataLoader.getPlanes, (plane) => { return plane.engines[0].size + plane.engines[1].size; });
-	
-	function loadVehicles(vehicleLoaderFunc, engineConstructor){
-			vehicleLoaderFunc((vehicles) => {
-				_.each(carsFromServer, (vehicle) => {
-				var vehicleId = plane.Id;
-				var totalEngineCapacity = engineConstructor(vehicle);
-				view.engines.push({vehicleId:vehicleId, size: totalEngineCapacity});
-			})
-			
-		});
-	}
+    
+    loadVehicles(DataLoader.getCars, (car) => { return car.engineSize; });
+    loadVehicles(DataLoader.getPlanes, (plane) => { return plane.engines[0].size + plane.engines[1].size; });
+    
+    function loadVehicles(vehicleLoaderFunc, engineConstructor){
+            vehicleLoaderFunc((vehicles) => {
+                _.each(carsFromServer, (vehicle) => {
+                var vehicleId = plane.Id;
+                var totalEngineCapacity = engineConstructor(vehicle);
+                view.engines.push({vehicleId:vehicleId, size: totalEngineCapacity});
+            })
+            
+        });
+    }
 	
 }
 ```
@@ -111,25 +111,25 @@ NOTE : at this point I am using the word 'file' instead of 'object' because many
 function vehicleLoader(){
 
     var view = {engines:null};
-   	
-	vehicleConstructor.loadVehicles(view,DataLoader.getCars, (car) => { return car.engineSize; });
-	vehicleConstructor.loadVehicles(view, DataLoader.getPlanes, (plane) => { return plane.engines[0].size + plane.engines[1].size; });
+    
+    vehicleConstructor.loadVehicles(view,DataLoader.getCars, (car) => { return car.engineSize; });
+    vehicleConstructor.loadVehicles(view, DataLoader.getPlanes, (plane) => { return plane.engines[0].size + plane.engines[1].size; });
 	
 }
 
 //vehicleConstructor.js
 function vehicleConstructor(){
 
-	function loadVehicles(view,vehicleLoaderFunc, engineConsturctor){
-			vehicleLoaderFunc((vehicles) => {
-				_.each(carsFromServer, (vehicle) => {
-				var vehicleId = plane.Id;
-				var totalEngineCapacity = engineConsturctor(vehicle);
-				view.engines.push({vehicleId:vehicleId, size: totalEngineCapacity});
-			})
-			
-		});
-	}
+    function loadVehicles(view,vehicleLoaderFunc, engineConsturctor){
+            vehicleLoaderFunc((vehicles) => {
+                _.each(carsFromServer, (vehicle) => {
+                var vehicleId = plane.Id;
+                var totalEngineCapacity = engineConsturctor(vehicle);
+                view.engines.push({vehicleId:vehicleId, size: totalEngineCapacity});
+            })
+            
+        });
+    }
 
 }
 
@@ -147,11 +147,11 @@ Our ```vehicleLoader.js``` becomes very easy to extend and understand because it
 function vehicleLoader(){
 
     var view = {engines:null};
-   	
-	vehicleConstructor.loadVehicles(view,DataLoader.getCars, (car) => { return car.engineSize; });
-	vehicleConstructor.loadVehicles(view, DataLoader.getPlanes, (plane) => { return plane.engines[0].size + plane.engines[1].size; });
-	vehicleConstructor.loadVehicles(view, DataLoader.getTrucks, (plane) => { return car.engineSize; });
-	vehicleConstructor.loadVehicles(view, DataLoader.getBikes, (plane) => { return car.engineSize; });
+    
+    vehicleConstructor.loadVehicles(view,DataLoader.getCars, (car) => { return car.engineSize; });
+    vehicleConstructor.loadVehicles(view, DataLoader.getPlanes, (plane) => { return plane.engines[0].size + plane.engines[1].size; });
+    vehicleConstructor.loadVehicles(view, DataLoader.getTrucks, (plane) => { return car.engineSize; });
+    vehicleConstructor.loadVehicles(view, DataLoader.getBikes, (plane) => { return car.engineSize; });
 
 }
 
@@ -241,15 +241,15 @@ As we have seen before we will forever be chasing our tail with this design beca
 ```javascript
 //datamanipulator.js
 class DataManipulator {
-	static joinGames(props, callback){
-		props.games.map(game => {
-			var result = {gameId:null,joined:null};
-			var score = game.goals.join(“ — “);
-			result.gameId = game.id;
-			result.joinedScore = game.teams.join(score);
-			callback(result);
+    static joinGames(props, callback){
+        props.games.map(game => {
+            var result = {gameId:null,joined:null};
+            var score = game.goals.join(“ — “);
+            result.gameId = game.id;
+            result.joinedScore = game.teams.join(score);
+            callback(result);
         });
-	}
+    }
 }
 
 //component.js
@@ -282,17 +282,17 @@ I can decide to rename the class and function parameters for the ```DataManipula
 Alternatively I could have called the presenter a controller if I wanted to use an MVC style pattern. They are just words after all that we use to assign meaning to the way something works. The only purpose with naming a file and it'ts 'object' is so that we can understand it.
 
 ```javascript
-//gamePresenter.js
+//gamepresenter.js
 class GamePresenter {
-	static joinGames(props, callback){
-		props.games.map(game => {
-			var viewModel = {gameId:null,joined:null};
-			var score = game.goals.join(“ — “);
-			viewModel.gameId = game.id;
-			viewModel.joinedScore = game.teams.join(score);
-			callback(viewModel);
+    static joinGames(props, callback){
+        props.games.map(game => {
+            var viewModel = {gameId:null,joined:null};
+            var score = game.goals.join(“ — “);
+            viewModel.gameId = game.id;
+            viewModel.joinedScore = game.teams.join(score);
+            callback(viewModel);
         });
-	}
+    }
 }
 
 //component.js
