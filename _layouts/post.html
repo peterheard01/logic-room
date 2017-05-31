@@ -30,6 +30,21 @@ type : blog
      }
     </style>
 
+
+    {% if page.category == 'javascript' %}
+
+
+    <div style="border: 2px solid rgb(153, 153, 153);; padding:10px;">
+
+      <h3 class="center-align">Want to learn Test Driven Development for JavaScript? <a href="/guides/tdd-simplified-in-5-steps/">GO &gt;&gt;</a> </h3>
+
+    </div>
+
+
+    {% endif %}
+
+
+
     <div style="border: 2px solid rgb(153, 153, 153);; padding:10px;">
 
       <h3>Connect with the author :</h3>
@@ -78,6 +93,11 @@ type : blog
 
     <br>
 
+
+    <!--CONSULTANCY BLOCK-->
+
+    {% if page.category != 'javascript' %}
+
     <div style="border: 2px solid rgb(153, 153, 153); padding:10px; background-color: #07121b; color:white;">
 
       <h5 class="center" style="color:white;">We are a software consultancy that builds well-engineered digital products for our clients, would you like to learn more?</h5>
@@ -89,6 +109,18 @@ type : blog
       </h5>
 
     </div>
+
+
+    {% endif %}
+
+
+
+
+
+    <!--CONSULTANCY BLOCK-->
+
+
+
 
     <br>
     <br>
