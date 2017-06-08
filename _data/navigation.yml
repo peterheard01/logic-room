@@ -22,8 +22,8 @@
   url: 'blog/learn-javascript/'
   path: '/blog/learn-javascript/'
 
-- text: inquire
-  url: 'inquire/'
-  path: '/inquire/'
+- text: contact
+  url: 'contact/'
+  path: '/contact/'
   class: 'waves-light btn'
 
