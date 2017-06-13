@@ -150,9 +150,9 @@ NOTE : the default port for React Native is 8081 but I changed it to 8089 becaus
 
 In this article we have discussed : 
 
-1. The runtime architecture
-2. The build architecture
-3. The debugging architecture
+1. The runtime architecture - and how bridging connects our native code to the JavaScript code through the JavaScript runtime engine (core)
+2. The build architecture - how React Native simply produces an output on a Node server called a bundle and the device downloads it, this is similar to how a SPA works
+3. The debugging architecture - React Native also publishes debugging to a webpage (also hosted by our node server) which we can browse and debug using Google Chrome
 
 It's hard to begin building something when you don't understand the context of how it runs, and also how it builds. Being able to understand how the normal native code actually communicates with our JavaScript is paramount when building React Native apps.
 
