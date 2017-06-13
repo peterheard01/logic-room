@@ -47,6 +47,8 @@ The final output is a rendered web page with all the things we expect (e.g. inpu
 
 ![Single Page Application Architecture](images/1_image.png "Single Page Application Architecture")
 
+Later on we will see that the React Native build process works in a very similar way. But instead of the browser downloading script and markup the device does it!
+
 ## The JavaScript Runtime Environment Architecture (Bridging)
 
 The next part of understanding how React Native works is to look at how JavaScript is actually executed. Because JavaScript is not the language that runs natively on the phone we must use a technique called bridging to allow JavaScript to run and to communicate with the phones processor.
