@@ -140,7 +140,7 @@ It uses an [Angular](https://angular.io/){:target="_blank"} web app, a [React Na
 
 In the diagram we have extracted common code out into shared modules and simply imported into the correct platforms during our developer build process. This encapsulation of the core business process (the order) into re-usable code is at the heart of the cross platform economy since it allows us to leverage the same code to remove duplication : cool!
 
-My collaborator Andy Ng is starting a movement called CLean (Contemporary Lean) in which talks about his experience creating re-usable systems in consultancy, media and investment banking. In it he goes into depth about a team structure that promotes diversity but keeps re-usability at it's heart. You can see it [here](https://www.linkedin.com/pulse/agile-dark-ages-time-clean-andy-ng?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BRWtSPf5u%2BCYNZvo8drCyzA%3D%3D)
+My collaborator Andy Ng is starting a movement called CLean (Contemporary Lean) in which talks about his experience creating re-usable systems in consultancy, media and investment banking. In it he goes into depth about a team structure that promotes diversity but keeps re-usability at it's heart. You can see it [here](https://www.linkedin.com/pulse/clean-principle-engineering-andy-ng)
 
 There are other deeper aspects of creating re-usable code and some of it reaches into advanced object oriented design, type safety, microservices and test driven development. I will look to cover these in a further article. So make sure you write to me and let me know what you want!
 
@@ -148,7 +148,7 @@ There are other deeper aspects of creating re-usable code and some of it reaches
 
 I believe software is broke. We spend millions writing and maintaining terrible systems. We find it hard to put the right management into place that will help us manage our technical assets; at the same time as looking at the strategy of the physical code we write.
 
-We come up with high-falutin IT buzzwords and elaborate medicine like agile which never seem to cut the point : software is broke, but it doesn't have to be! We just have to get back desiging high quality code bases which keep re-usability at heart.
+We come up with many high-falutin IT movements which attempt to improve software: but software development isn't working for many. We have to get back designing high quality code bases which keep re-usability at heart.
 
 In this article hopefully I have distilled down another approach to systems development which:
 
