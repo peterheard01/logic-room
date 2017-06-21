@@ -132,7 +132,7 @@ A growing developer base, improved tooling and advanced server side support with
 
 Another example is React Native. This framework allows JavaScript to power IOS, Android and now even Windows Phones. We can begin to see a pattern emerge. We can re-use JavaScript from our NodeJS server and extract common business problems into our mobile apps: powerful stuff!
 
-At Logic Room we use JavaScript and here is an architecture from a project which highlights how it can be used to take a write-once deploy everywhere, re-usable and modular code approach to software delivery in a distributed software system.
+At Logic Room we use JavaScript and here is an architecture from a project which highlights how it can be used to take a write-once deploy everywhere, re-usable and modular code approach to software delivery in a distributed software system. The re-usable code is packaged up using the Node.js 'npm' module system (this is how you share code with JavaScript).
 
 ![JavaScript cross platform architecture example](images/3_image.png "JavaScript cross platform architecture example")
 
