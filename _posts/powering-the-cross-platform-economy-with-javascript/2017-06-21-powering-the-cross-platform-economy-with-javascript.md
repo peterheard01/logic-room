@@ -99,9 +99,11 @@ Knowing the difference between these two strategic approaches to building system
 
 Let's do some maths!
 
-If we consider that the cost (per line of code), multiplied by it's impact to the business (per line of code) leaves us with value (per line of code) we can see that in the mothball model the value of code actually declines over time because for every line of code we add more maintenance on a 1:1 basis. This means the impact always stays the same. As projects become stretched managing multiple software code bases that all do similar things drives cost up. As we increase cost for every line of code the value of our entire code ecosystem goes down!
+If we consider that the **cost** (per line of code), multiplied by it's **impact** to the business (per line of code) leaves us with **value** (per line of code) we can see that in the mothball model the value of code actually declines over time because for every line of code we add more maintenance on a 1:1 basis. 
 
-However in a re-usable context many lines of code are 'used again', every time we add a feature we begin to consolidate down common solutions into a single re-usable library. We slowly build out our systems with care, so that we can service multiple platforms and applications. The economics of re-usable code work differently. They mean that the value per line of code actually goes UP not DOWN!
+This means the impact always stays the same. As projects become stretched managing multiple software code bases that all do similar things drives cost up. As we increase cost for every line of code the value of our entire code ecosystem goes down!
+
+However in a re-usable context many lines of code are 'used again', every time we add a feature we begin to consolidate down common solutions into a single re-usable library. We slowly build out our systems with care, so that we can service multiple platforms and applications. The economics of re-usable code work differently. They mean that the value per line of code actually goes **UP** not **DOWN**!
 
 The equation works like this :
 
