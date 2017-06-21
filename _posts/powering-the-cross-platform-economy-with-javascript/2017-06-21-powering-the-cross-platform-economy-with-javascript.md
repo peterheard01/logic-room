@@ -134,6 +134,8 @@ Another example is React Native. This framework allows JavaScript to power IOS, 
 
 At Logic Room we use JavaScript and here is an architecture from a project which highlights how it can be used to take a write-once deploy everywhere, re-usable and modular code approach to software delivery in a distributed software system. The re-usable code is packaged up using the Node.js 'npm' module system (this is how you share code with JavaScript).
 
+It uses an [Angular](https://angular.io/){:target="_blank"} web app, a [React Native](http://www.reactnative.com/){:target="_blank"} mobile app.
+
 ![JavaScript cross platform architecture example](images/3_image.png "JavaScript cross platform architecture example")
 
 In the diagram we have extracted common code out into shared modules and simply imported into the correct platforms during our developer build process. This encapsulation of the core business process (the order) into re-usable code is at the heart of the cross platform economy since it allows us to leverage the same code to remove duplication : cool!
