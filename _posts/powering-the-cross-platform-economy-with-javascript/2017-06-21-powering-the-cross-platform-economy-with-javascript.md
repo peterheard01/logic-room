@@ -4,8 +4,8 @@ title: Powering The Cross-Platform Economy With JavaScript
 author: Pete Heard
 excerpt: This article discusses something called the 'Cross-Platform' economy, what it is, why it exists and how you can embrace it with JavaScript.
 thumbnail: 404.jpg
-category : digital-transformation
-date:   2017-06-23 05:06:50 +0000
+category : javascript
+date:   2017-06-21 05:06:50 +0000
 ---
 
 As companies embrace digital and look to leverage their data, processes and products to create new value streams software is becoming more and more important. Being able to deploy to a variety of devices is key to creating a digital business; mobile, web and server are all common platforms for software and now even [desktop](https://thenextweb.com/apps/2016/09/14/slack-beta-app/#.tnw_2uCEXoyD) is making a come back. 
@@ -103,11 +103,13 @@ If we consider that the cost (per line of code), multiplied by it's impact to th
 
 However in a re-usable context many lines of code are 'used again', every time we add a feature we begin to consolidate down common solutions into a single re-usable library. We slowly build out our systems with care, so that we can service multiple platforms and applications. The economics of re-usable code work differently. They mean that the value per line of code actually goes UP not DOWN!
 
-**[Cost Per Line of Code] x [Impact Per Line of Code] = [Value]**
+The equation works like this :
+
+##### COST (per line of code) x IMPACT (per line of code) = VALUE (per line of code)
 
 ![Diagram of the cross platform economy](images/2_image.png "Diagram of the cross platform economy")
 
-The cross-platform economy builds on the concept of re-usable and modular code and uses emerging tooling and language to be able to package up this code and deploy to multiple target platforms. It works with two basic objectives:
+The cross-platform economy builds on the concept of re-usable and modular code and uses emerging tooling and languages to be able to package up this code and deploy to multiple target platforms. It works with two basic objectives:
 
 1. Internal business processes can be encapsulated and re-used this adds **internal value** creation to the enterprise
 2. Where relevant these processes can be licenced to third parties, this adds **external value** creation to the enterprise
