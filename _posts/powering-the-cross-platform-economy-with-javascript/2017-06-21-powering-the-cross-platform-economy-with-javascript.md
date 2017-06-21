@@ -140,7 +140,7 @@ It uses an [Angular](https://angular.io/){:target="_blank"} web app, a [React Na
 
 In the diagram we have extracted common code out into shared modules and simply imported into the correct platforms during our developer build process. This encapsulation of the core business process (the order) into re-usable code is at the heart of the cross platform economy since it allows us to leverage the same code to remove duplication : cool!
 
-My collaborator Andy Ng is starting a movement called CLean (Contemporary Lean) in which talks about his experience creating re-usable systems in consultancy, media and investment banking. In it he goes into depth about a team structure that promotes diversity but keeps re-usability at it's heart. You can see it [here](https://www.linkedin.com/pulse/clean-principle-engineering-andy-ng)
+My collaborator Andy Ng is starting a movement called CLean (Contemporary Lean) in which he talks about his experience creating re-usable systems in consultancy, media and investment banking. In it he goes into depth about a team structure that promotes diversity but keeps re-usability at it's heart. You can see it [here](https://www.linkedin.com/pulse/clean-principle-engineering-andy-ng).
 
 There are other deeper aspects of creating re-usable code and some of it reaches into advanced object oriented design, type safety, microservices and test driven development. I will look to cover these in a further article. So make sure you write to me and let me know what you want!
 
