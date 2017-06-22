@@ -2,25 +2,25 @@
 layout: post
 title: Powering The Cross-Platform Economy With JavaScript
 author: Pete Heard
-excerpt: This article discusses something called the 'Cross-Platform' economy, what it is, why it exists and how you can embrace it with JavaScript.
+excerpt: This article discusses something called the 'cross-platform' economy, what it is, why it exists and how you can embrace it with JavaScript!
 thumbnail: 404.jpg
 category : javascript
 date:   2017-06-21 05:06:50 +0000
 ---
 
-As companies embrace digital and look to leverage their data, processes and products to create new value streams software is becoming more and more important. Being able to deploy to a variety of devices is key to creating a digital business; mobile, web and server are all common platforms for software and now even [desktop](https://thenextweb.com/apps/2016/09/14/slack-beta-app/#.tnw_2uCEXoyD) is making a come back. 
+As companies embrace digital and look to leverage their data, processes and products to create new value streams software is becoming more and more important. Being able to deploy to a variety of devices is key to creating a digital business; mobile, web and server are all common platforms for software and now even [desktop](https://thenextweb.com/apps/2016/09/14/slack-beta-app/#.tnw_2uCEXoyD){:target="_blank"} is making a come back. 
 
 I've seen a trend recently; some companies are beginning to ask the question, if we are using much of the same code on different devices, why not re-use it?
 
-The cross-platform economy is a phrase I think best describes how organisations can build a suite of re-usable and modular code that can be deployed to multiple platforms  (web, mobile, server and desktop) and will allow the same code to enable integration across many customer touch points and integration systems.
+The cross-platform economy is a phrase I think best describes how organisations can build a suite of re-usable and modular code that can be deployed to multiple platforms  (web, mobile, server and desktop). It will allow the same code to enable integration across many customer touch points and integration systems.
 
-It allows business to unlock the deep value of 'process' described in code and progressively leverage this monetary worth across disparate internal architectures, applications and departments. It also allows business processes to be extracted into independent modules and these can be licensed to partners or even competitors.
+It allows businesses to unlock the deep value of 'process' described in code and progressively leverage this monetary worth across disparate internal architectures, applications and departments. It also allows business processes to be extracted into independent modules and these can be licensed to partners or even competitors.
 
 # Why Does the Cross-Platform Economy Exist?
 
 In a digital economy the information captured in code represents an underlying asset in the monetary worth of a company much the same as property, equipment, ip or other assets.
 
-Traditionally, software mal-practice leads companies down an ever winding road of replacement and rewriting. They need to target a new platform or create a new product so they get some developers to create it. 
+Traditionally, software mal-practice leads companies down an ever winding road of replacement and rewriting. They need to target a new platform or create a new product; so they get some developers to create it. 
 
 Over time; requirements change, developers come and go, the infrastructure needs to be updated forcing code to fall inline and  the codebase inevitably declines. It becomes fragile. Each piece of software which serves a specific purpose becomes fragmented and this in turn leads to a decaying and depreciating asset. Companies are stuck in a cycle of re-writing software; and this is expensive!
 
@@ -28,12 +28,12 @@ If we want to build the next generation of digital businesses built on software 
 
 # The New Dawn of The Software Savvy Enterprise
 
-Digital assets enable the creation of value and wealth in a business. In a modern digital company we can see correlation to history; much the same way in the age of the castle; military assets were used to protect land and supplies in order to serve the economy of land, in the modern era IT assets are used to protect market share and exploit new opportunities of digital. We know this by the term; [Digital Transformation](/no-one-understands-digital-transformation-heres-why/){:target="_blank"}
+Digital assets enable the creation of value and wealth in a business. In a modern digital company we can see correlation to history; much the same way in the age of the castle; military assets were used to protect territory and supplies in order to serve the economy of land, in the modern era IT assets are used to protect market share and exploit new opportunities of digital. We know this by the term; [digital transformation](/no-one-understands-digital-transformation-heres-why/){:target="_blank"}
 
 We see a wonderful illustration of how systems of intelligence (software and ai) actually form a power centre around data in the digital economy and how this correlates historically in Geoffrey Moores article.
 
 ![The Power Centre of a Digital Economy](images/1_image.png "The Power Centre of a Digital Economy")
-> source : [https://www.linkedin.com/pulse/understanding-power-digital-economy-geoffrey-moore](https://www.linkedin.com/pulse/understanding-power-digital-economy-geoffrey-moore)
+> source : [https://www.linkedin.com/pulse/understanding-power-digital-economy-geoffrey-moore](https://www.linkedin.com/pulse/understanding-power-digital-economy-geoffrey-moore){:target="_blank"}
 > 
 
 I go further to say that it isn't just data which is at the centre, but it is also process which becomes encapsulated in software which is at the heart of the 4th revolution we find ourselves in: the digital revolution!
@@ -53,7 +53,7 @@ A look at a recent article from Business Insider shows that software companies a
 | 5 | Facebook     | $354B     |
 | 6 | Exxon Mobile | $351B     |
 
-> source : [http://uk.businessinsider.com/4-most-valuable-public-companies-all-tech-companies-2016-8?r=US&IR=T](http://uk.businessinsider.com/4-most-valuable-public-companies-all-tech-companies-2016-8?r=US&IR=T)
+> source : [http://uk.businessinsider.com/4-most-valuable-public-companies-all-tech-companies-2016-8?r=US&IR=T](http://uk.businessinsider.com/4-most-valuable-public-companies-all-tech-companies-2016-8?r=US&IR=T){:target="_blank"}
 
 Instead of the old scratch and replace mindset where we keep re-writing software every few years we can think carefully about the time and attention we pay to crafting our digital systems. We should get it right, we should do it well; because every year these systems hold more and more value in our enterprises; and the cross-platform economy is one way of looking at our position from a business perspective instead of a technical one.
 
@@ -65,7 +65,7 @@ In order to understand the economics of my proposed model we need to evaluate it
 
 In order to write software, companies turn to one of three methods. They either hire some permanent developers to help them create it, or they contract in some independent contractors (on short term contracts) give them a spec and let them heave-ho, or they work with an external software consultancy.
 
-All three models are open to, and often do, exhibit detrimental factors that end up with software that is written to specifically solve a problem. The systems are often developed independently to be standalone, once they are finished they hit the BAU (Business As Usual) which are maintenance teams who supposedly keep on top of them and upgrade and enhance them. 
+All three models are open to, and often do, exhibit detrimental factors that end up with software that is written to specifically solve a problem. The systems are often developed independently to be standalone, once they are finished they hit the BAU (Business as Usual) which are maintenance teams who supposedly keep on top of them and upgrade and enhance them. 
 
 Then after a few years the systems become bigger, they become more cumbersome, the code quality declines and they end up with excessive technical debt. Typically, managers are assigned to the management of these systems but do not actually fully integrate their management expertise at the code level. They simply manage it from a staffing and resourcing level.
 
@@ -83,7 +83,7 @@ In the re-usable model a different approach is taken. At this point the first th
 
 They are tasked not with creating the systems per se but in managing the direction of the quality and the organisational specification that the systems 'could' meet. 
 
-For example; on some of our recent projects we have begun to establish which parts of a new piece of software could be leveraged against other business objectives - so that we can take a s'trategic approach' to our development efforts. 
+For example; on some of our recent projects we have begun to establish which parts of a new piece of software could be leveraged against other business objectives - so that we can take a 'strategic approach' to our development efforts. 
 
 What's important to note here is we still develop systems to meet only one requirement at a time, but we keep in our objectives the ability to build re-usable code. This is built into the specifics of our Agile and Continuous integration environments from the outset.
 
@@ -126,34 +126,34 @@ At the heart of re-usability in software is making a decision to use a single pr
 
 JavaScript is a programming language that is at the forefront of cross platform economics because it allows companies to write once and deploy everywhere.
 
-For example; using the server side engine (NodeJS) we can now power distributed microservices and application based infrastructures.
+For example; using the server side engine (Node.js) we can now power distributed microservices and application based infrastructures.
 
-A growing developer base, improved tooling and advanced server side support with NodeJS are placing JavaScript at the [forefront of enterprise development]([/javascript-is-the-future-of-application-development/](/javascript-is-the-future-of-application-development/)).
+A growing developer base, improved tooling and advanced server side support with Node.js are placing JavaScript at the [forefront of enterprise development](/javascript-is-the-future-of-application-development/){:target="_blank"}.
 
-Another example is React Native. This framework allows JavaScript to power IOS, Android and now even Windows Phones. We can begin to see a pattern emerge. We can re-use JavaScript from our NodeJS server and extract common business problems into our mobile apps: powerful stuff!
+Another example is React Native. This framework allows JavaScript to power IOS, Android and now even Windows Phones. We can begin to see a pattern emerge. We can re-use JavaScript from our Node.js server and extract common business problems into our mobile apps: powerful stuff!
 
 At Logic Room we use JavaScript and here is an architecture from a project which highlights how it can be used to take a write-once deploy everywhere, re-usable and modular code approach to software delivery in a distributed software system. The re-usable code is packaged up using the Node.js 'npm' module system (this is how you share code with JavaScript).
 
-It uses an [Angular](https://angular.io/){:target="_blank"} web app, a [React Native](http://www.reactnative.com/){:target="_blank"} mobile app.
+It uses an [Angular](https://angular.io/){:target="_blank"} web app, a [React Native](http://www.reactnative.com/){:target="_blank"} mobile app and a [Node](https://nodejs.org/en/){:target="_blank"} web api.
 
 ![JavaScript cross platform architecture example](images/3_image.png "JavaScript cross platform architecture example")
 
 In the diagram we have extracted common code out into shared modules and simply imported into the correct platforms during our developer build process. This encapsulation of the core business process (the order) into re-usable code is at the heart of the cross platform economy since it allows us to leverage the same code to remove duplication : cool!
 
-My collaborator Andy Ng is starting a movement called CLean (Contemporary Lean) in which he talks about his experience creating re-usable systems in consultancy, media and investment banking. In it he goes into depth about a team structure that promotes diversity but keeps re-usability at it's heart. You can see it [here](https://www.linkedin.com/pulse/clean-principle-engineering-andy-ng).
+My collaborator Andy Ng is starting a movement called CLean (Contemporary Lean) in which he talks about his experience creating re-usable systems in consultancy, media and investment banking. In it he goes into depth about a team structure that promotes diversity but keeps re-usability at it's heart. You can see it [here](https://www.linkedin.com/pulse/clean-principle-engineering-andy-ng){:target="_blank"}.
 
 There are other deeper aspects of creating re-usable code and some of it reaches into advanced object oriented design, type safety, microservices and test driven development. I will look to cover these in a further article. So make sure you write to me and let me know what you want!
 
 ## Conclusion
 
-I believe software is broke. We spend millions writing and maintaining terrible systems. We find it hard to put the right management into place that will help us manage our technical assets; at the same time as looking at the strategy of the physical code we write.
+I believe software is broke. We spend millions writing and maintaining terrible systems. We find it hard to put the right resource into place that will help us manage our technical assets; at the same time as looking at the strategy of the physical code we write.
 
-We come up with many high-falutin IT movements which attempt to improve software: but software development isn't working for many. We have to get back designing high quality code bases which keep re-usability at heart.
+We come up with many high-falutin IT movements which attempt to improve software: but software development isn't working for many. I think we should try and design high quality code bases which keep re-usability at heart.
 
 In this article hopefully I have distilled down another approach to systems development which:
 
 1. Makes re-usability a key aspect
 2. Leverages modern frameworks and tooling (for example JavaScript) to allow us to port our re-usable code to multiple platforms
-3. Given a simple equation which let's us asses from an economic perspective why this is important!
+3. Gives us an equation to let us asses from an economic perspective how cross platform economics work
 
 For the first time in history using a common language like JavaScript we hold the power to be able to manufacture software in a way that adds progressive value over time both internally AND externally, but only if we do it right!
