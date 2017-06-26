@@ -4,7 +4,12 @@
 
   {% include scripts/top_scripts.html %}
 
-  <link rel="stylesheet" type="text/css" href="/assets/main.css"/>
+  <style>
+    body {
+      display:none;
+    }
+  </style>
+
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="/feed.xml"/>
   <link rel="shortcut icon" href="/favicon.ico">
@@ -45,10 +50,6 @@
   <meta name="twitter:creator" content="@PteHeard">
   <meta name="twitter:title" content="{{ page.title }}" />
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-
-
-
-
 
 
 </head>

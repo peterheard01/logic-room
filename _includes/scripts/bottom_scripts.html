@@ -1,9 +1,33 @@
-
+<script src="/libs/lib.js"></script>
 <script src="/libs/scripts.js"></script>
-
-
 <script id="dsq-count-scr" src="//https-www-logicroom-co.disqus.com/count.js" async></script>
+<script type="text/javascript">
+  /* First CSS File */
+  var giftofspeed = document.createElement('link');
+  giftofspeed.rel = 'stylesheet';
+  giftofspeed.href = '/assets/main.css';
+  giftofspeed.type = 'text/css';
+  var godefer = document.getElementsByTagName('link')[0];
+  godefer.parentNode.insertBefore(giftofspeed, godefer);
+</script>
 
+<script>
+  $(document).ready(function() {
+    setNavMenuColor();
+    $(window).scroll(setNavMenuColor);
+    function setNavMenuColor(){
+      if(window.location.pathname === '/'){
+        if ($(window).scrollTop() <= 100) {
+          $('.navbar-fixed nav').css("background-color","transparent");
+        }
+        else if($(window).scrollTop() > 100) {
+          $('.navbar-fixed nav').css("background-color","#07121b");
+        }
+
+      }
+    }
+  });
+</script>
 
 {% if site.url == 'https://www.logicroom.co' %}
 <script>
