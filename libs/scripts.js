@@ -63,7 +63,7 @@ $(document).ready(function() {
       scrollContainer: null // optional scroll container selector, otherwise use window
     }
   );
-  wow.init();
+  //wow.init();
 
   setNavMenuColor();
   $(window).scroll(setNavMenuColor);
