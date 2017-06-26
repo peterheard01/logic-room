@@ -12,21 +12,17 @@ $(document).ready(function() {
     }, 2000);
   };
 
-
   $('.faq .row').click(function(elem){
     $(this).next().toggle(1000);
   });
 
   $('.box').responsiveEqualHeightGrid();
 
-
   $('.button-collapse').sideNav({
       menuWidth: 300,
       closeOnClick: true,
       edge: 'right'
-    }
-  );
-
+    });
 
   $('.owl-carousel').owlCarousel({
     items:1,
@@ -39,7 +35,6 @@ $(document).ready(function() {
   });
 
   $('.col-md-4, .col-md-2, .col-md-10, .col-md-6, .col-md-3, img').addClass('wow fadeIn');
-
 
   $('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
     disableOn: 700,
@@ -70,5 +65,18 @@ $(document).ready(function() {
   );
   wow.init();
 
+  setNavMenuColor();
+  $(window).scroll(setNavMenuColor);
+  function setNavMenuColor(){
+    if(window.location.pathname === '/'){
+      if ($(window).scrollTop() <= 100) {
+        $('.navbar-fixed nav').css("background-color","transparent");
+      }
+      else if($(window).scrollTop() > 100) {
+        $('.navbar-fixed nav').css("background-color","#07121b");
+      }
+
+    }
+  }
 
 });
