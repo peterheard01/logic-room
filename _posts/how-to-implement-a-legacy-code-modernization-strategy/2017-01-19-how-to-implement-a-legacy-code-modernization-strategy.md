@@ -101,7 +101,7 @@ So let's a review a process for making small improvements to our code and see ca
 
 ### The Code Review/Audit
 
-When we decide to modernize code the first thing we need to do is to [audit the code](/services/code-review){:target="_blank"} and try and work out how hard modernization might be. This should be done by a skilled engineer who has experience in building large and complex decoupled systems. Typically, they will have lots of skills in refactoring and improving legacy systems and will be able to make a judgement on the viability of improving/modernising it.
+When we decide to modernize code the first thing we need to do is to audit the code and try and work out how hard modernization might be. This should be done by a skilled engineer who has experience in building large and complex decoupled systems. Typically, they will have lots of skills in refactoring and improving legacy systems and will be able to make a judgement on the viability of improving/modernising it.
 
 There are 3 key areas to consider during this audit.
 
