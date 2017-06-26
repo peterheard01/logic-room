@@ -2,6 +2,8 @@ title: Web and Mobile App Software Development Reading London
 email: hq@logicroom.co
 name : Logic Room
 
+env: development
+
 description: > # this means to ignore newlines until "baseurl:"
   Web and Mobile software for organisations undergoing Digital Transformation
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -48,6 +50,7 @@ sitemap:
 
 gems:
   - jekyll-feed
+  - octopress-minify-html
 exclude:
   - Gemfile
   - Gemfile.lock
