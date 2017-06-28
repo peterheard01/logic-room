@@ -23,7 +23,7 @@
 </script>
 
 
-{% if site.url == 'https://www.logicroom.co' %}
+
 <script>
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-51037049-1']);
@@ -31,11 +31,13 @@
   setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])",15000);  // --additional line
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+//    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+    ga.src = '/assets/js/ext/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-{% endif %}
+
 
 <!-- MailerLite Universal -->
 {% if page.category == 'angular' or page.category == 'react' or page.category == 'javascript' or page.category == 'digital-transformation' or page.category == 'agile'  %}
@@ -51,10 +53,10 @@
 {% endif %}
 <!-- End MailerLite Universal -->
 
-<script type="text/javascript" src="https://logicroom.agilecrm.com/stats/min/agile-min.js"></script>
+<script type="text/javascript" src="/assets/js/ext/agile-min.js"></script>
 <script type="text/javascript"> _agile.set_account('s3bapj947bl8aln6udn8l78qfc', 'logicroom');
 _agile.track_page_view(); </script>
 
 
-<script src="/libs/lib.js"></script>
-<script src="/libs/scripts.js"></script>
+<script src="/assets/js/lib.js"></script>
+<script src="/assets/js/scripts.js"></script>
