@@ -49,6 +49,14 @@
 
 <body>
 
+
+
+<div id="logic-room">
+
+  {{content}}
+
+</div>
+
 <noscript id="deferred-styles">
   <link rel="stylesheet" type="text/css" href="/assets/css/main.css"/>
 </noscript>
@@ -66,21 +74,11 @@
   else window.addEventListener('load', loadDeferredStyles);
 </script>
 
-<div id="logic-room">
-
-  {{content}}
-
-</div>
-
 </body>
 
 {% include scripts/bottom_scripts.html %}
 
 </html>
-
-
-<!--<link rel="stylesheet" href="/assets/css/main.css">-->
-<!--<link async rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">-->
 
 
 
