@@ -2,6 +2,30 @@
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 
+
+<style>
+  body {
+    display:none;
+  }
+</style>
+
+<noscript id="deferred-styles">
+  <link rel="stylesheet" type="text/css" href="/assets/css/main.css"/>
+</noscript>
+<script>
+  var loadDeferredStyles = function() {
+    var addStylesNode = document.getElementById("deferred-styles");
+    var replacement = document.createElement("div");
+    replacement.innerHTML = addStylesNode.textContent;
+    document.body.appendChild(replacement);
+    addStylesNode.parentElement.removeChild(addStylesNode);
+  };
+  var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+    webkitRequestAnimationFrame || msRequestAnimationFrame;
+  if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+  else window.addEventListener('load', loadDeferredStyles);
+</script>
+
 <!--<link rel="stylesheet" href="/assets/small.css">-->
 <!--<link async rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">-->
 
