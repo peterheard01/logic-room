@@ -1,4 +1,4 @@
-#env: production
-#
-#sass:
-#  style: compressed
+env: production
+
+sass:
+  style: compressed
