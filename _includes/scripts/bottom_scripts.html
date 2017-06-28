@@ -24,7 +24,7 @@
 
 
 {% if site.url == 'https://www.logicroom.co' %}
-<script>
+<script async>
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-51037049-1']);
   _gaq.push(['_trackPageview']);
@@ -39,7 +39,7 @@
 
 <!-- MailerLite Universal -->
 {% if page.category == 'angular' or page.category == 'react' or page.category == 'javascript' or page.category == 'digital-transformation' or page.category == 'agile'  %}
-<script>
+<script async>
   (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
     var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
     f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
@@ -51,10 +51,6 @@
 {% endif %}
 <!-- End MailerLite Universal -->
 
-<script type="text/javascript" src="/assets/js/ext/agile-min.js"></script>
-<script type="text/javascript"> _agile.set_account('s3bapj947bl8aln6udn8l78qfc', 'logicroom');
-_agile.track_page_view(); </script>
-
 
 <script src="/assets/js/lib.js"></script>
-<script src="/assets/js/scripts.js"></script>
+<!--<script src="/assets/js/scripts.js" async></script>-->
