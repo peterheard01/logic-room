@@ -30,7 +30,6 @@ works:
 # footer section
 footers:
 - {
-    phone: 'Phone : 0118 328 3255',
     email: 'E-mail hq@logicroom.co',
     location: '85A Westbourne Terrace <br>Reading <br> RG30 2RP',
     company: 'Registered Company: 7872364'

@@ -5,11 +5,13 @@ body {
 
 #logic-room {
 
+  .platforms img {
+    max-width:140px !important;
+  }
+
   /************************* Main *************************/
 
   #main {
-
-
 
     .landing {
       padding-top: 5em;
