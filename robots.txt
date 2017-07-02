@@ -1,3 +1,4 @@
 User-agent: *
 Sitemap: http://logicroom.co/sitemap.xml
-Disallow:
+Disallow: /hire-javascript-developers-uk
+Disallow: /web-application-development-company-lp

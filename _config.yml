@@ -41,6 +41,8 @@ sitemap:
   filename: "/sitemap.xml"
   exclude:
       - "/assets/main.scss"
+      - "/web-application-development-company-lp"
+      - "/hire-javascript-developers-uk"
   include_posts:
       - "/index.html"
   change_frequency_name: "change_frequency"
