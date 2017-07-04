@@ -1,29 +1,35 @@
 - text: services
-  url: 'javascript-angular-react-nativescript-reading-london/'
-  path: '/javascript-angular-react-nativescript-reading-london/'
+  url: 'services/'
+  path: '/services/'
 
 - text: past projects
   url: '#projects'
   path: '/'
+  type: 'single'
 
 - text: guides
   url: 'guides/'
   path: '/guides/'
+  type: 'single'
 
 - text: about us
   url: 'about-us'
   path: '/about-us/'
+  type: 'single'
 
 - text: blog
   url: 'blog/'
   path: '/blog/'
+  type: 'single'
 
 - text: javascript
   url: 'blog/learn-javascript/'
   path: '/blog/learn-javascript/'
+  type: 'single'
 
 - text: contact
   url: 'contact/'
   path: '/contact/'
+  type: 'single'
   class: 'waves-light btn'
 

@@ -10,13 +10,13 @@
       <!-- DESKTOP -->
       <ul class="right hide-on-med-and-down overlay-menu">
         {% for nav in site.data.navigation %}
-        <li>
-          {% if page.url == '/' %}
+          <li>
+            {% if page.url == '/' %}
             <a class="{{nav.class}}" href="{{nav.url}}">{{nav.text}}</a>
-          {% else %}
+            {% else %}
             <a class="{% if page.url ==  nav.path %}current {% endif %}{{nav.class}}" href="/{{nav.url}}">{{nav.text}}</a>
-          {% endif %}
-        </li>
+            {% endif %}
+          </li>
         {% endfor %}
       </ul>
 
