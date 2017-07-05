@@ -5,7 +5,7 @@ author: Pete Heard
 excerpt: Digital Transformation can easily end up in an excuse to spend spend spend. Let's take a moment and consider some of the pitfalls first which could cost you!
 thumbnail: 404.jpg
 category : agile
-date:   2017-06-01 05:00:00 +0000
+date:   2017-02-01 05:00:00 +0000
 ---
 
 Digital transformation, the number one topic on the minds of business leaders and managers and the one concept that could take their organisations to the next level and beyond. Or can it?

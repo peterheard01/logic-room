@@ -5,7 +5,7 @@ author: Pete Heard
 excerpt: This article will discuss making your digital business strategy more effective
 thumbnail: 404.jpg
 category : agile
-date:   2017-05-23 05:47:50 +0000
+date:   2017-01-23 05:47:50 +0000
 ---
 
 The new era in business is digital. We can all agree on that and we can also agree that a business that doesn't have a digital strategy could be left behind by their industry competition. Creating an effective digital strategy is important and although many business managers already know this, what they still seem to struggle with is implementing that process. One way they can implement their digital business strategy and accelerate the process to either catch up with their competition or blow past them is to automate it.

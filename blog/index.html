@@ -1,16 +1,14 @@
 ---
-title : JavaScript Articles
-description : Articles about JavaScript, Angular, Typescript and React and more
-keywords : JavaScript Articles
+title : Articles about Web and Mobile Software Development
+keywords : Web Application Development, Mobile App Development Articles
+description : Some articles which help you unpick the complexity behind web and mobile app development using JavaScript. Sign up to our newsletter today!
 layout: default_navigation_spacer_blog
 headerUrl : header.png
 ---
 
-<h1 class="center">
-  Articles about building software...
-</h1>
 
-<h5 class="center">for JavaScript articles go <a href="/blog/learn-javascript"> here >></a></h5>
+
+
 
 <br>
 
@@ -23,7 +21,7 @@ headerUrl : header.png
 
   {% for post in site.posts limit:87 %}
 
-  {% if post.category != 'javascript' %}
+
   <div class="col-xs-12 col-sm-4">
     <div class="post">
       <a class="highlight" href="{{post.url}}">
@@ -34,7 +32,7 @@ headerUrl : header.png
       </a>
     </div>
   </div>
-  {% endif %}
+
 
 
   {% endfor %}

@@ -22,10 +22,6 @@
   path: '/blog/'
   type: 'single'
 
-- text: javascript
-  url: 'blog/learn-javascript/'
-  path: '/blog/learn-javascript/'
-  type: 'single'
 
 - text: contact
   url: 'contact/'
