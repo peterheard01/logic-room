@@ -43,8 +43,8 @@ sitemap:
       - "/assets/main.scss"
       - "/web-application-development-company-lp"
       - "/hire-javascript-developers-uk"
-      - "/services/javascript-development-reading-london-berkshire/"
-      - "/services/mobile-app-development-reading-london-berkshire"
+      - "/services/javascript-development-reading-berkshire/"
+      - "/services/mobile-app-development-reading-berkshire"
   include_posts:
       - "/index.html"
   change_frequency_name: "change_frequency"

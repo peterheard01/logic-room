@@ -102,7 +102,7 @@ body {
     color: $banner;
   }
 
-  h1 {
+  h1,.header1 {
     font-size : em(30);
   }
 
@@ -234,7 +234,7 @@ body {
       display:none;
     }
 
-    h1 {
+    h1,.header1 {
       font-size : em(35);
     }
 

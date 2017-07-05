@@ -8,9 +8,9 @@
   <br>
   <br>
 
-  <h1 class="center" style="color:#5a5a5a; margin:auto;">
+  <p class="center header1" style="color:#5a5a5a; margin:auto;">
     Request a call back...
-  </h1>
+  </p>
 
   <br>
   <br>
@@ -18,7 +18,7 @@
 
   <div  class="center" style="padding:20px; max-width:1200px; padding:50px; background-color: lightgray; margin:auto; z-index:1001; position:relative; border-radius:5px;">
 
-    <form name="web-application-development-reading-berkshire-london" action="./thank-you/" netlify>
+    <form name=" {{ include.content }} " action="{{ include.content }}" netlify>
 
       <div class="row">
 
