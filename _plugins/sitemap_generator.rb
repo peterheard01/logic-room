@@ -68,6 +68,8 @@ module Jekyll
       # Configuration
 
       sitemap_config = site.config['sitemap'] || {}
+
+
       @config = {}
 
       @config['filename'] = sitemap_config['filename'] || SITEMAP_FILE_NAME
@@ -109,6 +111,7 @@ module Jekyll
 
       last_modified_date = nil
       site.collections["posts"].docs.each do |post|
+
         if !excluded?(site, post.name)
           url = fill_url(site, post)
           urlset.add_element(url)
@@ -127,6 +130,7 @@ module Jekyll
     # Returns last_modified_date of index page
     def fill_pages(site, urlset)
       site.pages.each do |page|
+
         if !excluded?(site, page.path_to_source)
           if File.exists?(page.path)
             url = fill_url(site, page)

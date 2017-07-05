@@ -5,9 +5,9 @@ name : Logic Room
 env: development
 
 description: > # this means to ignore newlines until "baseurl:"
-  Web and Mobile software for organisations undergoing Digital Transformation
+  Web and Mobile Sofware Reading, Berkshire
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.logicroom.co" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.logicroom.co
 twitter_username: jekyllrb
 github_username:  jekyll
 permalink: /:title/
@@ -37,18 +37,39 @@ kramdown:
       line_numbers: true
       start_line: 1
 
+#sitemap:
+#  filename: "/sitemaps.xml"
+#  exclude:
+#      - "/assets/main.scss"
+#      - "/web-application-development-company-lp"
+#      - "/hire-javascript-developers-uk"
+#      - "/services/javascript-development-reading-berkshire/"
+#      - "/services/mobile-app-development-reading-berkshire"
+#  include_posts:
+#      - "/index.html"
+#  change_frequency_name: "change_frequency"
+#  priority_name: "priority"
+
 sitemap:
-  filename: "/sitemap.xml"
-  exclude:
-      - "/assets/main.scss"
-      - "/web-application-development-company-lp"
-      - "/hire-javascript-developers-uk"
-      - "/services/javascript-development-reading-berkshire/"
-      - "/services/mobile-app-development-reading-berkshire"
-  include_posts:
-      - "/index.html"
-  change_frequency_name: "change_frequency"
-  priority_name: "priority"
+    filename: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+        - "/assets/css/main.css"
+        - "/web-application-development-company-lp/index.html"
+        - "/web-application-development-company-lp/thank-you/index.html"
+        - "/services/web-application-development-reading-berkshire/thank-you/index.html"
+
+        - "/services/javascript-development-reading-berkshire/index.html"
+        - "/services/mobile-app-development-reading-berkshire/index.html"
+        - "/framework/index.html"
+        - "/contact/thank-you/index.html"
+
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
 
 
 
