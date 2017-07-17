@@ -102,8 +102,8 @@ body {
     color: $banner;
   }
 
-  h1,.header1 {
-    font-size : em(30);
+  h1,p#header1 {
+    font-size : em(30) !important;;
   }
 
   h2 {
@@ -234,8 +234,8 @@ body {
       display:none;
     }
 
-    h1,.header1 {
-      font-size : em(35);
+    h1,p#header1 {
+      font-size : em(35) !important;
     }
 
     h2 {

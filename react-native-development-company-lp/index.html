@@ -55,6 +55,9 @@ type : page
       <br>
       <br>
 
+
+
+
       <h4 class="call-to-action center">
 
         You are in the right place.
@@ -69,20 +72,58 @@ type : page
         <br>
         <br>
 
-        We can provide fixed price work for any budget and all our work is guaranteed.
 
       </h4>
+
+      <h3 class="center" style="color:white;">Why work with us?</h3>
+
+      <br>
+      <br>
+
+
+
+      <div class="platforms row">
+        <div class="col-xs-12 col-sm-4 center" style="border: solid 1px red;">
+
+          <h5 class="center" style="color:white;">Fixed price <br> estimations available</h5>
+
+        </div>
+
+        <div class="col-xs-12 col-sm-4" style="border: solid 1px red;">
+
+          <h5 class="center" style="color:white;">2 week <br> 100% risk free trial</h5>
+
+        </div>
+        <div class="col-xs-12 col-sm-4" style="border: solid 1px red;">
+
+          <h5 class="center" style="color:white;">All work <br> guaranteed!</h5>
+
+        </div>
+
+      </div>
+
+
+
+
 
       <br>
       <br>
 
       <h4 class="center" style="background-color: white; border: solid 1px red; padding:10px;">
-        SPECIAL OFFER : Act now to receive a 1/2 day free requirements building and UX design session.
+        SPECIAL OFFER : Act now to receive 4 hrs free requirements building and UX design session.
+
+        <br>
+
+        <br>
+
+        This is a timed offer and is only available if you fill in this ad within the time limit.
 
         <br>
         <br>
 
-        This offer is only valid if you contact us with this ad, so fill it in now to secure this promotion.
+        <!-- Display the countdown timer in an element -->
+        Time remaining <span style="display: inline; color: red;" id="demo"></span>
+
       </h4>
 
       <br>
@@ -147,10 +188,32 @@ type : page
   {% include testimonials.html %}
 
 
+  <!--<h3 class="wrapper center">Time remaining <span style="display: inline; color: red;" id="demo1"></span></h3>-->
+
+
+
+
+  <h4 class="wrapper center" style="background-color: white; border: solid 1px red; padding:10px;">
+    SPECIAL OFFER : Act now to receive 4 hrs free requirements building and UX design session.
+
+    <br>
+
+    <br>
+
+    This is a timed offer and is only available if you fill in this ad within the time limit.
+
+    <br>
+    <br>
+
+    <!-- Display the countdown timer in an element -->
+    Time remaining <span style="display: inline; color: red;" id="demo1"></span>
+
+  </h4>
+
+
+
 
   {% include call_back.html content="/web-application-development-company-lp/thank-you/" %}
-
-
 
 
   <br>
@@ -161,6 +224,76 @@ type : page
   <br>
 
 </div>
+
+
+  <!-- Start of Async Drift Code -->
+  <script>
+  !function() {
+    var t;
+    if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+      t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+      t.factory = function(e) {
+        return function() {
+          var n;
+          return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+        };
+      }, t.methods.forEach(function(e) {
+      t[e] = t.factory(e);
+    }), t.load = function(t) {
+      var e, n, o, i;
+      e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+        o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+        n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+    });
+  }();
+  drift.SNIPPET_VERSION = '0.3.1';
+  drift.load('9m9kwc3akx7a');
+
+<!-- End of Async Drift Code -->
+</script>
+
+
+<script>
+  // Set the date we're counting down to
+
+  var twentyMinutesLater = new Date();
+  twentyMinutesLater.setMinutes(twentyMinutesLater.getMinutes() + 7);
+
+
+  var countDownDate = twentyMinutesLater.getTime();
+
+  // Update the count down every 1 second
+  var x = setInterval(function() {
+
+//    // Get todays date and time
+    var now = new Date().getTime();
+
+    // Find the distance between now an the count down date
+    var distance = countDownDate - now;
+
+    // Time calculations for days, hours, minutes and seconds
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    // Display the result in the element with id="demo"
+    document.getElementById("demo").innerHTML = hours + "h "
+      + minutes + "m " + seconds + "s ";
+
+    document.getElementById("demo1").innerHTML = hours + "h "
+      + minutes + "m " + seconds + "s ";
+
+    // If the count down is finished, write some text
+    if (distance < 0) {
+      clearInterval(x);
+      document.getElementById("demo").innerHTML = "EXPIRED";
+
+    }
+  }, 1000);
+</script>
+
+
 
 <br>
 <br>
