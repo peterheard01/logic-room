@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-native-development-company-lp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-native-development-company-lp/thank-you/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/base.html" afterPath="$PROJECT_DIR$/_layouts/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/robots.txt" afterPath="$PROJECT_DIR$/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-native-development-company-lp/index.html" afterPath="$PROJECT_DIR$/react-native-development-company-lp/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,7 +23,7 @@
     <favorites_list name="site" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="robots.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/robots.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -39,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
               <caret line="61" column="8" lean-forward="false" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="48" column="14" lean-forward="false" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -158,9 +163,9 @@
         <option value="$PROJECT_DIR$/_includes/call_back.html" />
         <option value="$PROJECT_DIR$/_layouts/base.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/react-native-development-company-lp/index.html" />
         <option value="$PROJECT_DIR$/robots.txt" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/react-native-development-company-lp/index.html" />
       </list>
     </option>
   </component>
@@ -177,9 +182,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
     <option name="y" value="57" />
-    <option name="width" value="1593" />
+    <option name="width" value="1440" />
     <option name="height" value="743" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -226,8 +230,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -256,6 +258,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -407,14 +411,8 @@
       <workItem from="1499144789810" duration="5923000" />
       <workItem from="1499224944146" duration="6352000" />
       <workItem from="1500301549433" duration="1362000" />
-      <workItem from="1500305190941" duration="67000" />
-    </task>
-    <task id="LOCAL-00023" summary="testimonials">
-      <created>1480851558134</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1480851558134</updated>
+      <workItem from="1500305190941" duration="199000" />
+      <workItem from="1500309112933" duration="490000" />
     </task>
     <task id="LOCAL-00024" summary="added html minify in">
       <created>1498475792294</created>
@@ -752,16 +750,23 @@
       <option name="project" value="LOCAL" />
       <updated>1499233248670</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="removed javascript blog">
+      <created>1500305261799</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1500305261800</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91896000" />
+    <option name="totallyTimeSpent" value="92518000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="57" width="1593" height="743" extended-state="0" />
+    <frame x="0" y="57" width="1440" height="743" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29580152" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24453841" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30222842" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1178,11 +1183,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/services/web-application-development-reading-berkshire/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="256">
@@ -1191,11 +1191,9 @@
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="84" column="108" lean-forward="false" selection-start-line="84" selection-start-column="108" selection-end-line="84" selection-end-column="108" />
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1211,6 +1209,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="61" column="8" lean-forward="false" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="48" column="14" lean-forward="false" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
           <folding />
         </state>
       </provider>
