@@ -56,9 +56,9 @@ type : page
       <br>
 
 
-
-
       <h4 class="call-to-action center">
+
+
 
         You are in the right place.
 
@@ -110,13 +110,13 @@ type : page
       <br>
 
       <h4 class="center" style="background-color: white; border: solid 1px red; padding:10px;">
-        SPECIAL OFFER : Act now to receive 4 hrs free requirements building and UX design session.
+        SPECIAL OFFER : Request a call back now to receive a 4 hrs - requirements building and user experience (UX) design session for FREE.
 
         <br>
 
         <br>
 
-        This is a timed offer and is only available if you fill in this ad within the time limit.
+        This is a timed offer, it is only available if you fill in this ad within the time limit.
 
         <br>
         <br>
@@ -194,13 +194,13 @@ type : page
 
 
   <h4 class="wrapper center" style="background-color: white; border: solid 1px red; padding:10px;">
-    SPECIAL OFFER : Act now to receive 4 hrs free requirements building and UX design session.
+    SPECIAL OFFER : Request a call back now to receive a 4 hrs - requirements building and user experience (UX) design session for FREE.
 
     <br>
 
     <br>
 
-    This is a timed offer and is only available if you fill in this ad within the time limit.
+    This is a timed offer, it is only available if you fill in this ad within the time limit.
 
     <br>
     <br>
@@ -271,23 +271,28 @@ type : page
     // Find the distance between now an the count down date
     var distance = countDownDate - now;
 
+
     // Time calculations for days, hours, minutes and seconds
     var days = Math.floor(distance / (1000 * 60 * 60 * 24));
     var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
     var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-    // Display the result in the element with id="demo"
-    document.getElementById("demo").innerHTML = hours + "h "
-      + minutes + "m " + seconds + "s ";
 
-    document.getElementById("demo1").innerHTML = hours + "h "
-      + minutes + "m " + seconds + "s ";
+
+      // Display the result in the element with id="demo"
+      document.getElementById("demo").innerHTML = hours + "h "
+        + minutes + "m " + seconds + "s ";
+
+      document.getElementById("demo1").innerHTML = hours + "h "
+        + minutes + "m " + seconds + "s ";
+
 
     // If the count down is finished, write some text
     if (distance < 0) {
       clearInterval(x);
-      document.getElementById("demo").innerHTML = "EXPIRED";
+      document.getElementById("demo").innerHTML = '0h 0m 0s';
+      document.getElementById("demo1").innerHTML = '0h 0m 0s'
 
     }
   }, 1000);
