@@ -2,5 +2,6 @@ User-agent: *
 Sitemap: https://www.logicroom.co/sitemap.xml
 Disallow: /hire-javascript-developers-uk/
 Disallow: /web-application-development-company-lp/
+Disallow: /react-native-development-company-lp/
 Disallow: /services/javascript-development-reading-london-berkshire/
 Disallow: /services/mobile-app-development-reading-london-berkshire/
