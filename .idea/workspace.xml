@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="215" column="50" lean-forward="false" selection-start-line="215" selection-start-column="50" selection-end-line="215" selection-end-column="50" />
+            <state relative-caret-position="108">
+              <caret line="87" column="78" lean-forward="false" selection-start-line="87" selection-start-column="78" selection-end-line="87" selection-end-column="78" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -40,21 +40,11 @@
       <file leaf-file-name="call_back.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/call_back.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="86" lean-forward="false" selection-start-line="40" selection-start-column="86" selection-end-line="40" selection-end-column="86" />
+            <state relative-caret-position="-271">
+              <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lets_talk.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/lets_talk.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="37" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -99,10 +89,10 @@
       <find>w</find>
       <find>why wor</find>
       <find>why work</find>
-      <find>why work</find>
       <find>why work wi</find>
       <find>why work wit</find>
       <find>why work with</find>
+      <find>Special Offer</find>
     </findStrings>
     <replaceStrings>
       <replace>services</replace>
@@ -187,10 +177,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="57" />
-    <option name="width" value="1264" />
-    <option name="height" value="737" />
+    <option name="x" value="21" />
+    <option name="y" value="35" />
+    <option name="width" value="1363" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -236,6 +226,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -248,10 +239,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3_logic_room_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3_logic_room_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-development-company-lp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,7 +267,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/_site/assets/js/scripts.js&#10;/Stuff/Dropbox/1_current/3_logic_room_site/_site/assets/js/assets/scripts.js&#10;/Stuff/Dropbox/1_current/3_logic_room_site/_site/index.html&#10;/Stuff/Dropbox/1_current/3_logic_room_site/_site/libs/scripts.js" />
-    <property name="SearchEverywhereHistoryKey" value="call_back&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/call_back.html&#10;talk&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;post&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/post.html&#10;lets&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;navigat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/navigation.html&#10;tdd-sim&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/tdd-simplified-in-5-steps.docx&#10;base&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/base.html&#10;default_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/default_navigation_spacer.html&#10;cross_plat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;top_scri&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;top_scr&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;bottom_script&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html&#10;home.htm&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/landing/home.html&#10;cross_&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;thanks&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/thanks.html&#10;footer&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/footer.html&#10;menu_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/menu_nav_color_setter.html&#10;bottom&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html" />
+    <property name="SearchEverywhereHistoryKey" value="call&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/call_back.html&#10;call_back&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/call_back.html&#10;talk&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;post&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/post.html&#10;lets&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;navigat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/navigation.html&#10;tdd-sim&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/tdd-simplified-in-5-steps.docx&#10;base&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/base.html&#10;default_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/default_navigation_spacer.html&#10;cross_plat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;top_scri&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;top_scr&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;bottom_script&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html&#10;home.htm&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/landing/home.html&#10;cross_&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;thanks&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/thanks.html&#10;footer&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/footer.html&#10;menu_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/menu_nav_color_setter.html&#10;bottom&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -406,21 +410,9 @@
       <workItem from="1500305190941" duration="199000" />
       <workItem from="1500309112933" duration="5287000" />
       <workItem from="1500320715291" duration="608000" />
-      <workItem from="1500355838047" duration="1055000" />
-    </task>
-    <task id="LOCAL-00031" summary="remove thanks pages">
-      <created>1498491800119</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1498491800119</updated>
-    </task>
-    <task id="LOCAL-00032" summary="remove thanks pages">
-      <created>1498492116807</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1498492116807</updated>
+      <workItem from="1500355838047" duration="1597000" />
+      <workItem from="1500359679677" duration="53000" />
+      <workItem from="1500385956283" duration="368000" />
     </task>
     <task id="LOCAL-00033" summary="remove thanks pages">
       <created>1498492567342</created>
@@ -751,22 +743,36 @@
       <option name="project" value="LOCAL" />
       <updated>1500356478140</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="added hotjar etc">
+      <created>1500356977980</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1500356977980</updated>
+    </task>
+    <task id="LOCAL-00081" summary="added hotjar etc">
+      <created>1500357296331</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1500357296331</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98978000" />
+    <option name="totallyTimeSpent" value="99941000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="57" width="1264" height="737" extended-state="0" />
+    <frame x="21" y="35" width="1363" height="768" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18262269" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19821163" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30222842" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.275969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2751479" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1128,13 +1134,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1142,25 +1141,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/services/web-application-development-reading-berkshire/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="64" lean-forward="false" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/web-application-development-reading-berkshire/index.html">
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="256">
             <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1196,14 +1188,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="64" lean-forward="false" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/call_back.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="86" lean-forward="false" selection-start-line="40" selection-start-column="86" selection-end-line="40" selection-end-column="86" />
+        <state relative-caret-position="-271">
+          <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
           <folding>
             <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
@@ -1212,8 +1219,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="215" column="50" lean-forward="false" selection-start-line="215" selection-start-column="50" selection-end-line="215" selection-end-column="50" />
+        <state relative-caret-position="108">
+          <caret line="87" column="78" lean-forward="false" selection-start-line="87" selection-start-column="78" selection-end-line="87" selection-end-column="78" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
