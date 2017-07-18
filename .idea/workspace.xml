@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/call_back.html" afterPath="$PROJECT_DIR$/_includes/call_back.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-native-development-company-lp/index.html" afterPath="$PROJECT_DIR$/react-native-development-company-lp/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="87" column="78" lean-forward="false" selection-start-line="87" selection-start-column="78" selection-end-line="87" selection-end-column="78" />
+            <state relative-caret-position="140">
+              <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -239,20 +238,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3_logic_room_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3_logic_room_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-native-development-company-lp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -412,14 +397,7 @@
       <workItem from="1500320715291" duration="608000" />
       <workItem from="1500355838047" duration="1597000" />
       <workItem from="1500359679677" duration="53000" />
-      <workItem from="1500385956283" duration="368000" />
-    </task>
-    <task id="LOCAL-00033" summary="remove thanks pages">
-      <created>1498492567342</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1498492567342</updated>
+      <workItem from="1500385956283" duration="876000" />
     </task>
     <task id="LOCAL-00034" summary="remove thanks pages">
       <created>1498492716676</created>
@@ -757,11 +735,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500357296331</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="added hotjar etc">
+      <created>1500386326786</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1500386326787</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99941000" />
+    <option name="totallyTimeSpent" value="100449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="21" y="35" width="1363" height="768" extended-state="0" />
@@ -1219,8 +1204,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="87" column="78" lean-forward="false" selection-start-line="87" selection-start-column="78" selection-end-line="87" selection-end-column="78" />
+        <state relative-caret-position="140">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
