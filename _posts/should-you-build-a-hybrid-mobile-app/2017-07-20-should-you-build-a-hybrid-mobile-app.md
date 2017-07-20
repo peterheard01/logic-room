@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Should You Build A Hybrid Mobile App?
+title: Should You Still Build A Hybrid Mobile App For Your Business?
 author: Pete Heard
-excerpt: In this article we discuss if you should build a hybrid mobile app.
+excerpt: In this article we discuss if you should still build a hybrid mobile app for your business.
 thumbnail: 404.jpg
 category : agile
 date:   2017-07-20 04:14:00 +0000
