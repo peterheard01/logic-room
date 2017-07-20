@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/should-you-build-a-hybrid-mobile-app/images/header.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/should-you-build-a-hybrid-mobile-app/images/header_thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/should-you-build-a-hybrid-mobile-app/2017-07-20-should-you-build-a-hybrid-mobile-app.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services/mobile-app-development-reading-berkshire/index.html" afterPath="$PROJECT_DIR$/services/mobile-app-development-reading-berkshire/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services/web-application-development-reading-berkshire/index.html" afterPath="$PROJECT_DIR$/services/web-application-development-reading-berkshire/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -392,14 +385,7 @@
       <workItem from="1500385956283" duration="1075000" />
       <workItem from="1500389139612" duration="854000" />
       <workItem from="1500405781071" duration="92000" />
-      <workItem from="1500521644737" duration="3110000" />
-    </task>
-    <task id="LOCAL-00037" summary="cleaned up gems">
-      <created>1498500797398</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1498500797398</updated>
+      <workItem from="1500521644737" duration="3392000" />
     </task>
     <task id="LOCAL-00038" summary="cleaned up gems">
       <created>1498502599892</created>
@@ -737,11 +723,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500523782425</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="added hotjar etc">
+      <created>1500525893266</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1500525893266</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104704000" />
+    <option name="totallyTimeSpent" value="104986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="110" width="1510" height="720" extended-state="0" />
