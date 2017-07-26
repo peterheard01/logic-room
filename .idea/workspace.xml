@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/images/1_spreadsheet_feature_list_backlog.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/images/2_trello_feauture_list_backlog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/images/3_ux_design_mobile_app_web_application.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/images/4_deciding_feature_list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/images/header.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/images/images.pptx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-new-web-application-or-mobile-app-mvp.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_plugins/copy_post_images.rb" afterPath="$PROJECT_DIR$/_plugins/copy_post_images.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -168,8 +160,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="43" />
-    <option name="y" value="70" />
+    <option name="x" value="42" />
+    <option name="y" value="31" />
     <option name="width" value="1413" />
     <option name="height" value="753" />
   </component>
@@ -223,11 +215,6 @@
             <path>
               <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -400,14 +387,7 @@
       <workItem from="1500963609460" duration="3581000" />
       <workItem from="1500974761984" duration="75000" />
       <workItem from="1501011744408" duration="806000" />
-      <workItem from="1501043985616" duration="6532000" />
-    </task>
-    <task id="LOCAL-00045" summary="added delayed css">
-      <created>1498627226003</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1498627226003</updated>
+      <workItem from="1501043985616" duration="6660000" />
     </task>
     <task id="LOCAL-00046" summary="script speeds">
       <created>1498627719801</created>
@@ -745,14 +725,21 @@
       <option name="project" value="LOCAL" />
       <updated>1501047946590</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="added react pages in">
+      <created>1501051099585</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1501051099586</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116516000" />
+    <option name="totallyTimeSpent" value="116644000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="43" y="70" width="1413" height="753" extended-state="0" />
+    <frame x="42" y="31" width="1413" height="753" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30603448" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
