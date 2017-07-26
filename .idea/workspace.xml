@@ -26,8 +26,8 @@
       <file leaf-file-name="javascript_drawer.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/services/javascript_drawer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="43" column="50" lean-forward="false" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+            <state relative-caret-position="114">
+              <caret line="40" column="115" lean-forward="false" selection-start-line="40" selection-start-column="115" selection-end-line="40" selection-end-column="115" />
               <folding />
             </state>
           </provider>
@@ -404,14 +404,7 @@
       <workItem from="1501084156972" duration="1855000" />
       <workItem from="1501086173465" duration="238000" />
       <workItem from="1501086516051" duration="203000" />
-      <workItem from="1501097050640" duration="173000" />
-    </task>
-    <task id="LOCAL-00061" summary="fixed contact page">
-      <created>1499000784389</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1499000784390</updated>
+      <workItem from="1501097050640" duration="214000" />
     </task>
     <task id="LOCAL-00062" summary="added in initial web application development page">
       <created>1499146283899</created>
@@ -749,11 +742,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501086671350</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="removed major errors from lr site">
+      <created>1501097226950</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1501097226951</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124666000" />
+    <option name="totallyTimeSpent" value="124707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="55" width="1166" height="750" extended-state="0" />
@@ -1158,8 +1158,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/services/javascript_drawer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="43" column="50" lean-forward="false" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+        <state relative-caret-position="114">
+          <caret line="40" column="115" lean-forward="false" selection-start-line="40" selection-start-column="115" selection-end-line="40" selection-end-column="115" />
           <folding />
         </state>
       </provider>
