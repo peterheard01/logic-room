@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pete.png" afterPath="$PROJECT_DIR$/images/pete.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-new-web-application-or-mobile-app-mvp.md" afterPath="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-web-application-mobile-app.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_redirects" afterPath="$PROJECT_DIR$/_redirects" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/3-base/_foundation.scss" afterPath="$PROJECT_DIR$/_sass/3-base/_foundation.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services/react-development-reading-berkshire/index.html" afterPath="$PROJECT_DIR$/services/react-development-reading-berkshire/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,9 +40,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>/services/code-review</find>
-      <find>conf.robohydra.referenceDataUtil</find>
-      <find>var dataUtil = conf.robohydra.referenceDataUtil;</find>
       <find>conf.robohydra.referenceDataUtil;</find>
       <find>r</find>
       <find>request a c</find>
@@ -48,8 +47,6 @@
       <find>he</find>
       <find>hea</find>
       <find>head</find>
-      <find>header</find>
-      <find>header1</find>
       <find>UX</find>
       <find>hire-js-devs</find>
       <find>w</find>
@@ -68,6 +65,11 @@
       <find>connect with the</find>
       <find>Consultancy,</find>
       <find>Pete Heard is the founder of Logic Room</find>
+      <find>choose-features</find>
+      <find>choose-</find>
+      <find>native</find>
+      <find>header</find>
+      <find>header1</find>
     </findStrings>
     <replaceStrings>
       <replace>services</replace>
@@ -75,9 +77,10 @@
     <dirStrings>
       <dir>$PROJECT_DIR$/_sass/4-main-pages</dir>
       <dir>$PROJECT_DIR$/libs</dir>
-      <dir>$PROJECT_DIR$/_sass</dir>
       <dir>$PROJECT_DIR$/images</dir>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/assets</dir>
+      <dir>$PROJECT_DIR$/_sass</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -101,7 +104,6 @@
         <option value="$PROJECT_DIR$/contact/thank-you/index.html" />
         <option value="$PROJECT_DIR$/_includes/services/javascript.html" />
         <option value="$PROJECT_DIR$/web-application-development-company-lp/thank-you/index.html" />
-        <option value="$PROJECT_DIR$/_redirects" />
         <option value="$PROJECT_DIR$/services/mobile-app-development-reading-london-berkshire/index.html" />
         <option value="$PROJECT_DIR$/services/web-application-development-reading-london-berkshire/index.md" />
         <option value="$PROJECT_DIR$/services/web-application-development-reading-london-berkshire/index.html" />
@@ -115,7 +117,6 @@
         <option value="$PROJECT_DIR$/_posts/is-your-digital-transformation-a-waste-of-money/2017-06-01-is-your-digital-transformation-a-waste-of-money.md" />
         <option value="$PROJECT_DIR$/_posts/how-to-make-your-digital-business-strategy-more-effective/2017-01-23-how-to-make-your-digital-business-strategy-more-effective.md" />
         <option value="$PROJECT_DIR$/_layouts/base.html" />
-        <option value="$PROJECT_DIR$/_sass/3-base/_foundation.scss" />
         <option value="$PROJECT_DIR$/_includes/lets_talk.html" />
         <option value="$PROJECT_DIR$/_includes/call_back.html" />
         <option value="$PROJECT_DIR$/_includes/services/cross_platform.html" />
@@ -130,12 +131,14 @@
         <option value="$PROJECT_DIR$/_includes/services/reasons_black.html" />
         <option value="$PROJECT_DIR$/services/web-application-development-reading-berkshire/index.html" />
         <option value="$PROJECT_DIR$/services/react-native-development-reading-berkshire/index.html" />
-        <option value="$PROJECT_DIR$/services/react-development-reading-berkshire/index.html" />
         <option value="$PROJECT_DIR$/_includes/services/javascript_drawer.html" />
         <option value="$PROJECT_DIR$/_plugins/copy_post_images.rb" />
         <option value="$PROJECT_DIR$/services/mobile-app-development-reading-berkshire/index.html" />
         <option value="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-new-web-application-or-mobile-app-mvp.md" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_redirects" />
+        <option value="$PROJECT_DIR$/services/react-development-reading-berkshire/index.html" />
+        <option value="$PROJECT_DIR$/_sass/3-base/_foundation.scss" />
         <option value="$PROJECT_DIR$/blog/index.html" />
       </list>
     </option>
@@ -147,16 +150,17 @@
     <exe-path />
     <annotation-enable>false</annotation-enable>
     <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="61" />
+    <option name="x" value="4" />
     <option name="y" value="37" />
-    <option name="width" value="1343" />
-    <option name="height" value="781" />
+    <option name="width" value="1519" />
+    <option name="height" value="785" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -202,6 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,7 +218,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -383,14 +387,8 @@
       <workItem from="1501043985616" duration="8568000" />
       <workItem from="1501058589954" duration="10000" />
       <workItem from="1501074768226" duration="591000" />
-      <workItem from="1501077597795" duration="1022000" />
-    </task>
-    <task id="LOCAL-00051" summary="script speeds">
-      <created>1498631872917</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1498631872917</updated>
+      <workItem from="1501077597795" duration="1457000" />
+      <workItem from="1501081721376" duration="864000" />
     </task>
     <task id="LOCAL-00052" summary="script speeds">
       <created>1498632623970</created>
@@ -728,23 +726,30 @@
       <option name="project" value="LOCAL" />
       <updated>1501074816639</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="added react pages in">
+      <created>1501078627860</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1501078627861</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120175000" />
+    <option name="totallyTimeSpent" value="121474000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="37" width="1343" height="781" extended-state="0" />
+    <frame x="4" y="37" width="1519" height="785" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22314675" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2563418" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30222842" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2419825" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23188406" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -885,13 +890,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_redirects">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="111" lean-forward="false" selection-start-line="7" selection-start-column="111" selection-end-line="7" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/services/web-application-development-reading-berkshire/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -970,13 +968,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-521">
           <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/3-base/_foundation.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="101" column="19" lean-forward="false" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1079,13 +1070,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/react-development-reading-berkshire/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/services/javascript_drawer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
@@ -1114,24 +1098,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-new-web-application-or-mobile-app-mvp.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="96" column="9" lean-forward="false" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/pete.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="126" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
@@ -1139,6 +1108,49 @@
         <state relative-caret-position="240">
           <caret line="16" column="104" lean-forward="false" selection-start-line="16" selection-start-column="104" selection-end-line="16" selection-end-column="140" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/react-development-reading-berkshire/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_redirects">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="148" lean-forward="false" selection-start-line="6" selection-start-column="148" selection-end-line="6" selection-end-column="148" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-web-application-mobile-app.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" column="201" lean-forward="false" selection-start-line="91" selection-start-column="201" selection-end-line="91" selection-end-column="201" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/3-base/_foundation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="113" column="4" lean-forward="false" selection-start-line="113" selection-start-column="4" selection-end-line="113" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
