@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-new-web-application-or-mobile-app-mvp.md" afterPath="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-new-web-application-or-mobile-app-mvp.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-new-web-application-or-mobile-app-mvp.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="269">
-              <caret line="43" column="285" lean-forward="false" selection-start-line="43" selection-start-column="285" selection-end-line="43" selection-end-column="285" />
+              <caret line="43" column="326" lean-forward="false" selection-start-line="43" selection-start-column="326" selection-end-line="43" selection-end-column="349" />
               <folding />
             </state>
           </provider>
@@ -388,14 +387,7 @@
       <workItem from="1500963609460" duration="3581000" />
       <workItem from="1500974761984" duration="75000" />
       <workItem from="1501011744408" duration="806000" />
-      <workItem from="1501043985616" duration="7234000" />
-    </task>
-    <task id="LOCAL-00047" summary="script speeds">
-      <created>1498628231280</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1498628231280</updated>
+      <workItem from="1501043985616" duration="7247000" />
     </task>
     <task id="LOCAL-00048" summary="script speeds">
       <created>1498628758781</created>
@@ -733,11 +725,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501051743413</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="added react pages in">
+      <created>1501051866566</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1501051866566</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117218000" />
+    <option name="totallyTimeSpent" value="117231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="42" y="31" width="1413" height="753" extended-state="0" />
@@ -1161,7 +1160,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-new-web-application-or-mobile-app-mvp.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
-          <caret line="43" column="285" lean-forward="false" selection-start-line="43" selection-start-column="285" selection-end-line="43" selection-end-column="285" />
+          <caret line="43" column="326" lean-forward="false" selection-start-line="43" selection-start-column="326" selection-end-line="43" selection-end-column="349" />
           <folding />
         </state>
       </provider>
