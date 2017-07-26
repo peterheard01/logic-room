@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/services/javascript_drawer.html" afterPath="$PROJECT_DIR$/_includes/services/javascript_drawer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-web-application-mobile-app.md" afterPath="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-web-application-mobile-app.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="javascript_drawer.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/services/javascript_drawer.html">
+      <file leaf-file-name="2017-06-26-choose-features-web-application-mobile-app.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-web-application-mobile-app.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="40" column="115" lean-forward="false" selection-start-line="40" selection-start-column="115" selection-end-line="40" selection-end-column="115" />
+            <state relative-caret-position="175">
+              <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -47,7 +47,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>request a c</find>
       <find>request a ca</find>
       <find>he</find>
       <find>hea</find>
@@ -77,6 +76,7 @@
       <find>header1</find>
       <find>JavaScript For Web, Mobile, Desktop and</find>
       <find>Mobile app development</find>
+      <find>can be ear</find>
     </findStrings>
     <replaceStrings>
       <replace>services</replace>
@@ -96,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/scripts/bottom_scripts.html" />
         <option value="$PROJECT_DIR$/_includes/scripts/top_scripts.html" />
         <option value="$PROJECT_DIR$/_config-publish.yml" />
         <option value="$PROJECT_DIR$/_sass/4-main-pages/_main_page.scss" />
@@ -147,6 +146,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/blog/index.html" />
         <option value="$PROJECT_DIR$/_includes/services/javascript_drawer.html" />
+        <option value="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-web-application-mobile-app.md" />
       </list>
     </option>
   </component>
@@ -220,11 +220,6 @@
             <path>
               <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -404,14 +399,7 @@
       <workItem from="1501084156972" duration="1855000" />
       <workItem from="1501086173465" duration="238000" />
       <workItem from="1501086516051" duration="203000" />
-      <workItem from="1501097050640" duration="214000" />
-    </task>
-    <task id="LOCAL-00062" summary="added in initial web application development page">
-      <created>1499146283899</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1499146283899</updated>
+      <workItem from="1501097050640" duration="573000" />
     </task>
     <task id="LOCAL-00063" summary="added in initial web application development page">
       <created>1499147752869</created>
@@ -749,11 +737,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501097226951</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="removed major errors from lr site">
+      <created>1501097265657</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1501097265657</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124707000" />
+    <option name="totallyTimeSpent" value="125066000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="55" width="1166" height="750" extended-state="0" />
@@ -1092,13 +1087,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-web-application-mobile-app.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="91" column="201" lean-forward="false" selection-start-line="91" selection-start-column="201" selection-end-line="91" selection-end-column="201" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/3-base/_foundation.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
@@ -1160,6 +1148,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="40" column="115" lean-forward="false" selection-start-line="40" selection-start-column="115" selection-end-line="40" selection-end-column="115" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-web-application-mobile-app.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
           <folding />
         </state>
       </provider>

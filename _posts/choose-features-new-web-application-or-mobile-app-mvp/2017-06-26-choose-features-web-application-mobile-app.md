@@ -43,7 +43,7 @@ Your MVP should be focused, and it's hard to focus when you are trying to keep e
 
 Nobody is going to use your web or mobile software unless they need to. So by choosing the customer segment with the biggest pain or problem you are increasing the chances of your initial offering being used. Also - there may be alternative offerings on the market, but if yours solves a specific problem more effectively you may be able to compete!
 
-##### can be early advocates
+##### be early advocates
 
 Another thing that is important at this stage is to choose to build your MVP for users that can be early advocates of your new software. They should be well placed to influence others and share the good news about your brilliant new product!
 
