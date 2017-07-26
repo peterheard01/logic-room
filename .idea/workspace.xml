@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/services/javascript-development-reading-berkshire/index.html" afterPath="$PROJECT_DIR$/services/react-native-development-reading-berkshire/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/services/javascript-development-reading-berkshire/thank-you/index.html" afterPath="$PROJECT_DIR$/services/react-native-development-reading-berkshire/thank-you/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services/react-development-reading-berkshire/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services/react-development-reading-berkshire/thank-you/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/services/javascript_drawer.html" afterPath="$PROJECT_DIR$/_includes/services/javascript_drawer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services/index.html" afterPath="$PROJECT_DIR$/services/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services/react-native-development-reading-berkshire/index.html" afterPath="$PROJECT_DIR$/services/react-native-development-reading-berkshire/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,10 +27,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/services/index.html">
+        <entry file="file://$PROJECT_DIR$/services/react-development-reading-berkshire/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="187">
+              <caret line="49" column="115" lean-forward="false" selection-start-line="49" selection-start-column="115" selection-end-line="49" selection-end-column="115" />
               <folding />
             </state>
           </provider>
@@ -97,7 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_sass/2-modules/_material_icons.scss" />
         <option value="$PROJECT_DIR$/assets/css/main.scss" />
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
         <option value="$PROJECT_DIR$/assets/js/lib.js" />
@@ -142,12 +141,13 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/should-you-build-a-hybrid-mobile-app/2017-07-20-should-you-build-a-hybrid-mobile-app.md" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/services/web-application-development-reading-berkshire/index.html" />
         <option value="$PROJECT_DIR$/services/javascript-development-reading-berkshire/index.html" />
         <option value="$PROJECT_DIR$/services/mobile-app-development-reading-berkshire/index.html" />
-        <option value="$PROJECT_DIR$/_includes/services/javascript_drawer.html" />
-        <option value="$PROJECT_DIR$/services/react-native-development-reading-berkshire/index.html" />
         <option value="$PROJECT_DIR$/services/index.html" />
+        <option value="$PROJECT_DIR$/services/react-native-development-reading-berkshire/index.html" />
+        <option value="$PROJECT_DIR$/_includes/services/javascript_drawer.html" />
+        <option value="$PROJECT_DIR$/services/web-application-development-reading-berkshire/index.html" />
+        <option value="$PROJECT_DIR$/services/react-development-reading-berkshire/index.html" />
       </list>
     </option>
   </component>
@@ -164,10 +164,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="50" />
-    <option name="width" value="1579" />
-    <option name="height" value="773" />
+    <option name="x" value="43" />
+    <option name="y" value="61" />
+    <option name="width" value="1548" />
+    <option name="height" value="785" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -220,6 +220,17 @@
               <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="react-development-reading-berkshire" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -237,24 +248,24 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/_site/assets/js/scripts.js&#10;/Stuff/Dropbox/1_current/3_logic_room_site/_site/assets/js/assets/scripts.js&#10;/Stuff/Dropbox/1_current/3_logic_room_site/_site/index.html&#10;/Stuff/Dropbox/1_current/3_logic_room_site/_site/libs/scripts.js" />
-    <property name="SearchEverywhereHistoryKey" value="call&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/call_back.html&#10;call_back&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/call_back.html&#10;talk&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;post&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/post.html&#10;lets&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;navigat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/navigation.html&#10;tdd-sim&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/tdd-simplified-in-5-steps.docx&#10;base&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/base.html&#10;default_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/default_navigation_spacer.html&#10;cross_plat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;top_scri&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;top_scr&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;bottom_script&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html&#10;home.htm&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/landing/home.html&#10;cross_&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;thanks&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/thanks.html&#10;footer&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/footer.html&#10;menu_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/menu_nav_color_setter.html&#10;bottom&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html" />
+    <property name="SearchEverywhereHistoryKey" value="javascript&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/javascript_drawer.html&#10;call&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/call_back.html&#10;call_back&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/call_back.html&#10;talk&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;post&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/post.html&#10;lets&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;navigat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/navigation.html&#10;tdd-sim&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/tdd-simplified-in-5-steps.docx&#10;base&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/base.html&#10;default_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/default_navigation_spacer.html&#10;cross_plat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;top_scri&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;top_scr&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;bottom_script&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html&#10;home.htm&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/landing/home.html&#10;cross_&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;thanks&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/thanks.html&#10;footer&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/footer.html&#10;menu_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/menu_nav_color_setter.html&#10;bottom&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/services" />
+      <recent name="$PROJECT_DIR$/services/javascript-development-reading-berkshire" />
+      <recent name="$PROJECT_DIR$/services/mobile-app-development-reading-berkshire" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts/should-you-build-a-hybrid-mobile-app/images" />
       <recent name="$PROJECT_DIR$/web-application-development-company-lp" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="$PROJECT_DIR$/images" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/services/javascript-development-reading-berkshire" />
-      <recent name="$PROJECT_DIR$/services/mobile-app-development-reading-berkshire" />
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/blog" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -391,14 +402,7 @@
       <workItem from="1500963609460" duration="3581000" />
       <workItem from="1500974761984" duration="75000" />
       <workItem from="1501011744408" duration="806000" />
-      <workItem from="1501043985616" duration="1114000" />
-    </task>
-    <task id="LOCAL-00042" summary="added css minification">
-      <created>1498624753046</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1498624753046</updated>
+      <workItem from="1501043985616" duration="3067000" />
     </task>
     <task id="LOCAL-00043" summary="added css minification">
       <created>1498625552661</created>
@@ -736,22 +740,29 @@
       <option name="project" value="LOCAL" />
       <updated>1501011816509</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="added hotjar etc">
+      <created>1501045223838</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1501045223839</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111098000" />
+    <option name="totallyTimeSpent" value="113051000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="50" width="1579" height="773" extended-state="0" />
+    <frame x="43" y="61" width="1548" height="785" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23170732" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25474787" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30222842" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14347826" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -833,13 +844,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/scripts/bottom_scripts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-314">
-          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config-publish.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1124,34 +1128,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/web-application-development-reading-berkshire/index.html">
+    <entry file="file://$PROJECT_DIR$/services/react-native-development-reading-berkshire/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="107" />
+        <state relative-caret-position="337">
+          <caret line="23" column="58" lean-forward="false" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="111" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/services/javascript_drawer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        <state relative-caret-position="109">
+          <caret line="22" column="65" lean-forward="false" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/react-native-development-reading-berkshire/index.html">
+    <entry file="file://$PROJECT_DIR$/services/web-application-development-reading-berkshire/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="27" column="67" lean-forward="false" selection-start-line="27" selection-start-column="67" selection-end-line="27" selection-end-column="67" />
+        <state relative-caret-position="406">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/services/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="-8">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/react-development-reading-berkshire/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="49" column="115" lean-forward="false" selection-start-line="49" selection-start-column="115" selection-end-line="49" selection-end-column="115" />
           <folding />
         </state>
       </provider>
