@@ -41,7 +41,7 @@ Your MVP should be focused, and it's hard to focus when you are trying to keep e
 
 ##### have a clear and present pain as identified in step 1
 
-Nobody is going to use your web or mobile software unless they need to. So by choosing the customer segment with the biggest pain or problem you are increasing the chances of your initial offering being used.
+Nobody is going to use your web or mobile software unless they need to. So by choosing the customer segment with the biggest pain or problem you are increasing the chances of your initial offering being used. Also - there may be alternative offerings on the market, but if yours solves a specific problem more effectively you may be able to compete!
 
 ##### can be early advocates
 
