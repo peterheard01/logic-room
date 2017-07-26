@@ -27,6 +27,8 @@ headerUrl : header.png
       <a class="highlight" href="{{post.url}}">
         <img src="{{post.url}}images/header_thumb.png" alt="thumb for blog">
         <p>
+          <!--<span style="color:grey; text-align: left; display:inline-block">{{ post.date | date: "%B, %d, %Y" }}</span><br>-->
+
           {{ post.title | truncate: 165, '...' }}
         </p>
       </a>

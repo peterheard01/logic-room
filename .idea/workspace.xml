@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pete.png" afterPath="$PROJECT_DIR$/images/pete.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-new-web-application-or-mobile-app-mvp.md" afterPath="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-new-web-application-or-mobile-app-mvp.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/blog/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,18 +24,7 @@
     <favorites_list name="site" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="2017-06-26-choose-features-new-web-application-or-mobile-app-mvp.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-new-web-application-or-mobile-app-mvp.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="96" column="9" lean-forward="false" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,7 +38,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>include call_back.html</find>
       <find>/services/code-review</find>
       <find>conf.robohydra.referenceDataUtil</find>
       <find>var dataUtil = conf.robohydra.referenceDataUtil;</find>
@@ -77,6 +67,7 @@
       <find>connect with t</find>
       <find>connect with the</find>
       <find>Consultancy,</find>
+      <find>Pete Heard is the founder of Logic Room</find>
     </findStrings>
     <replaceStrings>
       <replace>services</replace>
@@ -85,6 +76,7 @@
       <dir>$PROJECT_DIR$/_sass/4-main-pages</dir>
       <dir>$PROJECT_DIR$/libs</dir>
       <dir>$PROJECT_DIR$/_sass</dir>
+      <dir>$PROJECT_DIR$/images</dir>
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
@@ -118,7 +110,6 @@
         <option value="$PROJECT_DIR$/web-application-development-company-lp/index.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_plugins/sitemap_generator.rb" />
-        <option value="$PROJECT_DIR$/blog/index.html" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
         <option value="$PROJECT_DIR$/about-us/index.html" />
         <option value="$PROJECT_DIR$/_posts/is-your-digital-transformation-a-waste-of-money/2017-06-01-is-your-digital-transformation-a-waste-of-money.md" />
@@ -128,7 +119,6 @@
         <option value="$PROJECT_DIR$/_includes/lets_talk.html" />
         <option value="$PROJECT_DIR$/_includes/call_back.html" />
         <option value="$PROJECT_DIR$/_includes/services/cross_platform.html" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/robots.txt" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/should-you-build-a-hybrid-mobile-app/2017-07-20-should-you-build-a-hybrid-mobile-app.md" />
@@ -145,6 +135,8 @@
         <option value="$PROJECT_DIR$/_plugins/copy_post_images.rb" />
         <option value="$PROJECT_DIR$/services/mobile-app-development-reading-berkshire/index.html" />
         <option value="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-new-web-application-or-mobile-app-mvp.md" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/blog/index.html" />
       </list>
     </option>
   </component>
@@ -161,10 +153,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="24" />
-    <option name="y" value="124" />
-    <option name="width" value="1413" />
-    <option name="height" value="753" />
+    <option name="x" value="61" />
+    <option name="y" value="37" />
+    <option name="width" value="1343" />
+    <option name="height" value="781" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -210,8 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,21 +209,12 @@
               <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="choose-features-new-web-application-or-mobile-app-mvp" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -401,14 +382,8 @@
       <workItem from="1501011744408" duration="806000" />
       <workItem from="1501043985616" duration="8568000" />
       <workItem from="1501058589954" duration="10000" />
-      <workItem from="1501074768226" duration="47000" />
-    </task>
-    <task id="LOCAL-00050" summary="script speeds">
-      <created>1498629748402</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1498629748404</updated>
+      <workItem from="1501074768226" duration="591000" />
+      <workItem from="1501077597795" duration="1022000" />
     </task>
     <task id="LOCAL-00051" summary="script speeds">
       <created>1498631872917</created>
@@ -746,22 +721,30 @@
       <option name="project" value="LOCAL" />
       <updated>1501053839428</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="added react pages in">
+      <created>1501074816639</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1501074816639</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118609000" />
+    <option name="totallyTimeSpent" value="120175000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="24" y="124" width="1413" height="753" extended-state="0" />
+    <frame x="61" y="37" width="1343" height="781" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2349138" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22314675" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30222842" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25227964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2419825" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -770,7 +753,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -845,13 +827,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/landing/digital_transformation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_data/settings.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -1020,20 +995,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/should-we-stop-using-story-points/2017-01-29-should-we-stop-using-agile-story-points.md" />
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="89" column="118" lean-forward="false" selection-start-line="89" selection-start-column="118" selection-end-line="89" selection-end-column="118" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="58" lean-forward="false" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -1157,6 +1118,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="96" column="9" lean-forward="false" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/pete.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="126" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="104" lean-forward="false" selection-start-line="16" selection-start-column="104" selection-end-line="16" selection-end-column="140" />
           <folding />
         </state>
       </provider>
