@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/landing/home.html" afterPath="$PROJECT_DIR$/_includes/landing/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/services/cross_platform.html" afterPath="$PROJECT_DIR$/_includes/services/cross_platform.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/services/javascript.html" afterPath="$PROJECT_DIR$/_includes/services/javascript.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/services/javascript_drawer.html" afterPath="$PROJECT_DIR$/_includes/services/javascript_drawer.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,21 +25,7 @@
     <favorites_list name="site" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="21" column="105" lean-forward="false" selection-start-line="21" selection-start-column="105" selection-end-line="21" selection-end-column="105" />
-              <folding>
-                <element signature="n#style#0;n#h1#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,7 +39,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>conf.robohydra.referenceDataUtil;</find>
       <find>r</find>
       <find>request a c</find>
       <find>request a ca</find>
@@ -80,6 +68,7 @@
       <find>native</find>
       <find>header</find>
       <find>header1</find>
+      <find>JavaScript For Web, Mobile, Desktop and</find>
     </findStrings>
     <replaceStrings>
       <replace>services</replace>
@@ -88,9 +77,9 @@
       <dir>$PROJECT_DIR$/_sass/4-main-pages</dir>
       <dir>$PROJECT_DIR$/libs</dir>
       <dir>$PROJECT_DIR$/images</dir>
-      <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/assets</dir>
       <dir>$PROJECT_DIR$/_sass</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -108,11 +97,9 @@
         <option value="$PROJECT_DIR$/_includes/landing/javascript.html" />
         <option value="$PROJECT_DIR$/_data/settings.yml" />
         <option value="$PROJECT_DIR$/hire-javascript-developers-uk/index.html" />
-        <option value="$PROJECT_DIR$/_includes/landing/home.html" />
         <option value="$PROJECT_DIR$/blog/learn-javascript/index.html" />
         <option value="$PROJECT_DIR$/contact/index.html" />
         <option value="$PROJECT_DIR$/contact/thank-you/index.html" />
-        <option value="$PROJECT_DIR$/_includes/services/javascript.html" />
         <option value="$PROJECT_DIR$/web-application-development-company-lp/thank-you/index.html" />
         <option value="$PROJECT_DIR$/services/mobile-app-development-reading-london-berkshire/index.html" />
         <option value="$PROJECT_DIR$/services/web-application-development-reading-london-berkshire/index.md" />
@@ -129,7 +116,6 @@
         <option value="$PROJECT_DIR$/_layouts/base.html" />
         <option value="$PROJECT_DIR$/_includes/lets_talk.html" />
         <option value="$PROJECT_DIR$/_includes/call_back.html" />
-        <option value="$PROJECT_DIR$/_includes/services/cross_platform.html" />
         <option value="$PROJECT_DIR$/robots.txt" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/should-you-build-a-hybrid-mobile-app/2017-07-20-should-you-build-a-hybrid-mobile-app.md" />
@@ -141,7 +127,6 @@
         <option value="$PROJECT_DIR$/_includes/services/reasons_black.html" />
         <option value="$PROJECT_DIR$/services/web-application-development-reading-berkshire/index.html" />
         <option value="$PROJECT_DIR$/services/react-native-development-reading-berkshire/index.html" />
-        <option value="$PROJECT_DIR$/_includes/services/javascript_drawer.html" />
         <option value="$PROJECT_DIR$/_plugins/copy_post_images.rb" />
         <option value="$PROJECT_DIR$/services/mobile-app-development-reading-berkshire/index.html" />
         <option value="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-new-web-application-or-mobile-app-mvp.md" />
@@ -150,6 +135,10 @@
         <option value="$PROJECT_DIR$/services/react-development-reading-berkshire/index.html" />
         <option value="$PROJECT_DIR$/_sass/3-base/_foundation.scss" />
         <option value="$PROJECT_DIR$/blog/index.html" />
+        <option value="$PROJECT_DIR$/_includes/landing/home.html" />
+        <option value="$PROJECT_DIR$/_includes/services/cross_platform.html" />
+        <option value="$PROJECT_DIR$/_includes/services/javascript_drawer.html" />
+        <option value="$PROJECT_DIR$/_includes/services/javascript.html" />
       </list>
     </option>
   </component>
@@ -167,10 +156,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="37" />
-    <option name="width" value="1519" />
-    <option name="height" value="785" />
+    <option name="x" value="27" />
+    <option name="y" value="48" />
+    <option name="width" value="1496" />
+    <option name="height" value="774" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -216,6 +205,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -224,16 +214,10 @@
               <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,7 +229,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/_site/assets/js/scripts.js&#10;/Stuff/Dropbox/1_current/3_logic_room_site/_site/assets/js/assets/scripts.js&#10;/Stuff/Dropbox/1_current/3_logic_room_site/_site/index.html&#10;/Stuff/Dropbox/1_current/3_logic_room_site/_site/libs/scripts.js" />
-    <property name="SearchEverywhereHistoryKey" value="javascript&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/javascript_drawer.html&#10;call&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/call_back.html&#10;call_back&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/call_back.html&#10;talk&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;post&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/post.html&#10;lets&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;navigat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/navigation.html&#10;tdd-sim&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/tdd-simplified-in-5-steps.docx&#10;base&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/base.html&#10;default_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/default_navigation_spacer.html&#10;cross_plat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;top_scri&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;top_scr&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;bottom_script&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html&#10;home.htm&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/landing/home.html&#10;cross_&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;thanks&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/thanks.html&#10;footer&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/footer.html&#10;menu_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/menu_nav_color_setter.html&#10;bottom&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html" />
+    <property name="SearchEverywhereHistoryKey" value="cross_&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;javascript&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/javascript_drawer.html&#10;call&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/call_back.html&#10;call_back&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/call_back.html&#10;talk&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;post&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/post.html&#10;lets&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;navigat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/navigation.html&#10;tdd-sim&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/tdd-simplified-in-5-steps.docx&#10;base&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/base.html&#10;default_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/default_navigation_spacer.html&#10;cross_plat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;top_scri&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;top_scr&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;bottom_script&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html&#10;home.htm&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/landing/home.html&#10;thanks&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/thanks.html&#10;footer&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/footer.html&#10;menu_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/menu_nav_color_setter.html&#10;bottom&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -403,14 +387,8 @@
       <workItem from="1501058589954" duration="10000" />
       <workItem from="1501074768226" duration="591000" />
       <workItem from="1501077597795" duration="1457000" />
-      <workItem from="1501081721376" duration="1093000" />
-    </task>
-    <task id="LOCAL-00053" summary="script speeds">
-      <created>1498633254797</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1498633254797</updated>
+      <workItem from="1501081721376" duration="1587000" />
+      <workItem from="1501084156972" duration="1222000" />
     </task>
     <task id="LOCAL-00054" summary="fixed contact page">
       <created>1498635093745</created>
@@ -748,25 +726,32 @@
       <option name="project" value="LOCAL" />
       <updated>1501082631626</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="removed major errors from lr site">
+      <created>1501082849162</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1501082849162</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121703000" />
+    <option name="totallyTimeSpent" value="123419000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="37" width="1519" height="785" extended-state="0" />
+    <frame x="27" y="48" width="1496" height="774" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15754339" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20203389" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30222842" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30222842" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23188406" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23564065" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -856,13 +841,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/what-are-microservices-costs-and-benefits/2017-01-26-what-are-microservices-costs-and-benefits.md" />
-    <entry file="file://$PROJECT_DIR$/_includes/landing/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/learn-javascript/index.html" />
     <entry file="file://$PROJECT_DIR$/_includes/thank_you.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1023,20 +1001,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="64" lean-forward="false" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/services/cross_platform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="28" column="47" lean-forward="false" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/services/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
@@ -1048,13 +1012,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="84" column="41" lean-forward="true" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/services/javascript.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1083,13 +1040,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/services/javascript_drawer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="51" column="38" lean-forward="false" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1123,7 +1073,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="104" lean-forward="false" selection-start-line="16" selection-start-column="104" selection-end-line="16" selection-end-column="140" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1131,7 +1080,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1139,7 +1087,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="148" lean-forward="false" selection-start-line="6" selection-start-column="148" selection-end-line="6" selection-end-column="148" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1147,7 +1094,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1365">
           <caret line="91" column="201" lean-forward="false" selection-start-line="91" selection-start-column="201" selection-end-line="91" selection-end-column="201" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1163,10 +1109,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
           <caret line="21" column="105" lean-forward="false" selection-start-line="21" selection-start-column="105" selection-end-line="21" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/services/javascript_drawer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/services/cross_platform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/services/javascript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/landing/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1087">
+          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="64" lean-forward="false" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
+          <folding />
         </state>
       </provider>
     </entry>
