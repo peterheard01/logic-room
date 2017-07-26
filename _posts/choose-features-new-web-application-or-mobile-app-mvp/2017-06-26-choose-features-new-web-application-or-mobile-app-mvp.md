@@ -85,7 +85,7 @@ This can be done with paper and pencil to create simple mockups or if you want i
 
 # 6. Begin Collecting Developer Estimates
 
-At this point you should begin to include your developers in the discussion. Your developers should be able to work with you on your MVP list designs that you have been building from step 5. They will need to help you decide the right technology choice and also advice you on how complex what you want to build is.
+At this step you should begin to include your developers in the discussion. Your developers should be able to work with you on your MVP list designs that you have been building from step 5. They will need to help you decide the right technology choice and also advice you on how complex what you want to build is.
 
 At this step what they tell you will help you to decide if you can cut or re-prioritise even more items from your MVP list.
 
@@ -94,7 +94,7 @@ They will also help you get clarity on what technology choices you will be makin
 # Finally - Feedback
 
 
-At this point it's important that the above undertaken in a way that is 'repeatable'. In the software world we call this Agile but really Agile just says to do something simple/lightweight and then keep repeating it.
+Finally, it's important that the above undertaken in a way that is 'repeatable'. In the software world we call this Agile but really Agile just says to do something simple/lightweight and then keep repeating it.
 
 Repeat steps 4 - 6 over a several week/day cycle until you come up with a final list of features that should go into your MVP.
 
