@@ -18,7 +18,7 @@ Jekyll::Hooks.register :posts, :post_write do |post|
     # puts post_src_folder_path
     # puts post_dst_folder_path
 
-    # system "ffmpeg -y -i " + post_src_folder_path + "/images/header.png -vf scale=300:171 " +  post_src_folder_path + "/images/header_thumb.png"
+    #system "ffmpeg -y -i " + post_src_folder_path + "/images/header.png -vf scale=300:171 " +  post_src_folder_path + "/images/header_thumb.png"
 
 
     FileUtils.copy_entry(post_src_folder_path, post_dst_folder_path)
