@@ -25,17 +25,19 @@ The **most** important thing when doing customer segmentation is that you identi
 
 This should be something like...
 
->*X user is frustrated by Y manual process*
+>*X user is frustrated by Y manual process and it's really stopping them do xyz*
 
 or
 
->*X user keeps missing a deadline for Y event*
+>*X user keeps missing a deadline for Y event and it means they can't perform xyz for the business*
+
+Identifying pain (as we will see later) is important because it let's you narrow down your efforts and get very specific.
 
 # 2. Choose A Single Customer Segment
 
 Next, you should be looking to select one single customer segment that you have identified in step 1. The reason you want to select only a single segment is that it is easier to both market to, and build for a fewer number of users.
 
-Your MVP should be focused, and it's hard to focus when you are trying to keep everyone happy. So in order to select the right features your chosen segment should
+Your MVP should be focused, and it's hard to focus when you are trying to keep everyone happy. So in order to select the right features your chosen segment should...
 
 ##### have a clear and present pain as identified in step 1
 
