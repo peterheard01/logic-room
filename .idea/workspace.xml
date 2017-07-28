@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/digital-transformation-a-or-b-type/2017-03-16-digital-transformation-a-or-b-type.md" afterPath="$PROJECT_DIR$/_posts/digital-transformation-a-or-b-type/2017-03-16-digital-transformation-a-or-b-type.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-native-development-company-lp/index.html" afterPath="$PROJECT_DIR$/react-native-development-company-lp/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -87,7 +85,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
+            <state relative-caret-position="219">
               <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
               <folding />
             </state>
@@ -513,14 +511,7 @@
       <workItem from="1501097050640" duration="590000" />
       <workItem from="1501143390208" duration="725000" />
       <workItem from="1501183104001" duration="467000" />
-      <workItem from="1501245087887" duration="169000" />
-    </task>
-    <task id="LOCAL-00065" summary="added in initial web application development page">
-      <created>1499150018833</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1499150018833</updated>
+      <workItem from="1501245087887" duration="397000" />
     </task>
     <task id="LOCAL-00066" summary="added in initial web application development page">
       <created>1499150678192</created>
@@ -858,11 +849,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501143710700</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="removed sharethis">
+      <created>1501245260462</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1501245260463</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126444000" />
+    <option name="totallyTimeSpent" value="126672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="49" width="1387" height="752" extended-state="0" />
@@ -1289,7 +1287,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
+        <state relative-caret-position="219">
           <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
           <folding />
         </state>
