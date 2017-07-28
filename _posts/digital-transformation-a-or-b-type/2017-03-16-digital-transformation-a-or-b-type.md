@@ -4,7 +4,7 @@ title: 'Digital Transformation: Are You A or B Type?'
 author: Pete Heard
 excerpt: This article will explore two different types of transformation types using data and more traditional trial and error techniques
 thumbnail: 404.jpg
-category : agile
+category : digital-transformation
 date:   2017-03-22 05:20:00 +0000
 ---
 
