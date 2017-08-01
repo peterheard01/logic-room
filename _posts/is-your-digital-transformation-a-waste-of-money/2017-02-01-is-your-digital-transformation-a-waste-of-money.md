@@ -4,7 +4,7 @@ title: Is Your Digital Transformation a Waste of Money?
 author: Pete Heard
 excerpt: Digital Transformation can easily end up in an excuse to spend spend spend. Let's take a moment and consider some of the pitfalls first which could cost you!
 thumbnail: 404.jpg
-category : agile
+category : digital-transformation
 date:   2017-02-01 05:00:00 +0000
 ---
 

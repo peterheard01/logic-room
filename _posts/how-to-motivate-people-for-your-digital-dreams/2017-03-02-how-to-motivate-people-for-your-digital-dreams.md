@@ -4,7 +4,7 @@ title: How to Motivate People for Your Digital Dreams
 author: Pete Heard
 excerpt: You are going to need to motivate people for your digital objectives. In this article; find out how!
 thumbnail: 404.jpg
-category : agile
+category : digital-transformation
 date:   2017-05-03 05:00:00 +0000
 ---
 

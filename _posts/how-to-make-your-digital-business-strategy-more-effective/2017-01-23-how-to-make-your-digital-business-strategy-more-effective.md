@@ -4,7 +4,7 @@ title: How to Make Your Digital Business Strategy More Effective
 author: Pete Heard
 excerpt: This article will discuss making your digital business strategy more effective
 thumbnail: 404.jpg
-category : agile
+category : digital-transformation
 date:   2017-01-23 05:47:50 +0000
 ---
 

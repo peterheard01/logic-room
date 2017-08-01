@@ -4,7 +4,7 @@ title: How Blockchain Will Transform Business [Bitcoin, Ethereum, Monero]
 author: Pete Heard
 excerpt: Blockchain is a technology that makes transactions easier, faster and more secure; it is set to shake up lot's of industries from finance to property. 
 thumbnail: 404.jpg
-category : agile
+category : digital-transformation
 date:   2017-03-29 04:47:00 +0000
 ---
 
