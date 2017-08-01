@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pete_wide.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/4-main-pages/_about_us.scss" afterPath="$PROJECT_DIR$/_sass/4-main-pages/_about_us.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about-us/index.html" afterPath="$PROJECT_DIR$/about-us/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,11 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_about_us.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_sass/4-main-pages/_about_us.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about-us/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="44" column="57" lean-forward="false" selection-start-line="44" selection-start-column="57" selection-end-line="44" selection-end-column="57" />
+            <state relative-caret-position="206">
+              <caret line="41" column="36" lean-forward="false" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
               </folding>
@@ -69,7 +79,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>UX</find>
       <find>hire-js-devs</find>
       <find>w</find>
       <find>why wor</find>
@@ -99,6 +108,7 @@
       <find>sharethis.</find>
       <find>sharethis</find>
       <find>class=&quot;row&quot;</find>
+      <find>@media</find>
     </findStrings>
     <replaceStrings>
       <replace>services</replace>
@@ -118,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/contact_us_now.html" />
         <option value="$PROJECT_DIR$/_includes/landing/digital_transformation.html" />
         <option value="$PROJECT_DIR$/_includes/landing/javascript.html" />
         <option value="$PROJECT_DIR$/_data/settings.yml" />
@@ -168,6 +177,7 @@
         <option value="$PROJECT_DIR$/guides/index.html" />
         <option value="$PROJECT_DIR$/_posts/digital-transformation-a-or-b-type/2017-03-16-digital-transformation-a-or-b-type.md" />
         <option value="$PROJECT_DIR$/react-native-development-company-lp/index.html" />
+        <option value="$PROJECT_DIR$/_sass/4-main-pages/_about_us.scss" />
         <option value="$PROJECT_DIR$/about-us/index.html" />
       </list>
     </option>
@@ -440,14 +450,7 @@
       <workItem from="1501143390208" duration="725000" />
       <workItem from="1501183104001" duration="467000" />
       <workItem from="1501245087887" duration="1168000" />
-      <workItem from="1501576073871" duration="2115000" />
-    </task>
-    <task id="LOCAL-00068" summary="added in initial web application development page">
-      <created>1499151073183</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1499151073183</updated>
+      <workItem from="1501576073871" duration="2702000" />
     </task>
     <task id="LOCAL-00069" summary="updated services page">
       <created>1499227595362</created>
@@ -785,16 +788,23 @@
       <option name="project" value="LOCAL" />
       <updated>1501576164542</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="removed sharethis">
+      <created>1501605327077</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1501605327077</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129558000" />
+    <option name="totallyTimeSpent" value="130145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="35" y="76" width="1315" height="729" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28748068" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27820712" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -886,7 +896,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/5-javascript-test-doubles-you-should-know-about/2015-8-12-5-javascript-test-doubles-you-should-know-about.md" />
     <entry file="file://$PROJECT_DIR$/_includes/navigation.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1215,10 +1224,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/4-main-pages/_about_us.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about-us/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="44" column="57" lean-forward="false" selection-start-line="44" selection-start-column="57" selection-end-line="44" selection-end-column="57" />
+        <state relative-caret-position="206">
+          <caret line="41" column="36" lean-forward="false" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
           </folding>
