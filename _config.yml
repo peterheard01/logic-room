@@ -5,7 +5,7 @@ name : Logic Room
 env: development
 
 description: > # this means to ignore newlines until "baseurl:"
-  Web and Mobile Sofware Reading, Berkshire
+  Web and Mobile Software Reading, Berkshire
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.logicroom.co
 twitter_username: jekyllrb
