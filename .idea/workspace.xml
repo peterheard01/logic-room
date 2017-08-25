@@ -28,7 +28,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="96">
-                <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+                <caret line="22" column="61" lean-forward="false" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -441,14 +441,7 @@
       <workItem from="1502086517009" duration="62000" />
       <workItem from="1502338839651" duration="3019000" />
       <workItem from="1502382211579" duration="596000" />
-      <workItem from="1503676858067" duration="45000" />
-    </task>
-    <task id="LOCAL-00076" summary="removed javascript blog">
-      <created>1500316118827</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1500316118827</updated>
+      <workItem from="1503676858067" duration="128000" />
     </task>
     <task id="LOCAL-00077" summary="removed javascript blog">
       <created>1500316397070</created>
@@ -786,11 +779,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503132000159</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="removed this weeks blog">
+      <created>1503676925041</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1503676925041</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135492000" />
+    <option name="totallyTimeSpent" value="135575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="72" y="69" width="1362" height="691" extended-state="0" />
@@ -1227,7 +1227,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="96">
-            <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+            <caret line="22" column="61" lean-forward="false" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
             <folding />
           </first_editor>
           <second_editor />

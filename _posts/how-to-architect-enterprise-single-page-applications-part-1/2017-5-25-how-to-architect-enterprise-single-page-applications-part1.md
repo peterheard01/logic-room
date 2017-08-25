@@ -20,7 +20,7 @@ Part 1 will discuss 3 ideas which form a basic level of understanding needed to 
 
 # The Baseline of Application Design : Responsibilities
 
-Code is complex. When we write code we sometimes struggle to know where to start. We get a problem, we break it down into a number of steps and we begin to write each line, making mistakes, correcting, adjusting, making more mistakes (swearing) and eventually what we see in front of us hopefully does what we intended it to do. 
+Code is complex. We sometimes struggle to know where to start. We get a problem, we break it down into a number of steps and we begin to write each line, making mistakes, correcting, adjusting, making more mistakes (swearing) and eventually what we see in front of us hopefully does what we intended it to do. 
 
 We know this as the first part of software creation: getting it working.
 
