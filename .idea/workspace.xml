@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-native-services-company-lp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-native-services-company-lp/thank-you/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/services/reasons.html" afterPath="$PROJECT_DIR$/_includes/services/reasons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-native-development-company-lp/index.html" afterPath="$PROJECT_DIR$/react-native-development-company-lp/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,29 +25,25 @@
     <favorites_list name="site" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-02-09-no-one-understands-digital-transformation-heres-why.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/does-anyone-really-understand-digital-transformation-not-according-to-research/2017-02-09-no-one-understands-digital-transformation-heres-why.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="105">
-                <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="33" />
-                <folding />
-              </first_editor>
-              <second_editor />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="67" column="46" lean-forward="true" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/index.html">
+      <file leaf-file-name="reasons.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/services/reasons.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="75">
+              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              <folding>
+                <marker date="1505839350000" expanded="false" signature="452:464" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,7 +127,6 @@
         <option value="$PROJECT_DIR$/_posts/should-you-build-a-hybrid-mobile-app/2017-07-20-should-you-build-a-hybrid-mobile-app.md" />
         <option value="$PROJECT_DIR$/services/javascript-development-reading-berkshire/index.html" />
         <option value="$PROJECT_DIR$/services/index.html" />
-        <option value="$PROJECT_DIR$/_includes/services/reasons.html" />
         <option value="$PROJECT_DIR$/_includes/services/reasons_black.html" />
         <option value="$PROJECT_DIR$/services/web-application-development-reading-berkshire/index.html" />
         <option value="$PROJECT_DIR$/services/react-native-development-reading-berkshire/index.html" />
@@ -145,7 +143,6 @@
         <option value="$PROJECT_DIR$/_layouts/default_navigation_spacer_blog.html" />
         <option value="$PROJECT_DIR$/guides/index.html" />
         <option value="$PROJECT_DIR$/_posts/digital-transformation-a-or-b-type/2017-03-16-digital-transformation-a-or-b-type.md" />
-        <option value="$PROJECT_DIR$/react-native-development-company-lp/index.html" />
         <option value="$PROJECT_DIR$/_sass/4-main-pages/_about_us.scss" />
         <option value="$PROJECT_DIR$/about-us/index.html" />
         <option value="$PROJECT_DIR$/_posts/how-blockchain-will-transform-business/2017-03-29-how-blockchain-will-transform-business.md" />
@@ -163,6 +160,8 @@
         <option value="$PROJECT_DIR$/react-native-development-company-lp/thank-you/index.html" />
         <option value="$PROJECT_DIR$/_posts/does-anyone-really-understand-digital-transformation-not-according-to-research/2017-02-09-no-one-understands-digital-transformation-heres-why.md" />
         <option value="$PROJECT_DIR$/blog/index.html" />
+        <option value="$PROJECT_DIR$/react-native-development-company-lp/index.html" />
+        <option value="$PROJECT_DIR$/_includes/services/reasons.html" />
       </list>
     </option>
   </component>
@@ -180,10 +179,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="23" />
-    <option name="width" value="1345" />
-    <option name="height" value="749" />
+    <option name="x" value="13" />
+    <option name="y" value="66" />
+    <option name="width" value="1512" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -255,7 +254,7 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="3_logic_room_site" type="cbb8eebc:String" user="3_logic_room_site" />
-              <item name="blog" type="cbb8eebc:String" user="blog" />
+              <item name="react-native-development-company-lp" type="cbb8eebc:String" user="react-native-development-company-lp" />
             </path>
           </expand>
           <select />
@@ -278,19 +277,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/_includes/services" />
-      <recent name="$PROJECT_DIR$/services" />
-      <recent name="$PROJECT_DIR$/services/javascript-development-reading-berkshire" />
-      <recent name="$PROJECT_DIR$/services/mobile-app-development-reading-berkshire" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts/build-web-application-agile-techniques/images" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/images" />
       <recent name="$PROJECT_DIR$/_posts/should-you-build-a-hybrid-mobile-app/images" />
       <recent name="$PROJECT_DIR$/web-application-development-company-lp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/_includes/services" />
+      <recent name="$PROJECT_DIR$/services" />
+      <recent name="$PROJECT_DIR$/services/javascript-development-reading-berkshire" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -447,14 +446,8 @@
       <workItem from="1502382211579" duration="596000" />
       <workItem from="1503676858067" duration="307000" />
       <workItem from="1505360605472" duration="853000" />
-      <workItem from="1505472256694" duration="646000" />
-    </task>
-    <task id="LOCAL-00079" summary="added hotjar etc">
-      <created>1500356478140</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1500356478140</updated>
+      <workItem from="1505472256694" duration="720000" />
+      <workItem from="1505838882414" duration="524000" />
     </task>
     <task id="LOCAL-00080" summary="added hotjar etc">
       <created>1500356977980</created>
@@ -792,22 +785,29 @@
       <option name="project" value="LOCAL" />
       <updated>1505360914353</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="removed this weeks blog">
+      <created>1505473906896</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1505473906897</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137253000" />
+    <option name="totallyTimeSpent" value="137851000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="23" width="1345" height="749" extended-state="0" />
+    <frame x="13" y="66" width="1512" height="780" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24093656" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27967808" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47031963" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3058104" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19124088" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -927,13 +927,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/services/reasons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1187,9 +1180,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/how-to-architect-enterprise-single-page-applications-part-1/2017-5-25-how-to-architect-enterprise-single-page-applications-part1.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="96">
@@ -1198,14 +1188,14 @@
           <second_editor />
         </state>
       </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/call_back.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="63" lean-forward="false" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
-          <folding>
-            <element signature="n#div#2;n#form#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1213,23 +1203,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#noscript#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1238,29 +1211,45 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/does-anyone-really-understand-digital-transformation-not-according-to-research/2017-02-09-no-one-understands-digital-transformation-heres-why.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="105">
-            <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="33" />
-            <folding />
+            <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="33" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/index.html">
+    <entry file="file://$PROJECT_DIR$/_includes/services/reasons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <marker date="1505839350000" expanded="false" signature="452:464" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <caret line="67" column="46" lean-forward="true" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
           <folding />
         </state>
       </provider>
