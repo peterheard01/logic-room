@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-native-services-company-lp/index.html" afterPath="$PROJECT_DIR$/react-native-services-company-lp/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/robots.txt" afterPath="$PROJECT_DIR$/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-native-development-company-lp/thank-you/index.html" afterPath="$PROJECT_DIR$/react-native-development-company-lp/thank-you/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-native-services-company-lp/thank-you/index.html" afterPath="$PROJECT_DIR$/react-native-services-company-lp/thank-you/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,54 +23,28 @@
     <favorites_list name="site" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/index.html">
+        <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/thank-you/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="68" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="302" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-native-services-company-lp/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="robots.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/robots.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="59" column="62" lean-forward="true" selection-start-line="59" selection-start-column="62" selection-end-line="59" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reasons.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/services/reasons.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="336">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
-                <marker date="1505839350000" expanded="false" signature="452:464" ph="..." />
+                <element signature="n#style#0;n#div#0;n#noscript#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react-native-services-company-lp/thank-you/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#noscript#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -140,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/services/web-application-development-reading-london-berkshire/index.md" />
         <option value="$PROJECT_DIR$/services/web-application-development-reading-london-berkshire/index.html" />
         <option value="$PROJECT_DIR$/_includes/navigation.html" />
         <option value="$PROJECT_DIR$/services/web-application-development-reading-berkshire-london/index.html" />
@@ -183,7 +155,6 @@
         <option value="$PROJECT_DIR$/_redirects" />
         <option value="$PROJECT_DIR$/_posts/how-to-architect-enterprise-single-page-applications-part-1/2017-5-25-how-to-architect-enterprise-single-page-applications-part1.md" />
         <option value="$PROJECT_DIR$/_includes/call_back.html" />
-        <option value="$PROJECT_DIR$/react-native-development-company-lp/thank-you/index.html" />
         <option value="$PROJECT_DIR$/_posts/does-anyone-really-understand-digital-transformation-not-according-to-research/2017-02-09-no-one-understands-digital-transformation-heres-why.md" />
         <option value="$PROJECT_DIR$/blog/index.html" />
         <option value="$PROJECT_DIR$/react-native-development-company-lp/index.html" />
@@ -191,6 +162,8 @@
         <option value="$PROJECT_DIR$/react-native-services-company-lp/index.html" />
         <option value="$PROJECT_DIR$/robots.txt" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/react-native-development-company-lp/thank-you/index.html" />
+        <option value="$PROJECT_DIR$/react-native-services-company-lp/thank-you/index.html" />
       </list>
     </option>
   </component>
@@ -208,8 +181,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="26" />
-    <option name="y" value="135" />
+    <option name="x" value="29" />
+    <option name="y" value="67" />
     <option name="width" value="1512" />
     <option name="height" value="780" />
   </component>
@@ -257,6 +230,40 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="3_logic_room_site" type="cbb8eebc:String" user="3_logic_room_site" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="3_logic_room_site" type="cbb8eebc:String" user="3_logic_room_site" />
+              <item name="react-native-development-company-lp" type="cbb8eebc:String" user="react-native-development-company-lp" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="3_logic_room_site" type="cbb8eebc:String" user="3_logic_room_site" />
+              <item name="react-native-development-company-lp" type="cbb8eebc:String" user="react-native-development-company-lp" />
+              <item name="thank-you" type="cbb8eebc:String" user="thank-you" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="3_logic_room_site" type="cbb8eebc:String" user="3_logic_room_site" />
+              <item name="react-native-services-company-lp" type="cbb8eebc:String" user="react-native-services-company-lp" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="3_logic_room_site" type="cbb8eebc:String" user="3_logic_room_site" />
+              <item name="react-native-services-company-lp" type="cbb8eebc:String" user="react-native-services-company-lp" />
+              <item name="thank-you" type="cbb8eebc:String" user="thank-you" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,18 +280,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="3_logic_room_site" type="cbb8eebc:String" user="3_logic_room_site" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -471,14 +466,8 @@
       <workItem from="1503676858067" duration="307000" />
       <workItem from="1505360605472" duration="853000" />
       <workItem from="1505472256694" duration="720000" />
-      <workItem from="1505838882414" duration="1362000" />
-    </task>
-    <task id="LOCAL-00081" summary="added hotjar etc">
-      <created>1500357296331</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1500357296331</updated>
+      <workItem from="1505838882414" duration="1990000" />
+      <workItem from="1505845233582" duration="106000" />
     </task>
     <task id="LOCAL-00082" summary="added hotjar etc">
       <created>1500386326786</created>
@@ -816,22 +805,29 @@
       <option name="project" value="LOCAL" />
       <updated>1505839416506</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="added in development page">
+      <created>1505840531239</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1505840531239</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138689000" />
+    <option name="totallyTimeSpent" value="139423000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="26" y="135" width="1512" height="780" extended-state="0" />
+    <frame x="29" y="67" width="1512" height="780" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2622401" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2622401" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47031963" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16058394" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26861313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -918,7 +914,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/should-we-stop-using-story-points/2017-01-29-should-we-stop-using-agile-story-points.md" />
     <entry file="file://$PROJECT_DIR$/_posts/should-you-build-a-hybrid-mobile-app/2017-07-20-should-you-build-a-hybrid-mobile-app.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1202,13 +1197,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/thank-you/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/header.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1239,6 +1227,38 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="302" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-native-services-company-lp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="59" column="62" lean-forward="true" selection-start-line="59" selection-start-column="62" selection-end-line="59" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/services/reasons.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1249,35 +1269,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/index.html">
+    <entry file="file://$PROJECT_DIR$/react-native-development-company-lp/thank-you/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="68" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="302" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="336">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#noscript#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-native-services-company-lp/index.html">
+    <entry file="file://$PROJECT_DIR$/react-native-services-company-lp/thank-you/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/robots.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="59" column="62" lean-forward="true" selection-start-line="59" selection-start-column="62" selection-end-line="59" selection-end-column="62" />
-          <folding />
+        <state relative-caret-position="371">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#noscript#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
