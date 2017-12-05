@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/call_back.html" afterPath="$PROJECT_DIR$/_includes/call_back.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/landing/home.html" afterPath="$PROJECT_DIR$/_includes/landing/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/services/javascript.html" afterPath="$PROJECT_DIR$/_includes/services/javascript.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/services/javascript_drawer.html" afterPath="$PROJECT_DIR$/_includes/services/javascript_drawer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about-us/index.html" afterPath="$PROJECT_DIR$/about-us/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,11 +26,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="call_back.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/call_back.html">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/landing/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="154">
+              <caret line="28" column="75" lean-forward="false" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="javascript.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/services/javascript.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="javascript_drawer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/services/javascript_drawer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="44" column="16" lean-forward="false" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about-us/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="29" column="110" lean-forward="false" selection-start-line="29" selection-start-column="110" selection-end-line="29" selection-end-column="110" />
               <folding />
             </state>
           </provider>
@@ -47,8 +80,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>why wor</find>
-      <find>why work</find>
       <find>why work wi</find>
       <find>why work wit</find>
       <find>why work with</find>
@@ -77,6 +108,8 @@
       <find>@media</find>
       <find>'sss</find>
       <find>Book</find>
+      <find>We build</find>
+      <find>JavaScript for</find>
     </findStrings>
     <replaceStrings>
       <replace>services</replace>
@@ -116,17 +149,13 @@
         <option value="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-new-web-application-or-mobile-app-mvp.md" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_sass/3-base/_foundation.scss" />
-        <option value="$PROJECT_DIR$/_includes/landing/home.html" />
         <option value="$PROJECT_DIR$/_includes/services/cross_platform.html" />
-        <option value="$PROJECT_DIR$/_includes/services/javascript.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_includes/services/javascript_drawer.html" />
         <option value="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/2017-06-26-choose-features-web-application-mobile-app.md" />
         <option value="$PROJECT_DIR$/_layouts/default_navigation_spacer_blog.html" />
         <option value="$PROJECT_DIR$/guides/index.html" />
         <option value="$PROJECT_DIR$/_posts/digital-transformation-a-or-b-type/2017-03-16-digital-transformation-a-or-b-type.md" />
         <option value="$PROJECT_DIR$/_sass/4-main-pages/_about_us.scss" />
-        <option value="$PROJECT_DIR$/about-us/index.html" />
         <option value="$PROJECT_DIR$/_posts/how-blockchain-will-transform-business/2017-03-29-how-blockchain-will-transform-business.md" />
         <option value="$PROJECT_DIR$/_posts/how-to-make-your-digital-business-strategy-more-effective/2017-01-23-how-to-make-your-digital-business-strategy-more-effective.md" />
         <option value="$PROJECT_DIR$/_posts/how-to-motivate-people-for-your-digital-dreams/2017-03-02-how-to-motivate-people-for-your-digital-dreams.md" />
@@ -147,6 +176,10 @@
         <option value="$PROJECT_DIR$/react-native-services-company-lp/thank-you/index.html" />
         <option value="$PROJECT_DIR$/react-native-services-company-lp/index.html" />
         <option value="$PROJECT_DIR$/_includes/call_back.html" />
+        <option value="$PROJECT_DIR$/_includes/landing/home.html" />
+        <option value="$PROJECT_DIR$/_includes/services/javascript.html" />
+        <option value="$PROJECT_DIR$/_includes/services/javascript_drawer.html" />
+        <option value="$PROJECT_DIR$/about-us/index.html" />
       </list>
     </option>
   </component>
@@ -220,11 +253,15 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="3_logic_room_site" type="cbb8eebc:String" user="3_logic_room_site" />
             </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="3_logic_room_site" type="cbb8eebc:String" user="3_logic_room_site" />
+              <item name="about-us" type="cbb8eebc:String" user="about-us" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,6 +278,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -429,14 +467,8 @@
       <workItem from="1505472256694" duration="720000" />
       <workItem from="1505838882414" duration="1990000" />
       <workItem from="1505845233582" duration="345000" />
-      <workItem from="1506315147997" duration="249000" />
-    </task>
-    <task id="LOCAL-00084" summary="added hotjar etc">
-      <created>1500389385391</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1500389385391</updated>
+      <workItem from="1506315147997" duration="298000" />
+      <workItem from="1512407941347" duration="868000" />
     </task>
     <task id="LOCAL-00085" summary="added hotjar etc">
       <created>1500523782424</created>
@@ -774,16 +806,23 @@
       <option name="project" value="LOCAL" />
       <updated>1505845504128</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="added in development page">
+      <created>1506315400441</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1506315400442</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139911000" />
+    <option name="totallyTimeSpent" value="140828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="28" width="1512" height="780" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2622401" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19450034" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -876,13 +915,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/should-you-build-a-hybrid-mobile-app/2017-07-20-should-you-build-a-hybrid-mobile-app.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/services/reasons_black.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -937,31 +969,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/services/javascript.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/landing/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1087">
-          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/services/javascript_drawer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="40" column="115" lean-forward="false" selection-start-line="40" selection-start-column="115" selection-end-line="40" selection-end-column="115" />
         </state>
       </provider>
     </entry>
@@ -1037,13 +1048,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about-us/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="41" column="36" lean-forward="false" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -1139,19 +1143,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/how-to-architect-enterprise-single-page-applications-part-1/2017-5-25-how-to-architect-enterprise-single-page-applications-part1.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="96">
-            <caret line="22" column="61" lean-forward="false" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/how-to-architect-enterprise-single-page-applications-part-1/2017-5-25-how-to-architect-enterprise-single-page-applications-part1.md" />
     <entry file="file://$PROJECT_DIR$/blog/header.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1168,17 +1160,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="105">
-            <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1235,6 +1216,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/landing/javascript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/landing/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="28" column="75" lean-forward="false" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/services/javascript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/services/javascript_drawer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="44" column="16" lean-forward="false" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-us/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="29" column="110" lean-forward="false" selection-start-line="29" selection-start-column="110" selection-end-line="29" selection-end-column="110" />
           <folding />
         </state>
       </provider>
