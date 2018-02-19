@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/landing/home.html" afterPath="$PROJECT_DIR$/_includes/landing/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/services/javascript.html" afterPath="$PROJECT_DIR$/_includes/services/javascript.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/services/javascript_drawer.html" afterPath="$PROJECT_DIR$/_includes/services/javascript_drawer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about-us/index.html" afterPath="$PROJECT_DIR$/about-us/index.html" />
+    <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="added in development page">
+      <change beforePath="" afterPath="$PROJECT_DIR$/our-process/index.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change beforePath="$PROJECT_DIR$/_includes/landing/home.html" afterPath="$PROJECT_DIR$/_includes/landing/home.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/services/javascript.html" afterPath="$PROJECT_DIR$/_includes/services/javascript.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/services/javascript_drawer.html" afterPath="$PROJECT_DIR$/_includes/services/javascript_drawer.html" />
+      <change beforePath="$PROJECT_DIR$/guides/build-and-launch-software-fast/build-and-launch-software-fast.docx" afterPath="$PROJECT_DIR$/guides/build-and-launch-software-fast/build-and-launch-software-fast.docx" />
+      <change beforePath="$PROJECT_DIR$/guides/build-and-launch-software-fast/build-and-launch-software-fast.pdf" afterPath="$PROJECT_DIR$/guides/build-and-launch-software-fast/build-and-launch-software-fast.pdf" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,48 +28,7 @@
     <favorites_list name="site" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/landing/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="28" column="75" lean-forward="false" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="javascript.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/services/javascript.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="javascript_drawer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/services/javascript_drawer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="44" column="16" lean-forward="false" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about-us/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="29" column="110" lean-forward="false" selection-start-line="29" selection-start-column="110" selection-end-line="29" selection-end-column="110" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,9 +42,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>why work wi</find>
-      <find>why work wit</find>
-      <find>why work with</find>
       <find>Special Offer</find>
       <find>clean code</find>
       <find>JavaS</find>
@@ -108,8 +67,11 @@
       <find>@media</find>
       <find>'sss</find>
       <find>Book</find>
-      <find>We build</find>
       <find>JavaScript for</find>
+      <find>Custom Sof</find>
+      <find>Effective sof</find>
+      <find>We build</find>
+      <find>we build well</find>
     </findStrings>
     <replaceStrings>
       <replace>services</replace>
@@ -129,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/services/web-application-development-reading-london-berkshire/index.html" />
         <option value="$PROJECT_DIR$/_includes/navigation.html" />
         <option value="$PROJECT_DIR$/services/web-application-development-reading-berkshire-london/index.html" />
         <option value="$PROJECT_DIR$/web-application-development-company-lp/index.html" />
@@ -176,10 +137,11 @@
         <option value="$PROJECT_DIR$/react-native-services-company-lp/thank-you/index.html" />
         <option value="$PROJECT_DIR$/react-native-services-company-lp/index.html" />
         <option value="$PROJECT_DIR$/_includes/call_back.html" />
-        <option value="$PROJECT_DIR$/_includes/landing/home.html" />
+        <option value="$PROJECT_DIR$/about-us/index.html" />
         <option value="$PROJECT_DIR$/_includes/services/javascript.html" />
         <option value="$PROJECT_DIR$/_includes/services/javascript_drawer.html" />
-        <option value="$PROJECT_DIR$/about-us/index.html" />
+        <option value="$PROJECT_DIR$/our-process/index.html" />
+        <option value="$PROJECT_DIR$/_includes/landing/home.html" />
       </list>
     </option>
   </component>
@@ -197,10 +159,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="61" />
-    <option name="y" value="28" />
-    <option name="width" value="1512" />
-    <option name="height" value="780" />
+    <option name="x" value="190" />
+    <option name="y" value="52" />
+    <option name="width" value="1530" />
+    <option name="height" value="850" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -232,7 +194,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -246,22 +208,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="3_logic_room_site" type="cbb8eebc:String" user="3_logic_room_site" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="3_logic_room_site" type="cbb8eebc:String" user="3_logic_room_site" />
-              <item name="about-us" type="cbb8eebc:String" user="about-us" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,13 +219,23 @@
             <path>
               <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="3_logic_room_site" type="cbb8eebc:String" user="3_logic_room_site" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,7 +247,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/_site/assets/js/scripts.js&#10;/Stuff/Dropbox/1_current/3_logic_room_site/_site/assets/js/assets/scripts.js&#10;/Stuff/Dropbox/1_current/3_logic_room_site/_site/index.html&#10;/Stuff/Dropbox/1_current/3_logic_room_site/_site/libs/scripts.js" />
-    <property name="SearchEverywhereHistoryKey" value="top_s&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;bottom_scr&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html&#10;cross_&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;javascript&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/javascript_drawer.html&#10;call&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/call_back.html&#10;call_back&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/call_back.html&#10;talk&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;post&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/post.html&#10;lets&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;navigat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/navigation.html&#10;tdd-sim&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/tdd-simplified-in-5-steps.docx&#10;base&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/base.html&#10;default_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/default_navigation_spacer.html&#10;cross_plat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;top_scri&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;top_scr&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;bottom_script&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html&#10;home.htm&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/landing/home.html&#10;thanks&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/thanks.html&#10;footer&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/footer.html&#10;menu_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/menu_nav_color_setter.html&#10;bottom&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html" />
+    <property name="SearchEverywhereHistoryKey" value="services&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/services&#10;top_s&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;bottom_scr&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html&#10;cross_&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;javascript&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/javascript_drawer.html&#10;call&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/call_back.html&#10;call_back&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/call_back.html&#10;talk&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;post&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/post.html&#10;lets&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/lets_talk.html&#10;navigat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/navigation.html&#10;tdd-sim&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/tdd-simplified-in-5-steps.docx&#10;base&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/base.html&#10;default_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_layouts/default_navigation_spacer.html&#10;cross_plat&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/services/cross_platform.html&#10;top_scri&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;top_scr&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/top_scripts.html&#10;bottom_script&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html&#10;home.htm&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/landing/home.html&#10;thanks&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/guides/tdd-simplified-in-5-steps/thanks.html&#10;footer&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/footer.html&#10;menu_na&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/menu_nav_color_setter.html&#10;bottom&#9;FILE&#9;file:///Stuff/Dropbox/1_current/3_logic_room_site/_includes/scripts/bottom_scripts.html" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -323,14 +280,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -387,6 +336,14 @@
       <test-directory />
       <recursive>false</recursive>
       <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -468,14 +425,10 @@
       <workItem from="1505838882414" duration="1990000" />
       <workItem from="1505845233582" duration="345000" />
       <workItem from="1506315147997" duration="298000" />
-      <workItem from="1512407941347" duration="868000" />
-    </task>
-    <task id="LOCAL-00085" summary="added hotjar etc">
-      <created>1500523782424</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1500523782425</updated>
+      <workItem from="1512407941347" duration="1683000" />
+      <workItem from="1516366350936" duration="1336000" />
+      <workItem from="1516370868443" duration="1500000" />
+      <workItem from="1519059913696" duration="1109000" />
     </task>
     <task id="LOCAL-00086" summary="added hotjar etc">
       <created>1500525893266</created>
@@ -813,25 +766,33 @@
       <option name="project" value="LOCAL" />
       <updated>1506315400442</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="added in development page">
+      <created>1512456960177</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1512456960177</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140828000" />
+    <option name="totallyTimeSpent" value="145588000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="28" width="1512" height="780" extended-state="0" />
+    <frame x="190" y="52" width="1530" height="850" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19450034" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3346587" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47031963" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26861313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25562915" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -915,20 +876,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/services/reasons_black.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/react-native-development-reading-berkshire/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/services/web-application-development-reading-berkshire/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -966,13 +913,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1041,13 +981,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1223,31 +1156,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-135">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/landing/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="28" column="75" lean-forward="false" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/services/javascript.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/services/javascript_drawer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="44" column="16" lean-forward="false" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1255,6 +1163,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="29" column="110" lean-forward="false" selection-start-line="29" selection-start-column="110" selection-end-line="29" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/services/javascript_drawer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="16" lean-forward="true" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/services/javascript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="123" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-process/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="106" column="34" lean-forward="false" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/landing/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="28" column="44" lean-forward="false" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
