@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/solutions/1_assembly_package_details.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/solutions/1_ignition_package_details.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/solutions/1_rescue_package_details.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/solutions/1_upskill_package_details.pdf" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -220,6 +224,11 @@
               <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
+              <item name="solutions" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -420,14 +429,7 @@
       <workItem from="1519107272531" duration="28000" />
       <workItem from="1522679625026" duration="1261000" />
       <workItem from="1522682111942" duration="19000" />
-      <workItem from="1522682608533" duration="189000" />
-    </task>
-    <task id="LOCAL-00088" summary="added hotjar etc">
-      <created>1500529842884</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1500529842885</updated>
+      <workItem from="1522682608533" duration="201000" />
     </task>
     <task id="LOCAL-00089" summary="added hotjar etc">
       <created>1500530429835</created>
@@ -765,11 +767,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522681358713</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="added in development page">
+      <created>1522682798223</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1522682798224</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147805000" />
+    <option name="totallyTimeSpent" value="147817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="51" width="1351" height="742" extended-state="0" />
