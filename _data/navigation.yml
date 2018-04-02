@@ -2,6 +2,10 @@
   url: 'services/'
   path: '/services/'
 
+- text: solutions
+  url: 'solutions/'
+  path: '/solutions/'
+
 - text: past projects
   url: '#projects'
   path: '/'
