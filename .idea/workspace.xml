@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2ea71d9b-5ff6-4414-a695-561cc23bbfb6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
-      <change beforePath="$PROJECT_DIR$/_includes/services/cross_platform.html" afterPath="$PROJECT_DIR$/_includes/services/cross_platform.html" />
-      <change beforePath="$PROJECT_DIR$/solutions/index.html" afterPath="$PROJECT_DIR$/solutions/index.html" />
+      <change beforePath="$PROJECT_DIR$/solutions/1_rescue_package_details.pdf" afterPath="$PROJECT_DIR$/solutions/1_rescue_package_details.pdf" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,12 +22,12 @@
     <favorites_list name="site" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/solutions/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="117" lean-forward="false" selection-start-line="18" selection-start-column="117" selection-end-line="18" selection-end-column="117" />
+            <state relative-caret-position="40">
+              <caret line="64" column="151" lean-forward="false" selection-start-line="64" selection-start-column="151" selection-end-line="64" selection-end-column="151" />
               <folding>
                 <element signature="n#form#0;n#div#0;n#section#0;n#!!top" expanded="false" />
               </folding>
@@ -37,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cross_platform.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cross_platform.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/services/cross_platform.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -169,8 +167,8 @@
         <option value="$PROJECT_DIR$/_data/settings.yml" />
         <option value="$PROJECT_DIR$/about-us/index.html" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
-        <option value="$PROJECT_DIR$/solutions/index.html" />
         <option value="$PROJECT_DIR$/_includes/services/cross_platform.html" />
+        <option value="$PROJECT_DIR$/solutions/index.html" />
       </list>
     </option>
   </component>
@@ -187,7 +185,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="x" value="20" />
     <option name="y" value="51" />
     <option name="width" value="1351" />
@@ -237,6 +235,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
+              <item name="solutions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -249,17 +263,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="3_logic_room_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3_logic_room_site" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,19 +279,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/_includes/services" />
-      <recent name="$PROJECT_DIR$/services" />
-      <recent name="$PROJECT_DIR$/services/javascript-development-reading-berkshire" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/solutions" />
       <recent name="$PROJECT_DIR$/_posts/build-web-application-agile-techniques/images" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/_posts/choose-features-new-web-application-or-mobile-app-mvp/images" />
       <recent name="$PROJECT_DIR$/_posts/should-you-build-a-hybrid-mobile-app/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/solutions" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/_includes/services" />
+      <recent name="$PROJECT_DIR$/services" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -456,21 +459,8 @@
       <workItem from="1519107272531" duration="28000" />
       <workItem from="1522679625026" duration="1261000" />
       <workItem from="1522682111942" duration="19000" />
-      <workItem from="1522682608533" duration="2107000" />
-    </task>
-    <task id="LOCAL-00095" summary="added react pages in">
-      <created>1501051743413</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1501051743413</updated>
-    </task>
-    <task id="LOCAL-00096" summary="added react pages in">
-      <created>1501051866566</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1501051866566</updated>
+      <workItem from="1522682608533" duration="2843000" />
+      <workItem from="1522730129925" duration="435000" />
     </task>
     <task id="LOCAL-00097" summary="added react pages in">
       <created>1501051880946</created>
@@ -801,32 +791,46 @@
       <option name="project" value="LOCAL" />
       <updated>1522683326715</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="added services">
+      <created>1522684754532</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1522684754532</updated>
+    </task>
+    <task id="LOCAL-00145" summary="added services">
+      <created>1522730267191</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1522730267192</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149723000" />
+    <option name="totallyTimeSpent" value="150894000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="20" y="51" width="1351" height="742" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28118393" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3037594" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47031963" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12817413" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30293664" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -873,7 +877,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="added live issue" />
     <MESSAGE value="fixed services" />
     <MESSAGE value="home page" />
     <MESSAGE value="testimonials" />
@@ -898,7 +901,8 @@
     <MESSAGE value="added agile content in" />
     <MESSAGE value="removed this weeks blog" />
     <MESSAGE value="added in development page" />
-    <option name="LAST_COMMIT_MESSAGE" value="added in development page" />
+    <MESSAGE value="added services" />
+    <option name="LAST_COMMIT_MESSAGE" value="added services" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1159,7 +1163,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1183,7 +1186,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1191,7 +1193,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1199,7 +1200,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1207,7 +1207,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1215,7 +1214,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1223,7 +1221,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1231,7 +1228,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1243,21 +1239,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="117" lean-forward="false" selection-start-line="18" selection-start-column="117" selection-end-line="18" selection-end-column="117" />
-          <folding>
-            <element signature="n#form#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/services/cross_platform.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="64" column="151" lean-forward="false" selection-start-line="64" selection-start-column="151" selection-end-line="64" selection-end-column="151" />
+          <folding>
+            <element signature="n#form#0;n#div#0;n#section#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
